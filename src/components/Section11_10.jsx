@@ -19,7 +19,7 @@ export default function Section11_10() {
               />
             </div>
             <div className="rt-marquee-text-wrapper">
-              <div className="rt-marquee-text-style">Advanced healing</div>
+              <div className="rt-marquee-text-style">Smart Follow-ups</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
               <img
@@ -31,7 +31,7 @@ export default function Section11_10() {
               />
             </div>
             <div className="rt-marquee-text-wrapper">
-              <div className="rt-marquee-text-style">Compassionate care</div>
+              <div className="rt-marquee-text-style">Clinic Efficiency</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
               <img
@@ -43,7 +43,7 @@ export default function Section11_10() {
               />
             </div>
             <div className="rt-marquee-text-wrapper rt-two">
-              <div className="rt-marquee-text-style">Health checkups</div>
+              <div className="rt-marquee-text-style">Patient Retention</div>
             </div>
           </div>
           <div className="w-layout-hflex rt-marquee-train">
@@ -57,7 +57,7 @@ export default function Section11_10() {
               />
             </div>
             <div className="rt-marquee-text-wrapper">
-              <div className="rt-marquee-text-style">Advanced healing</div>
+              <div className="rt-marquee-text-style">Smart Follow-ups</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
               <img
@@ -69,7 +69,7 @@ export default function Section11_10() {
               />
             </div>
             <div className="rt-marquee-text-wrapper">
-              <div className="rt-marquee-text-style">Compassionate care</div>
+              <div className="rt-marquee-text-style">Clinic Efficiency</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
               <img
@@ -81,7 +81,7 @@ export default function Section11_10() {
               />
             </div>
             <div className="rt-marquee-text-wrapper rt-two">
-              <div className="rt-marquee-text-style">Health checkups</div>
+              <div className="rt-marquee-text-style">Patient Retention</div>
             </div>
           </div>
           <div className="w-layout-hflex rt-marquee-train">
@@ -95,7 +95,7 @@ export default function Section11_10() {
               />
             </div>
             <div className="rt-marquee-text-wrapper">
-              <div className="rt-marquee-text-style">Advanced healing</div>
+              <div className="rt-marquee-text-style">Smart Follow-ups</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
               <img
@@ -107,7 +107,7 @@ export default function Section11_10() {
               />
             </div>
             <div className="rt-marquee-text-wrapper">
-              <div className="rt-marquee-text-style">Compassionate care</div>
+              <div className="rt-marquee-text-style">Clinic Efficiency</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
               <img
@@ -119,7 +119,7 @@ export default function Section11_10() {
               />
             </div>
             <div className="rt-marquee-text-wrapper rt-two">
-              <div className="rt-marquee-text-style">Health checkups</div>
+              <div className="rt-marquee-text-style">Patient Retention</div>
             </div>
           </div>
         </div>

@@ -9,14 +9,13 @@ export default function Section7_6() {
       <section className="rt-video-section">
         <div className="w-layout-vflex rt-video-main-wrapper rt-overflow-hidden">
           <div className="w-layout-vflex rt-video-top-content rt-top-content-gap">
-            <div className="rt-sub-text rt-small-tag-gap">Who we are</div>
+            <div className="rt-sub-text rt-small-tag-gap">Why Patients Don’t Return</div>
             <div
               data-w-id="8def050e-7928-92cc-152a-91584c6043e8"
               className="rt-position-relative rt-overflow-hidden rt-top-title-gap"
             >
               <h2 className="rt-gap-off">
-                Reduced patient wait times by 18% and increased care capacity
-                without hiring additional staff
+                Most Patients Never Complete Their Treatment Journey
               </h2>
               <div className="rt-absolute-strech rt-event-none rt-tab-none">
                 <div className="rt-text-overlay rt-overlay-1" />
@@ -31,9 +30,9 @@ export default function Section7_6() {
               className="rt-button rt-overflow-hidden w-inline-block"
             >
               <div className="w-layout-hflex rt-text-button-wrapper rt-button-text">
-                <div className="rt-text-color-white rt-1">Discover more</div>
+                <div className="rt-text-color-white rt-1">See How MONAVI Helps</div>
                 <div className="rt-text-color-white rt-change-text rt-2">
-                  Discover more
+                  See How MONAVI Helps
                 </div>
               </div>
               <div className="rt-button-overlay" />

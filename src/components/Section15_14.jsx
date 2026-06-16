@@ -12,7 +12,7 @@ export default function Section15_14() {
                 style={{ opacity: 0 }}
                 className="rt-sub-text rt-small-tag-gap"
               >
-                Our blogs
+                Our Blog
               </div>
               <h2
                 data-w-id="79f09bb2-8c5e-a009-3d01-064d9381fc04"

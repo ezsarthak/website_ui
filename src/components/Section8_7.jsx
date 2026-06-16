@@ -16,7 +16,7 @@ export default function Section8_7() {
                   style={{ opacity: 0 }}
                   className="rt-sub-text rt-small-tag-gap"
                 >
-                  Who we are
+                  Built For Reception Teams
                 </div>
                 <div
                   data-w-id="73150da6-aa8d-117d-6b8f-78db7fc31a27"
@@ -27,8 +27,8 @@ export default function Section8_7() {
                     style={{ opacity: 0 }}
                     className="rt-gap-off"
                   >
-                    Reduced patient wait times by 18% and increased care
-                    capacity without hiring additional staff
+                     Most clinic software is designed for doctors. <span className="brand-highlight">MONAVI</span> is designed
+                    for the entire clinic workflow.
                   </h2>
                   <div className="rt-absolute-strech rt-event-none rt-tab-none">
                     <div className="rt-text-overlay rt-overlay-1" />
@@ -47,12 +47,12 @@ export default function Section8_7() {
                     className="rt-button rt-overflow-hidden w-inline-block"
                   >
                     <div className="w-layout-hflex rt-text-button-wrapper rt-button-text">
-                      <div className="rt-text-color-white rt-1">
-                        Discover more
-                      </div>
-                      <div className="rt-text-color-white rt-change-text rt-2">
-                        Discover more
-                      </div>
+                       <div className="rt-text-color-white rt-1">
+                        Book Demo
+                       </div>
+                       <div className="rt-text-color-white rt-change-text rt-2">
+                         Book Demo
+                       </div>
                     </div>
                     <div className="rt-button-overlay" />
                   </a>

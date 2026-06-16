@@ -23,16 +23,16 @@ export default function AboutSection_1() {
                 style={{ opacity: 0 }}
                 className="rt-sub-text rt-small-tag-gap"
               >
-                The Clinic Problem
+                The Problem
               </div>
               <div
                 data-w-id="8014a8ff-212a-cf09-53ad-1c26c56f7bf9"
                 style={{ opacity: 0 }}
                 className="rt-about-us-description-box rt-about-us-description-box-gap rt-text-style-h5"
               >
-                Most clinics struggle with missed follow-ups, manual tracking,
-                and endless reception calls. Patients drop off, and doctors lose
-                continuity.
+                Running a clinic shouldn’t be this difficult. Missed follow-ups,
+                reception overload, and manual tracking drain every clinic
+                every single day.
               </div>
               <div
                 data-w-id="d2531e30-9920-38d5-39e1-8d531f1ebace"
@@ -112,7 +112,7 @@ export default function AboutSection_1() {
                       style={{ color: "rgb(76,95,114)" }}
                       className="rt-button-text-style"
                     >
-                      Reception overload & calls
+                      Reception overload & phone calls
                     </div>
                   </div>
                   <div
@@ -226,7 +226,7 @@ export default function AboutSection_1() {
                   className="rt-text-color-ocean-blue"
                 >
                   Stop losing patients after their first visit. Build a
-                  sustainable clinic.
+                  sustainable clinic with <span className="brand-highlight">MONAVI</span>.
                 </div>
               </div>
             </div>

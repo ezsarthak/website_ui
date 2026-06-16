@@ -18,10 +18,10 @@ export default function Footer() {
                   hello@monavi.in
                 </a>
                 <a
-                  href="tel:8884567890"
+                  href="https://wa.me/919999999999"
                   className="rt-link-decor-off rt-text-style-h5 rt-footer-link-text-color"
                 >
-                  (888) 456 - 7890
+                  WhatsApp Us
                 </a>
               </div>
             </div>
@@ -38,10 +38,10 @@ export default function Footer() {
                     hello@monavi.in
                   </a>
                   <a
-                    href="tel:8884567890"
+                    href="https://wa.me/919999999999"
                     className="rt-link-decor-off rt-text-style-h5 rt-text-color-white"
                   >
-                    (888) 456 7890
+                    WhatsApp Us
                   </a>
                 </div>
               </div>
@@ -61,13 +61,44 @@ export default function Footer() {
                     href="/about"
                     className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
                   >
-                    About
+                    About Us
                   </a>
                   <a
-                    href="/pricing"
+                    href="/for-clinics"
                     className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
                   >
-                    Pricing
+                    For Clinics
+                  </a>
+                  <a
+                    href="/for-doctors"
+                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
+                  >
+                    For Doctors
+                  </a>
+                  <a
+                    href="/for-patients"
+                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
+                  >
+                    For Patients
+                  </a>
+                </div>
+              </div>
+              <div className="w-layout-vflex rt-footer-link-wrapper rt-max-width-decrease">
+                <div className="rt-text-style-h6 rt-text-color-soft-ash rt-footer-title-gap">
+                  More
+                </div>
+                <div className="w-layout-vflex rt-footer-link rt-footer-link-gap">
+                  <a
+                    href="/pilot-program"
+                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
+                  >
+                    Pilot Program
+                  </a>
+                  <a
+                    href="/blog-one"
+                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
+                  >
+                    Blog
                   </a>
                   <a
                     href="/contact"
@@ -77,34 +108,9 @@ export default function Footer() {
                   </a>
                 </div>
               </div>
-              <div className="w-layout-vflex rt-footer-link-wrapper rt-max-width-decrease">
-                <div className="rt-text-style-h6 rt-text-color-soft-ash rt-footer-title-gap">
-                  Utility pages
-                </div>
-                <div className="w-layout-vflex rt-footer-link rt-footer-link-gap">
-                  <a
-                    href="/changelog"
-                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-                  >
-                    Changelog
-                  </a>
-                  <a
-                    href="/401"
-                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-                  >
-                    Password protected
-                  </a>
-                  <a
-                    href="/404"
-                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-                  >
-                    404
-                  </a>
-                </div>
-              </div>
               <div className="w-layout-vflex rt-footer-link-wrapper">
                 <div className="rt-text-style-h6 rt-text-color-soft-ash rt-footer-title-gap">
-                  Address
+                  Legal
                 </div>
                 <div className="w-layout-vflex rt-footer-link">
                   <div className="rt-text-color-white">
@@ -139,36 +145,21 @@ export default function Footer() {
           </div>
           <div className="w-layout-hflex rt-footer-bottom-wrapper">
             <div className="rt-text-color-white">
-              Designed by{" "}
-              <a
-                href="https://www.radianttemplates.com/"
-                target="_blank"
-                className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-              >
-                Radiant Templates
-              </a>
-              , Powered by{" "}
-              <a
-                href="https://webflow.com"
-                target="_blank"
-                className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-              >
-                Webflow.
-              </a>
+              © 2025 <span className="brand-highlight">MONAVI</span>. All rights reserved.
             </div>
             <div className="rt-text-color-white">
               <a
-                href="/license"
+                href="/privacy-policy"
                 className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
               >
-                License
-              </a>{" "}
-              &nbsp;| &nbsp;
+                Privacy Policy
+              </a>
+              &nbsp;|&nbsp;
               <a
-                href="/style-guide"
+                href="/terms"
                 className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
               >
-                Style-guide
+                Terms &amp; Conditions
               </a>
             </div>
           </div>

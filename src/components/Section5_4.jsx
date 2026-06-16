@@ -19,7 +19,7 @@ export default function Section5_4() {
                   <div className="rt-text-color-white">Clinic name :</div>
                 </div>
                 <div className="rt-clinic-info-inner-right">
-                  <div className="rt-text-color-white">Heltro</div>
+                  <div className="rt-text-color-white"><span className="brand-highlight">MONAVI</span></div>
                 </div>
               </div>
               <div className="w-layout-hflex rt-clinic-info-top">
@@ -37,11 +37,8 @@ export default function Section5_4() {
                   <div className="rt-text-color-white">Support email :</div>
                 </div>
                 <div className="rt-clinic-info-inner-right">
-                  <a
-                    href="mailto:info@example.com"
-                    className="rt-text-color-white"
-                  >
-                    info@example.com
+                  <a href="mailto:hello@monavi.in" className="rt-text-color-white">
+                    hello@monavi.in
                   </a>
                 </div>
               </div>

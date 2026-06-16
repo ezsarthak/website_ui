@@ -11,14 +11,14 @@ export default function Section12_11() {
               style={{ opacity: 0 }}
               className="rt-sub-text rt-small-tag-gap"
             >
-              Our locations
+              Clinics We Serve
             </div>
             <h2
               data-w-id="83d24b3a-9796-0b58-41d9-f489e8368131"
               style={{ opacity: 0 }}
               className="rt-gap-off"
             >
-              Trusted healthcare centers in your community
+              Pilot Partner Clinics Across India
             </h2>
           </div>
           <div
@@ -35,7 +35,7 @@ export default function Section12_11() {
                 style={{ opacity: 0 }}
                 className="rt-tab-link w-inline-block w-tab-link w--current"
               >
-                <div>London</div>
+                <div>Mumbai</div>
               </a>
               <a
                 data-w-tab="Tab 2"
@@ -43,7 +43,7 @@ export default function Section12_11() {
                 style={{ opacity: 0 }}
                 className="rt-tab-link w-inline-block w-tab-link"
               >
-                <div>Berlin</div>
+                <div>Delhi</div>
               </a>
               <a
                 data-w-tab="Tab 3"
@@ -51,7 +51,7 @@ export default function Section12_11() {
                 style={{ opacity: 0 }}
                 className="rt-tab-link w-inline-block w-tab-link"
               >
-                <div>Singapore</div>
+                <div>Bangalore</div>
               </a>
               <a
                 data-w-tab="Tab 4"
@@ -59,7 +59,7 @@ export default function Section12_11() {
                 style={{ opacity: 0 }}
                 className="rt-tab-link w-inline-block w-tab-link"
               >
-                <div>Vienna</div>
+                <div>Chennai</div>
               </a>
             </div>
             <div className="rt-tabs-content w-tab-content">
@@ -99,7 +99,7 @@ export default function Section12_11() {
                               Address
                             </div>
                             <div className="rt-text-style-h6">
-                              410 Sandtown, California 94001,USA
+                              Andheri West, Mumbai 400058, India
                             </div>
                           </div>
                         </div>
@@ -118,10 +118,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -163,7 +163,7 @@ export default function Section12_11() {
                               Address
                             </div>
                             <div className="rt-text-style-h6">
-                              540 Hillcrest Drive, Dallas, Texas 75201, USA
+                              Connaught Place, New Delhi 110001, India
                             </div>
                           </div>
                         </div>
@@ -182,10 +182,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -225,7 +225,7 @@ export default function Section12_11() {
                           <div className="w-layout-vflex rt-adress-text">
                             <div className="rt-body-font">Address</div>
                             <div className="rt-text-style-h6">
-                              88 River Road, Chicago, Illinois 60601, USA
+                              Indiranagar, Bangalore 560038, India
                             </div>
                           </div>
                         </div>
@@ -244,10 +244,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -308,10 +308,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -373,10 +373,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -435,10 +435,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -495,10 +495,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -557,10 +557,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -622,10 +622,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -684,10 +684,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -744,10 +744,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -806,10 +806,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -871,10 +871,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -933,10 +933,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -993,10 +993,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -1055,10 +1055,10 @@ export default function Section12_11() {
                               Contact us
                             </div>
                             <a
-                              href="mailto:info@example.com"
+                              href="mailto:hello@monavi.in"
                               className="rt-text-style-h6 rt-link-decor-off rt-body-font-color"
                             >
-                              info@example.com
+                              hello@monavi.in
                             </a>
                           </div>
                         </div>
@@ -1074,3 +1074,5 @@ export default function Section12_11() {
     </section>
   );
 }
+
+
