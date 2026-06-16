@@ -16,7 +16,7 @@ export default function SpecialistsSection3() {
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
                     className="rt-team-member-iamge"
-                    src="/cdn-images/696f3fadf343717fcadd620a_69899caf96d02ec3155adeef_woman-doctor-wearing-lab-coat.webp"
+                    src="/assets/696f3fadf343717fcadd620a_69899caf96d02ec3155adeef_woman-doctor-wearing-lab-coat.webp"
                     width={427}
                     height={522}
                     alt="Sarah Jenkins"
@@ -44,7 +44,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="/cdn-images/696f3fadf343717fcadd620a_698994e4bc68347eaeba3812_pexels-gustavo-fring-5934411_201_20_1_.avif"
+                    src="/assets/696f3fadf343717fcadd620a_698994e4bc68347eaeba3812_pexels-gustavo-fring-5934411_201_20_1_.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -70,7 +70,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="/cdn-images/696f3fadf343717fcadd620a_6989958fe9230ece007d59ee_kdfbhjs.avif"
+                    src="/assets/696f3fadf343717fcadd620a_6989958fe9230ece007d59ee_kdfbhjs.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -98,7 +98,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="/cdn-images/696f3fadf343717fcadd620a_6989961deafb5b39826afbbf_Professional_20Portrait_201_20_2_.avif"
+                    src="/assets/696f3fadf343717fcadd620a_6989961deafb5b39826afbbf_Professional_20Portrait_201_20_2_.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -126,7 +126,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="/cdn-images/696f3fadf343717fcadd620a_6989966c266678e939b8a7df_Medical_20Professional_20Portrait_20_2__201.avif"
+                    src="/assets/696f3fadf343717fcadd620a_6989966c266678e939b8a7df_Medical_20Professional_20Portrait_20_2__201.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -154,7 +154,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="/cdn-images/696f3fadf343717fcadd620a_6989975c56f5db37da6c7aca_professional-portrait-hp1z0fhgaif_20_1_.avif"
+                    src="/assets/696f3fadf343717fcadd620a_6989975c56f5db37da6c7aca_professional-portrait-hp1z0fhgaif_20_1_.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -180,7 +180,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="/cdn-images/696f3fadf343717fcadd620a_69899786ac95f67f6e1065f5_Medical_20Professional_20Portrait_201_20_1_.avif"
+                    src="/assets/696f3fadf343717fcadd620a_69899786ac95f67f6e1065f5_Medical_20Professional_20Portrait_201_20_1_.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -206,7 +206,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="/cdn-images/696f3fadf343717fcadd620a_698998086400b1ebc398f084_young-doctor-getting-ready-work_201_20_1_.avif"
+                    src="/assets/696f3fadf343717fcadd620a_698998086400b1ebc398f084_young-doctor-getting-ready-work_201_20_1_.avif"
                     loading="lazy"
                     width={427}
                     height={522}

@@ -10,7 +10,7 @@ export default function ChangelogSection2() {
               width={142}
               height={28}
               alt="Brand Logo"
-              src="/cdn-images/696f017270bc35c55e784979_697ae93152c23e69f9cc161e_Brand_20Logo_20_2_.svg"
+              src="/assets/696f017270bc35c55e784979_697ae93152c23e69f9cc161e_Brand_20Logo_20_2_.svg"
               loading="lazy"
             />
           </div>

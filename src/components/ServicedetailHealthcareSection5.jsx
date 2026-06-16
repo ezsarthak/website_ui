@@ -14,7 +14,7 @@ export default function ServicedetailHealthcareSection5() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/cdn-images/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
+                src="/assets/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
                 loading="lazy"
               />
             </div>
@@ -26,7 +26,7 @@ export default function ServicedetailHealthcareSection5() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/cdn-images/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
+                src="/assets/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
                 loading="lazy"
               />
             </div>
@@ -38,7 +38,7 @@ export default function ServicedetailHealthcareSection5() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/cdn-images/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
+                src="/assets/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
                 loading="lazy"
               />
             </div>
@@ -52,7 +52,7 @@ export default function ServicedetailHealthcareSection5() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/cdn-images/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
+                src="/assets/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
                 loading="lazy"
               />
             </div>
@@ -64,7 +64,7 @@ export default function ServicedetailHealthcareSection5() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/cdn-images/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
+                src="/assets/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
                 loading="lazy"
               />
             </div>
@@ -76,7 +76,7 @@ export default function ServicedetailHealthcareSection5() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/cdn-images/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
+                src="/assets/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
                 loading="lazy"
               />
             </div>
@@ -90,7 +90,7 @@ export default function ServicedetailHealthcareSection5() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/cdn-images/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
+                src="/assets/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
                 loading="lazy"
               />
             </div>
@@ -102,7 +102,7 @@ export default function ServicedetailHealthcareSection5() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/cdn-images/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
+                src="/assets/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
                 loading="lazy"
               />
             </div>
@@ -114,7 +114,7 @@ export default function ServicedetailHealthcareSection5() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/cdn-images/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
+                src="/assets/696f017270bc35c55e784979_697064c69b80db74daf1d2fa_Ticker_20Three.svg"
                 loading="lazy"
               />
             </div>

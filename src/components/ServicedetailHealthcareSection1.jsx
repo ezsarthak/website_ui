@@ -34,7 +34,7 @@ export default function ServicedetailHealthcareSection1() {
             className="w-layout-hflex rt-data-banner-image-box rt-border-radius-10 rt-overflow-hidden"
           >
             <img
-              src="/cdn-images/696f017270bc35c55e784979_69aaa6db10fc598ef5f30dfe_Service_20data_20banner.avif"
+              src="/assets/696f017270bc35c55e784979_69aaa6db10fc598ef5f30dfe_Service_20data_20banner.avif"
               loading="lazy"
               alt="Service data banner"
             />

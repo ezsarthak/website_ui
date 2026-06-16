@@ -75,7 +75,7 @@ export default function BlogtwoSection1() {
               >
                 <div className="w-layout-hflex rt-ribon-icon-wrapper">
                   <img
-                    src="/cdn-images/696f017270bc35c55e784979_6989d7eff6731e174bacfd18_Vector_201956.svg"
+                    src="/assets/696f017270bc35c55e784979_6989d7eff6731e174bacfd18_Vector_201956.svg"
                     loading="lazy"
                     alt="Cross icon"
                   />
@@ -83,7 +83,7 @@ export default function BlogtwoSection1() {
               </div>
               <div className="w-layout-vflex rt-blog-twohero-right-image-one-wrapper">
                 <img
-                  src="/cdn-images/696f017270bc35c55e784979_6989d639e38ad24b3433b0a4_Doctor_20Examining_20Child_201.avif"
+                  src="/assets/696f017270bc35c55e784979_6989d639e38ad24b3433b0a4_Doctor_20Examining_20Child_201.avif"
                   loading="lazy"
                   width={302}
                   height={205}
@@ -101,7 +101,7 @@ export default function BlogtwoSection1() {
               >
                 <div className="w-layout-hflex rt-ribon-icon-wrapper">
                   <img
-                    src="/cdn-images/696f017270bc35c55e784979_6989d7eff6731e174bacfd18_Vector_201956.svg"
+                    src="/assets/696f017270bc35c55e784979_6989d7eff6731e174bacfd18_Vector_201956.svg"
                     loading="lazy"
                     alt="Cross icon"
                   />
@@ -109,7 +109,7 @@ export default function BlogtwoSection1() {
               </div>
               <div className="w-layout-vflex rt-blog-twohero-right-image-one-wrapper">
                 <img
-                  src="/cdn-images/696f017270bc35c55e784979_6989d636471507cc3093535f_Dental_20Checkup_20Scene_203.avif"
+                  src="/assets/696f017270bc35c55e784979_6989d636471507cc3093535f_Dental_20Checkup_20Scene_203.avif"
                   loading="lazy"
                   width={302}
                   height={205}

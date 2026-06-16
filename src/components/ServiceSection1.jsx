@@ -11,7 +11,7 @@ export default function ServiceSection1() {
         className="rt-contact-background-image-wrapper"
       >
         <img
-          src="/cdn-images/696f017270bc35c55e784979_698337778e577b294f4d6e16_271ba4d4e5a5d529d38016fdf1d71c48_Service_20Banner_20Background.avif"
+          src="/assets/696f017270bc35c55e784979_698337778e577b294f4d6e16_271ba4d4e5a5d529d38016fdf1d71c48_Service_20Banner_20Background.avif"
           alt="Service Banner Background"
           width={1920}
           height={843}
@@ -83,7 +83,7 @@ export default function ServiceSection1() {
           >
             <div className="w-layout-vflex rt-statisfied-patient-image-wrapper">
               <img
-                src="/cdn-images/696f017270bc35c55e784979_69783fe9e1caad94b13a2f35_Satisfied_20patient.webp"
+                src="/assets/696f017270bc35c55e784979_69783fe9e1caad94b13a2f35_Satisfied_20patient.webp"
                 loading="lazy"
                 width={115}
                 height={35}
@@ -94,7 +94,7 @@ export default function ServiceSection1() {
               <div className="w-layout-hflex rt-hero-star-wrapper">
                 <div>
                   <img
-                    src="/cdn-images/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
+                    src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
                     loading="lazy"
                     width={18}
                     height={17}
@@ -103,7 +103,7 @@ export default function ServiceSection1() {
                 </div>
                 <div>
                   <img
-                    src="/cdn-images/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
+                    src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
                     loading="lazy"
                     width={18}
                     height={17}
@@ -112,7 +112,7 @@ export default function ServiceSection1() {
                 </div>
                 <div>
                   <img
-                    src="/cdn-images/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
+                    src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
                     loading="lazy"
                     width={18}
                     height={17}
@@ -121,7 +121,7 @@ export default function ServiceSection1() {
                 </div>
                 <div>
                   <img
-                    src="/cdn-images/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
+                    src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
                     loading="lazy"
                     width={18}
                     height={17}

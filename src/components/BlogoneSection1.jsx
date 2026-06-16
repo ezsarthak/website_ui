@@ -15,7 +15,7 @@ export default function BlogoneSection1() {
                 <div className="w-layout-hflex rt-satisfy-image-box">
                   <div className="w-layout-hflex rt-ssatisfy-image rt-margin-none">
                     <img
-                      src="/cdn-images/696f017270bc35c55e784979_69afdc8084a7e8db199e08df_Satisfy3.webp"
+                      src="/assets/696f017270bc35c55e784979_69afdc8084a7e8db199e08df_Satisfy3.webp"
                       loading="lazy"
                       width={56}
                       height={25}
@@ -24,7 +24,7 @@ export default function BlogoneSection1() {
                   </div>
                   <div className="w-layout-hflex rt-ssatisfy-image">
                     <img
-                      src="/cdn-images/696f017270bc35c55e784979_69afdc801380d6ea4456bf6a_Satisfy2.webp"
+                      src="/assets/696f017270bc35c55e784979_69afdc801380d6ea4456bf6a_Satisfy2.webp"
                       loading="lazy"
                       width={56}
                       height={25}
@@ -33,7 +33,7 @@ export default function BlogoneSection1() {
                   </div>
                   <div className="w-layout-hflex rt-ssatisfy-image">
                     <img
-                      src="/cdn-images/696f017270bc35c55e784979_69afdc80c78f9353f65477dd_Satisfy.webp"
+                      src="/assets/696f017270bc35c55e784979_69afdc80c78f9353f65477dd_Satisfy.webp"
                       loading="lazy"
                       width={56}
                       height={25}

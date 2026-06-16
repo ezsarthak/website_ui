@@ -12,8 +12,8 @@ export default function AboutSection4() {
             <div className="w-layout-hflex rt-cta-video-main-wrapper">
               <div className="w-layout-hflex rt-cta-outer-video-box">
                 <div
-                  data-poster-url="/cdn-images/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.jpg"
-                  data-video-urls="/cdn-images/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_mp4.mp4_https___cdn.prod.website-files.com_696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_webm.webm"
+                  data-poster-url="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.jpg"
+                  data-video-urls="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_mp4.mp4_https___cdn.prod.website-files.com_696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_webm.webm"
                   data-autoplay="true"
                   data-loop="true"
                   data-wf-ignore="true"
@@ -24,7 +24,7 @@ export default function AboutSection4() {
                     className="rt-lottie-effect"
                     data-w-id="c2c3f714-3e79-4e78-faa3-a30fd4882991"
                     data-animation-type="lottie"
-                    data-src="/cdn-images/696f017270bc35c55e784979_698f2777331ff3b1bd4663b1_FT7jDXnwcw_20_1_.json"
+                    data-src="/assets/696f017270bc35c55e784979_698f2777331ff3b1bd4663b1_FT7jDXnwcw_20_1_.json"
                     data-loop={1}
                     data-direction={1}
                     data-autoplay={1}
@@ -45,7 +45,7 @@ export default function AboutSection4() {
                     {"}"}
                     {"}"}&lt;/style&gt;&lt;img
                     data-wf-bgvideo-fallback-img="true"
-                    src="/cdn-images/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.jpg"
+                    src="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.jpg"
                     alt="image"&gt;
                   </noscript>
                   <div aria-live="polite">
@@ -58,7 +58,7 @@ export default function AboutSection4() {
                       <span className="rt-play-pause">
                         <div className="w-layout-hflex rt-play-pause-inner">
                           <img
-                            src="/cdn-images/696f017270bc35c55e784979_698db2329b0a72e3bad98471_Group_201597885812.svg"
+                            src="/assets/696f017270bc35c55e784979_698db2329b0a72e3bad98471_Group_201597885812.svg"
                             loading="lazy"
                             alt="Pause video"
                             className="rt-video-play-pause-icon"
@@ -70,7 +70,7 @@ export default function AboutSection4() {
                           <img
                             loading="lazy"
                             alt="Play video"
-                            src="/cdn-images/696f017270bc35c55e784979_6981845cf4bb749b1c8a3ace_Expertise_20Video_20Play_20Button.svg"
+                            src="/assets/696f017270bc35c55e784979_6981845cf4bb749b1c8a3ace_Expertise_20Video_20Play_20Button.svg"
                             className="rt-video-play-pause-icon rt-1"
                           />
                         </div>

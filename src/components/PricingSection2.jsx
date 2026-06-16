@@ -48,7 +48,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -78,7 +78,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -108,7 +108,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -138,7 +138,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -168,7 +168,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -239,7 +239,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -269,7 +269,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -299,7 +299,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -329,7 +329,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -359,7 +359,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -433,7 +433,7 @@ export default function PricingSection2() {
               >
                 <div className="w-layout-vflex rt-dot-wrapper">
                   <img
-                    src="/cdn-images/696f017270bc35c55e784979_69831e5c402e347d0cb83bc0_dot.svg"
+                    src="/assets/696f017270bc35c55e784979_69831e5c402e347d0cb83bc0_dot.svg"
                     loading="lazy"
                     alt="image"
                   />
@@ -472,7 +472,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -502,7 +502,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -532,7 +532,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -562,7 +562,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -592,7 +592,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -663,7 +663,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -693,7 +693,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -723,7 +723,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -753,7 +753,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>
@@ -783,7 +783,7 @@ export default function PricingSection2() {
                         width={12}
                         height={12}
                         alt="pulseon leaf icon"
-                        src="/cdn-images/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
+                        src="/assets/696f017270bc35c55e784979_69830bdd12f70215a6c121a5_c226eb93b58c657aba275d20ad1b13d5_pulseon-leaf-icon.svg"
                         loading="lazy"
                       />
                     </div>

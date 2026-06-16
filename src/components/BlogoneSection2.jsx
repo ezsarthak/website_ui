@@ -259,7 +259,7 @@ export default function BlogoneSection2() {
               >
                 <div className="w-layout-vflex">
                   <img
-                    src="/cdn-images/696f017270bc35c55e784979_6980224b3f3c129452af2436_Right_20Arrow.svg"
+                    src="/assets/696f017270bc35c55e784979_6980224b3f3c129452af2436_Right_20Arrow.svg"
                     loading="lazy"
                     alt="image"
                   />

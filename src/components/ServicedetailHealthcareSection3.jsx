@@ -15,7 +15,7 @@ export default function ServicedetailHealthcareSection3() {
               className="rt-service-image-box rt-1"
             >
               <img
-                src="/cdn-images/696f017270bc35c55e784979_69aab947154f197adf1eb83d_Care_20image.avif"
+                src="/assets/696f017270bc35c55e784979_69aab947154f197adf1eb83d_Care_20image.avif"
                 loading="lazy"
                 width={528}
                 height={550}
@@ -27,7 +27,7 @@ export default function ServicedetailHealthcareSection3() {
               className="rt-service-image-box rt-image-absolute rt-2"
             >
               <img
-                src="/cdn-images/696f017270bc35c55e784979_699bd840c3e10b56b7359f15_IMAGE_20_4_.avif"
+                src="/assets/696f017270bc35c55e784979_699bd840c3e10b56b7359f15_IMAGE_20_4_.avif"
                 loading="lazy"
                 width={528}
                 height={550}
@@ -39,7 +39,7 @@ export default function ServicedetailHealthcareSection3() {
               className="rt-service-image-box rt-image-absolute rt-3"
             >
               <img
-                src="/cdn-images/696f017270bc35c55e784979_699bd83f2468f78a4a571a0a_IMAGE_20_5_.avif"
+                src="/assets/696f017270bc35c55e784979_699bd83f2468f78a4a571a0a_IMAGE_20_5_.avif"
                 loading="lazy"
                 width={528}
                 height={550}
@@ -51,7 +51,7 @@ export default function ServicedetailHealthcareSection3() {
               className="rt-service-image-box rt-image-absolute rt-4"
             >
               <img
-                src="/cdn-images/696f017270bc35c55e784979_699bd83eb90ae292cc1a8c9b_IMAGE_20_6_.avif"
+                src="/assets/696f017270bc35c55e784979_699bd83eb90ae292cc1a8c9b_IMAGE_20_6_.avif"
                 loading="lazy"
                 width={528}
                 height={550}

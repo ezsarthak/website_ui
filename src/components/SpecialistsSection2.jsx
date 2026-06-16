@@ -24,7 +24,7 @@ export default function SpecialistsSection2() {
               >
                 <div className="w-layout-vflex rt-pricing-dot-wrapper">
                   <img
-                    src="/cdn-images/696f017270bc35c55e784979_69843c033b43e683d28c0804_dot_20_1_.svg"
+                    src="/assets/696f017270bc35c55e784979_69843c033b43e683d28c0804_dot_20_1_.svg"
                     loading="lazy"
                     width={16}
                     height={16}

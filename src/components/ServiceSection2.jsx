@@ -37,7 +37,7 @@ export default function ServiceSection2() {
                   <div className="w-layout-hflex rt-button-arrow-1-v2">
                     <img
                       loading="lazy"
-                      src="/cdn-images/696f017270bc35c55e784979_6982cc9585d9d14180e08057_Arrow_201_20_1_.svg"
+                      src="/assets/696f017270bc35c55e784979_6982cc9585d9d14180e08057_Arrow_201_20_1_.svg"
                       alt="arrow"
                       className="rt-button-arrow"
                     />
@@ -45,7 +45,7 @@ export default function ServiceSection2() {
                   <div className="w-layout-hflex rt-button-arrow-2-v2">
                     <img
                       loading="lazy"
-                      src="/cdn-images/696f017270bc35c55e784979_6982cc9585d9d14180e08057_Arrow_201_20_1_.svg"
+                      src="/assets/696f017270bc35c55e784979_6982cc9585d9d14180e08057_Arrow_201_20_1_.svg"
                       alt="arrow"
                       className="rt-button-arrow"
                     />
@@ -67,7 +67,7 @@ export default function ServiceSection2() {
                     <div className="w-layout-vflex rt-service-details-content-left rt-mobile-text-center">
                       <div className="w-layout-vflex rt-content-left-icon-wrapper rt-content-left-icon-wrapper-gap">
                         <img
-                          src="/cdn-images/696f017270bc35c55e784979_698c1f6681cba9dd8dddf8d2_Group_201597885279_20_1_.svg"
+                          src="/assets/696f017270bc35c55e784979_698c1f6681cba9dd8dddf8d2_Group_201597885279_20_1_.svg"
                           loading="lazy"
                           width={47}
                           height={47}
@@ -87,7 +87,7 @@ export default function ServiceSection2() {
                         className="w-layout-vflex rt-service-details-content-right rt-border-radius-10"
                       >
                         <img
-                          src="/cdn-images/696f017270bc35c55e784979_698c20f5236d21fa7698ded4_d59b363b88b6acfa69c19e33c61f51a8_physiotherapist-and-patient-exercising.avif"
+                          src="/assets/696f017270bc35c55e784979_698c20f5236d21fa7698ded4_d59b363b88b6acfa69c19e33c61f51a8_physiotherapist-and-patient-exercising.avif"
                           loading="lazy"
                           width={322}
                           height={250}
@@ -117,7 +117,7 @@ export default function ServiceSection2() {
                     <div className="w-layout-vflex rt-service-details-content-left rt-mobile-text-center">
                       <div className="w-layout-vflex rt-content-left-icon-wrapper rt-content-left-icon-wrapper-gap">
                         <img
-                          src="/cdn-images/696f017270bc35c55e784979_698c2d3d8bfb931cd5149dd8_Group_2016.svg"
+                          src="/assets/696f017270bc35c55e784979_698c2d3d8bfb931cd5149dd8_Group_2016.svg"
                           loading="lazy"
                           width={47}
                           height={47}
@@ -137,7 +137,7 @@ export default function ServiceSection2() {
                         className="w-layout-vflex rt-service-details-content-right rt-border-radius-10"
                       >
                         <img
-                          src="/cdn-images/696f017270bc35c55e784979_698c2c7704393b2e9617d673_dentist-holding-dentition-x-ray-scan-comparing-radiography_201.avif"
+                          src="/assets/696f017270bc35c55e784979_698c2c7704393b2e9617d673_dentist-holding-dentition-x-ray-scan-comparing-radiography_201.avif"
                           loading="lazy"
                           width={322}
                           height={250}
@@ -167,7 +167,7 @@ export default function ServiceSection2() {
                     <div className="w-layout-vflex rt-service-details-content-left rt-mobile-text-center">
                       <div className="w-layout-vflex rt-content-left-icon-wrapper rt-content-left-icon-wrapper-gap">
                         <img
-                          src="/cdn-images/696f017270bc35c55e784979_698c2d3a46882970b777cfc7_Group_201597885391.svg"
+                          src="/assets/696f017270bc35c55e784979_698c2d3a46882970b777cfc7_Group_201597885391.svg"
                           loading="lazy"
                           width={47}
                           height={47}
@@ -187,7 +187,7 @@ export default function ServiceSection2() {
                         className="w-layout-vflex rt-service-details-content-right rt-border-radius-10"
                       >
                         <img
-                          src="/cdn-images/696f017270bc35c55e784979_698c2c72680371da71c22d06_a-doctor-talking-the-patient-7579831.avif"
+                          src="/assets/696f017270bc35c55e784979_698c2c72680371da71c22d06_a-doctor-talking-the-patient-7579831.avif"
                           loading="lazy"
                           width={322}
                           height={250}

@@ -73,7 +73,7 @@ export default function LicenseSection2() {
                 width={1600}
                 height={700}
                 alt="Doctor 3"
-                src="/cdn-images/696f017270bc35c55e784979_6995c41caeb3ed0a820d46dd_Frame_201597885991.avif"
+                src="/assets/696f017270bc35c55e784979_6995c41caeb3ed0a820d46dd_Frame_201597885991.avif"
                 loading="lazy"
                 className="rt-border-radius-10 rt-image-position"
               />
@@ -87,7 +87,7 @@ export default function LicenseSection2() {
                 width={936}
                 height={409}
                 alt=" location image nine"
-                src="/cdn-images/696f017270bc35c55e784979_69a1270041be1200a6bc3735_Frame_2038_20_8_.avif"
+                src="/assets/696f017270bc35c55e784979_69a1270041be1200a6bc3735_Frame_2038_20_8_.avif"
                 loading="lazy"
                 className="rt-border-radius-10"
               />
@@ -101,7 +101,7 @@ export default function LicenseSection2() {
                 width={1920}
                 height={1043}
                 alt="Our Service image four"
-                src="/cdn-images/696f017270bc35c55e784979_6997fea2aa6d27b9ba1771e5_IMAGE_20_1_.avif"
+                src="/assets/696f017270bc35c55e784979_6997fea2aa6d27b9ba1771e5_IMAGE_20_1_.avif"
                 loading="lazy"
                 className="rt-border-radius-10"
               />
@@ -168,7 +168,7 @@ export default function LicenseSection2() {
                 width={520}
                 height={555}
                 alt="Team Member Image six"
-                src="/cdn-images/696f017270bc35c55e784979_69980b17d1705a994cbf87b8_Doctor_20six.avif"
+                src="/assets/696f017270bc35c55e784979_69980b17d1705a994cbf87b8_Doctor_20six.avif"
                 loading="lazy"
                 className="rt-border-radius-10 rt-image-position"
               />
@@ -182,7 +182,7 @@ export default function LicenseSection2() {
                 width={675}
                 height={815}
                 alt="Doctor 3"
-                src="/cdn-images/696f017270bc35c55e784979_6995c4222db3589e0ae62f06_Frame_201597885989.avif"
+                src="/assets/696f017270bc35c55e784979_6995c4222db3589e0ae62f06_Frame_201597885989.avif"
                 loading="lazy"
                 className="rt-border-radius-10 rt-image-position"
               />
@@ -196,7 +196,7 @@ export default function LicenseSection2() {
                 width={513}
                 height={633}
                 alt="Team Member Image  three"
-                src="/cdn-images/696f017270bc35c55e784979_69980b150abe7b9dbf4bbac4_Doctor_20three.avif"
+                src="/assets/696f017270bc35c55e784979_69980b150abe7b9dbf4bbac4_Doctor_20three.avif"
                 loading="lazy"
                 className="rt-border-radius-10 rt-image-position"
               />
@@ -249,7 +249,7 @@ export default function LicenseSection2() {
                 width={520}
                 height={555}
                 alt="Yoga Image"
-                src="/cdn-images/696f017270bc35c55e784979_698c6cab60936ed8971b19bd_d1e3647f0c842efeb7f54d91f159520a_Slider_20Four.avif"
+                src="/assets/696f017270bc35c55e784979_698c6cab60936ed8971b19bd_d1e3647f0c842efeb7f54d91f159520a_Slider_20Four.avif"
                 loading="lazy"
                 className="rt-border-radius-10"
               />
@@ -263,7 +263,7 @@ export default function LicenseSection2() {
                 width={514}
                 height={400}
                 alt="tab item one image"
-                src="/cdn-images/696f017270bc35c55e784979_697c313d3b2ebe8836ffe0c0_tab_20item_20one_20image.webp"
+                src="/assets/696f017270bc35c55e784979_697c313d3b2ebe8836ffe0c0_tab_20item_20one_20image.webp"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, 514px"
                 className="rt-border-radius-10"
@@ -278,7 +278,7 @@ export default function LicenseSection2() {
                 width={514}
                 height={400}
                 alt="Tab Item two Image"
-                src="/cdn-images/696f017270bc35c55e784979_697c4707706bf69a10aea45e_Tab_20Item_20two_20Image.webp"
+                src="/assets/696f017270bc35c55e784979_697c4707706bf69a10aea45e_Tab_20Item_20two_20Image.webp"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, 514px"
                 className="rt-border-radius-10"
@@ -465,7 +465,7 @@ export default function LicenseSection2() {
                 width={520}
                 height={555}
                 alt="Heltro-service-card"
-                src="/cdn-images/696f017270bc35c55e784979_69aac3469e3ce9470750b408_Service_20card_202.webp"
+                src="/assets/696f017270bc35c55e784979_69aac3469e3ce9470750b408_Service_20card_202.webp"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, 520px"
                 className="rt-border-radius-10"
@@ -480,7 +480,7 @@ export default function LicenseSection2() {
                 width={514}
                 height={400}
                 alt=" location image five"
-                src="/cdn-images/696f017270bc35c55e784979_69a1272a72a05eb91db7d8aa_Frame_2038_20_4_.avif"
+                src="/assets/696f017270bc35c55e784979_69a1272a72a05eb91db7d8aa_Frame_2038_20_4_.avif"
                 loading="lazy"
                 className="rt-border-radius-10"
               />
@@ -494,7 +494,7 @@ export default function LicenseSection2() {
                 width={514}
                 height={400}
                 alt="Our Care Background Photo"
-                src="/cdn-images/696f017270bc35c55e784979_6972f19bd5b572a38f4173c7_Our_20Care_20Background_20Photo.avif"
+                src="/assets/696f017270bc35c55e784979_6972f19bd5b572a38f4173c7_Our_20Care_20Background_20Photo.avif"
                 loading="lazy"
                 className="rt-border-radius-10"
               />

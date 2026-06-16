@@ -40,7 +40,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-                    src="/cdn-images/696f017270bc35c55e784979_698c6cab60936ed8971b19b8_20665f37ec0b760eb82aebcf3b7be140_Slider_20Five.avif"
+                    src="/assets/696f017270bc35c55e784979_698c6cab60936ed8971b19b8_20665f37ec0b760eb82aebcf3b7be140_Slider_20Five.avif"
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -72,7 +72,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-                    src="/cdn-images/696f017270bc35c55e784979_698c6cab60936ed8971b19c7_1df29b15209b6a13610a59459df78dcb_Slider_20Three.avif"
+                    src="/assets/696f017270bc35c55e784979_698c6cab60936ed8971b19c7_1df29b15209b6a13610a59459df78dcb_Slider_20Three.avif"
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -104,7 +104,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-                    src="/cdn-images/696f017270bc35c55e784979_698c6cab60936ed8971b19bd_d1e3647f0c842efeb7f54d91f159520a_Slider_20Four.avif"
+                    src="/assets/696f017270bc35c55e784979_698c6cab60936ed8971b19bd_d1e3647f0c842efeb7f54d91f159520a_Slider_20Four.avif"
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -136,7 +136,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-                    src="/cdn-images/696f017270bc35c55e784979_698c6cab60936ed8971b19c2_2af7d7f64b037d53d8d6cfaf2a7a5648_Slider_20one.avif"
+                    src="/assets/696f017270bc35c55e784979_698c6cab60936ed8971b19c2_2af7d7f64b037d53d8d6cfaf2a7a5648_Slider_20one.avif"
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -168,7 +168,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-                    src="/cdn-images/696f017270bc35c55e784979_698c6cab60936ed8971b19cc_07b9e4304ccc2c919762b4dba6e5b2e7_Slider_20Two.avif"
+                    src="/assets/696f017270bc35c55e784979_698c6cab60936ed8971b19cc_07b9e4304ccc2c919762b4dba6e5b2e7_Slider_20Two.avif"
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div

@@ -21,7 +21,7 @@ export default function SpecialistLarkinjomesSection5() {
                       width={62}
                       height={66}
                       alt="Customer 1"
-                      src="/cdn-images/696f017270bc35c55e784979_6994331894c0b104338cd400_pexels-pavel-danilyuk-6193195_201_20_1_.avif"
+                      src="/assets/696f017270bc35c55e784979_6994331894c0b104338cd400_pexels-pavel-danilyuk-6193195_201_20_1_.avif"
                       loading="lazy"
                     />
                   </div>
@@ -30,7 +30,7 @@ export default function SpecialistLarkinjomesSection5() {
                       width={26}
                       height={20}
                       alt="Comma Icon"
-                      src="/cdn-images/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
+                      src="/assets/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
                       loading="lazy"
                     />
                   </div>
@@ -46,7 +46,7 @@ export default function SpecialistLarkinjomesSection5() {
                         width={93}
                         height={19}
                         alt="Star"
-                        src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
+                        src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
                         loading="lazy"
                       />
                     </div>
@@ -75,7 +75,7 @@ export default function SpecialistLarkinjomesSection5() {
                       width={62}
                       height={66}
                       alt="Customer 1"
-                      src="/cdn-images/696f017270bc35c55e784979_6994331894c0b104338cd400_pexels-pavel-danilyuk-6193195_201_20_1_.avif"
+                      src="/assets/696f017270bc35c55e784979_6994331894c0b104338cd400_pexels-pavel-danilyuk-6193195_201_20_1_.avif"
                       loading="lazy"
                     />
                   </div>
@@ -84,7 +84,7 @@ export default function SpecialistLarkinjomesSection5() {
                       width={26}
                       height={20}
                       alt="Comma Icon"
-                      src="/cdn-images/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
+                      src="/assets/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
                       loading="lazy"
                     />
                   </div>
@@ -102,7 +102,7 @@ export default function SpecialistLarkinjomesSection5() {
                         width={93}
                         height={19}
                         alt="Star"
-                        src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
+                        src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
                         loading="lazy"
                       />
                     </div>
@@ -121,7 +121,7 @@ export default function SpecialistLarkinjomesSection5() {
                       width={62}
                       height={66}
                       alt="Zendro-nalysis-user"
-                      src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846c_ca824381edbdd18f89d668e96ac36c66_zendro-nalysis-user.avif"
+                      src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846c_ca824381edbdd18f89d668e96ac36c66_zendro-nalysis-user.avif"
                       loading="lazy"
                     />
                   </div>
@@ -130,7 +130,7 @@ export default function SpecialistLarkinjomesSection5() {
                       width={26}
                       height={20}
                       alt="Comma Icon"
-                      src="/cdn-images/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
+                      src="/assets/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
                       loading="lazy"
                     />
                   </div>
@@ -148,7 +148,7 @@ export default function SpecialistLarkinjomesSection5() {
                         width={93}
                         height={19}
                         alt="Star"
-                        src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
+                        src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
                         loading="lazy"
                       />
                     </div>
@@ -167,7 +167,7 @@ export default function SpecialistLarkinjomesSection5() {
                       width={62}
                       height={66}
                       alt="Customer 2"
-                      src="/cdn-images/696f017270bc35c55e784979_69943312f876e11062fd16c3_pexels-kampus-6829575_201.avif"
+                      src="/assets/696f017270bc35c55e784979_69943312f876e11062fd16c3_pexels-kampus-6829575_201.avif"
                       loading="lazy"
                     />
                   </div>
@@ -176,7 +176,7 @@ export default function SpecialistLarkinjomesSection5() {
                       width={26}
                       height={20}
                       alt="Comma Icon"
-                      src="/cdn-images/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
+                      src="/assets/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
                       loading="lazy"
                     />
                   </div>
@@ -192,7 +192,7 @@ export default function SpecialistLarkinjomesSection5() {
                         width={93}
                         height={19}
                         alt="Star"
-                        src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
+                        src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
                         loading="lazy"
                       />
                     </div>
@@ -211,7 +211,7 @@ export default function SpecialistLarkinjomesSection5() {
                       width={62}
                       height={66}
                       alt="Customer 3"
-                      src="/cdn-images/696f017270bc35c55e784979_6994331886903c2d65dd0e5c_pexels-shvets-production-7176029_201.avif"
+                      src="/assets/696f017270bc35c55e784979_6994331886903c2d65dd0e5c_pexels-shvets-production-7176029_201.avif"
                       loading="lazy"
                     />
                   </div>
@@ -220,7 +220,7 @@ export default function SpecialistLarkinjomesSection5() {
                       width={26}
                       height={20}
                       alt="Comma Icon"
-                      src="/cdn-images/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
+                      src="/assets/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
                       loading="lazy"
                     />
                   </div>
@@ -236,7 +236,7 @@ export default function SpecialistLarkinjomesSection5() {
                         width={93}
                         height={19}
                         alt="Star"
-                        src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
+                        src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
                         loading="lazy"
                       />
                     </div>
@@ -270,7 +270,7 @@ export default function SpecialistLarkinjomesSection5() {
                             width={62}
                             height={66}
                             alt="Customer 1"
-                            src="/cdn-images/696f017270bc35c55e784979_6994331894c0b104338cd400_pexels-pavel-danilyuk-6193195_201_20_1_.avif"
+                            src="/assets/696f017270bc35c55e784979_6994331894c0b104338cd400_pexels-pavel-danilyuk-6193195_201_20_1_.avif"
                             loading="lazy"
                           />
                         </div>
@@ -279,7 +279,7 @@ export default function SpecialistLarkinjomesSection5() {
                             width={26}
                             height={20}
                             alt="Comma Icon"
-                            src="/cdn-images/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
+                            src="/assets/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
                             loading="lazy"
                           />
                         </div>
@@ -297,7 +297,7 @@ export default function SpecialistLarkinjomesSection5() {
                               width={93}
                               height={19}
                               alt="Star"
-                              src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
+                              src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
                               loading="lazy"
                             />
                           </div>
@@ -315,7 +315,7 @@ export default function SpecialistLarkinjomesSection5() {
                             width={62}
                             height={66}
                             alt="Zendro-nalysis-user"
-                            src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846c_ca824381edbdd18f89d668e96ac36c66_zendro-nalysis-user.avif"
+                            src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846c_ca824381edbdd18f89d668e96ac36c66_zendro-nalysis-user.avif"
                             loading="lazy"
                           />
                         </div>
@@ -324,7 +324,7 @@ export default function SpecialistLarkinjomesSection5() {
                             width={26}
                             height={20}
                             alt="Comma Icon"
-                            src="/cdn-images/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
+                            src="/assets/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
                             loading="lazy"
                           />
                         </div>
@@ -342,7 +342,7 @@ export default function SpecialistLarkinjomesSection5() {
                               width={93}
                               height={19}
                               alt="Star"
-                              src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
+                              src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
                               loading="lazy"
                             />
                           </div>
@@ -360,7 +360,7 @@ export default function SpecialistLarkinjomesSection5() {
                             width={62}
                             height={66}
                             alt="Customer 2"
-                            src="/cdn-images/696f017270bc35c55e784979_69943312f876e11062fd16c3_pexels-kampus-6829575_201.avif"
+                            src="/assets/696f017270bc35c55e784979_69943312f876e11062fd16c3_pexels-kampus-6829575_201.avif"
                             loading="lazy"
                           />
                         </div>
@@ -369,7 +369,7 @@ export default function SpecialistLarkinjomesSection5() {
                             width={26}
                             height={20}
                             alt="Comma Icon"
-                            src="/cdn-images/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
+                            src="/assets/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
                             loading="lazy"
                           />
                         </div>
@@ -387,7 +387,7 @@ export default function SpecialistLarkinjomesSection5() {
                               width={93}
                               height={19}
                               alt="Star"
-                              src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
+                              src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
                               loading="lazy"
                             />
                           </div>
@@ -405,7 +405,7 @@ export default function SpecialistLarkinjomesSection5() {
                             width={62}
                             height={66}
                             alt="Customer 3"
-                            src="/cdn-images/696f017270bc35c55e784979_6994331886903c2d65dd0e5c_pexels-shvets-production-7176029_201.avif"
+                            src="/assets/696f017270bc35c55e784979_6994331886903c2d65dd0e5c_pexels-shvets-production-7176029_201.avif"
                             loading="lazy"
                           />
                         </div>
@@ -414,7 +414,7 @@ export default function SpecialistLarkinjomesSection5() {
                             width={26}
                             height={20}
                             alt="Comma Icon"
-                            src="/cdn-images/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
+                            src="/assets/696f017270bc35c55e784979_69898999e9230ece007bae8b_Group_201597885434.svg"
                             loading="lazy"
                           />
                         </div>
@@ -434,7 +434,7 @@ export default function SpecialistLarkinjomesSection5() {
                               width={93}
                               height={19}
                               alt="Star"
-                              src="/cdn-images/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
+                              src="/assets/696f017270bc35c55e784979_698573d20da75323e1a1846b_869f0ed98d4ece12a4d8df68ea183d73_Star.svg"
                               loading="lazy"
                             />
                           </div>

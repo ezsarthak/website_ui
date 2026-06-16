@@ -41,8 +41,8 @@ export default function Section7_6() {
           </div>
           <div className="rt-videoback" />
           <div
-            data-poster-url="/cdn-images/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.jpg"
-            data-video-urls="/cdn-images/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_mp4.mp4_https___cdn.prod.website-files.com_696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_webm.webm"
+            data-poster-url="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.jpg"
+            data-video-urls="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_mp4.mp4_https___cdn.prod.website-files.com_696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_webm.webm"
             data-autoplay="true"
             data-loop="true"
             data-wf-ignore="true"
@@ -61,7 +61,7 @@ export default function Section7_6() {
                   height: 100%; width: 100%; object-fit: cover;
                   {"}"}
                   {"}"}&lt;/style&gt;&lt;img data-wf-bgvideo-fallback-img="true"
-                  src="/cdn-images/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.jpg"
+                  src="/assets/696f017270bc35c55e784979_697b204abc8bb232287b0c0e_Doctor_20Checkup_poster.0000000.jpg"
                   alt=""&gt;
                 </noscript>
                 <div aria-live="polite">
@@ -98,7 +98,7 @@ export default function Section7_6() {
                 className="rt-lottie-effect"
                 data-w-id="48df1fcc-9f11-ed94-b1a1-c35d82ed2ef2"
                 data-animation-type="lottie"
-                data-src="/cdn-images/696f017270bc35c55e784979_698f2777331ff3b1bd4663b1_FT7jDXnwcw_20_1_.json"
+                data-src="/assets/696f017270bc35c55e784979_698f2777331ff3b1bd4663b1_FT7jDXnwcw_20_1_.json"
                 data-loop={1}
                 data-direction={1}
                 data-autoplay={1}

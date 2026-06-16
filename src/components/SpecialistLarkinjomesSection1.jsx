@@ -24,7 +24,7 @@ export default function SpecialistLarkinjomesSection1() {
           className="w-layout-hflex rt-appointment-cross-logo"
         >
           <img
-            src="/cdn-images/696f017270bc35c55e784979_69ae77409b027662e6642cf4_Cross_20logo.svg"
+            src="/assets/696f017270bc35c55e784979_69ae77409b027662e6642cf4_Cross_20logo.svg"
             loading="lazy"
             width={49}
             height={49}
