@@ -11,7 +11,7 @@ export default function Section10_9() {
               className="rt-grid-item-one rt-overflow-hidden"
             >
               <img
-                src="/images/monavi/receptionist_using_software_1781317951601.png"
+                src="/monavi/recep.png"
                 loading="lazy"
                 width={850}
                 height={709}

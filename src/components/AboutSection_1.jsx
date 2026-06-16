@@ -7,11 +7,11 @@ export default function AboutSection_1() {
         <div className="w-layout-hflex rt-about-us-main">
           <div className="rt-about-us-left-image-wrapper rt-overflow-hidden">
             <img
-              src="/69731f3c5a796de20f691416_37ffa9b97b54e4e71c3d44545da71afb_About%20Us%20Main%20Photo.avif"
+              src="/monavi/recep.png"
               loading="lazy"
               width={520}
               height={588}
-              alt
+              alt=""
               data-w-id="65c4d507-e12f-8d70-8947-7e782fa84bf0"
               style={{ opacity: 0 }}
             />
@@ -210,7 +210,7 @@ export default function AboutSection_1() {
               <div className="w-layout-vflex rt-about-us-bottom-image-content-wrapper">
                 <div className="rt-overflow-hidden rt-border-radius-10 rt-about-us-image">
                   <img
-                    src="/images/monavi/receptionist_using_software_1781317951601.png"
+                    src="/monavi/patient.png"
                     width={300}
                     height={202}
                     alt="front-view-smiley-doctor"

@@ -1,179 +1,131 @@
+"use client";
 import React from "react";
 
 export default function Footer() {
   return (
-    <section className="rt-footer">
+    <footer className="rt-footer" style={{ padding: '80px 0 30px', backgroundColor: '#0f243b' }}>
       <div className="w-layout-blockcontainer rt-container-medium w-container">
-        <div className="w-layout-vflex rt-footer-main-wrapper">
-          <div className="w-layout-hflex rt-footer-top-wrapper rt-footer-top-gap">
-            <div className="w-layout-vflex rt-footer-top-left-v2 rt-1">
-              <div className="rt-text-style-h6 rt-text-color-soft-ash rt-footer-title-gap">
-                Get in touch
-              </div>
-              <div className="w-layout-vflex rt-footer-link">
-                <a
-                  href="mailto:hello@monavi.in"
-                  className="rt-link-decor-off rt-text-style-h5 rt-footer-link-text-color"
-                >
-                  hello@monavi.in
-                </a>
-                <a
-                  href="tel:8884567890"
-                  className="rt-link-decor-off rt-text-style-h5 rt-footer-link-text-color"
-                >
-                  (888) 456 - 7890
-                </a>
-              </div>
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', gap: '50px', paddingBottom: '50px', borderBottom: '1px solid rgba(255,255,255,0.08)' }}>
+          
+          {/* Column 1: About & Social */}
+          <div style={{ flex: '1 1 350px', display: 'flex', flexDirection: 'column', gap: '24px' }}>
+            <div style={{ 
+              backgroundColor: 'rgba(255, 255, 255, 0.95)', 
+              padding: '10px 24px', 
+              borderRadius: '50px', 
+              display: 'inline-flex', 
+              alignItems: 'center',
+              alignSelf: 'flex-start',
+              boxShadow: '0 8px 32px rgba(0, 210, 173, 0.15)',
+              backdropFilter: 'blur(10px)',
+              border: '1px solid rgba(255,255,255,0.2)'
+            }}>
+              <img
+                style={{ maxHeight: '45px', width: 'auto' }}
+                alt="MONAVI"
+                src="/monavi/monavi_logo.png"
+                loading="lazy"
+              />
+              <img
+                style={{ maxHeight: '28px', width: 'auto', marginLeft: '10px' }}
+                alt="MONAVI NAME"
+                src="/monavi/monavi_name.png"
+                loading="lazy"
+              />
             </div>
-            <div className="w-layout-hflex rt-footer-top-right-wrapper">
-              <div className="w-layout-vflex rt-footer-top-left-v2 rt-2">
-                <div className="rt-text-style-h6 rt-text-color-soft-ash rt-footer-title-gap">
-                  Get in touch
-                </div>
-                <div className="w-layout-vflex rt-footer-link">
-                  <a
-                    href="mailto:hello@monavi.in"
-                    className="rt-link-decor-off rt-text-style-h5 rt-text-color-white"
-                  >
-                    hello@monavi.in
+            <p style={{ color: '#b0b8c1', fontSize: '16px', lineHeight: '1.7', margin: 0, maxWidth: '400px' }}>
+              Revolutionizing healthcare technology with innovative solutions that connect patients, doctors, and healthcare providers seamlessly.
+            </p>
+            <div style={{ marginTop: '10px' }}>
+              <h4 style={{ 
+                color: '#ffffff', 
+                fontSize: '14px', 
+                marginBottom: '16px', 
+                fontWeight: '600',
+                textTransform: 'uppercase',
+                letterSpacing: '1.5px',
+                opacity: 0.9
+              }}>
+                Connect With Us
+              </h4>
+              <div style={{ display: 'flex', gap: '12px' }}>
+                {[
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>,
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg>,
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>,
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3.81l.39-4h-4.2V7a1 1 0 0 1 1-1h3z"></path></svg>
+                ].map((icon, i) => (
+                  <a key={i} href="#" style={{ width: '42px', height: '42px', borderRadius: '50%', backgroundColor: 'rgba(255,255,255,0.08)', display: 'flex', alignItems: 'center', justifyContent: 'center', transition: 'background 0.3s' }}>
+                    {icon}
                   </a>
-                  <a
-                    href="tel:8884567890"
-                    className="rt-link-decor-off rt-text-style-h5 rt-text-color-white"
-                  >
-                    (888) 456 7890
-                  </a>
-                </div>
-              </div>
-              <div className="w-layout-vflex rt-footer-link-wrapper rt-max-width-decrease-v2">
-                <div className="rt-text-style-h6 rt-text-color-soft-ash rt-footer-title-gap">
-                  Main pages
-                </div>
-                <div className="w-layout-vflex rt-footer-link rt-footer-link-gap">
-                  <a
-                    href="/"
-                    aria-current="page"
-                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover w--current"
-                  >
-                    Home
-                  </a>
-                  <a
-                    href="/about"
-                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-                  >
-                    About
-                  </a>
-                  <a
-                    href="/pricing"
-                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-                  >
-                    Pricing
-                  </a>
-                  <a
-                    href="/contact"
-                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-                  >
-                    Contact
-                  </a>
-                </div>
-              </div>
-              <div className="w-layout-vflex rt-footer-link-wrapper rt-max-width-decrease">
-                <div className="rt-text-style-h6 rt-text-color-soft-ash rt-footer-title-gap">
-                  Utility pages
-                </div>
-                <div className="w-layout-vflex rt-footer-link rt-footer-link-gap">
-                  <a
-                    href="/changelog"
-                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-                  >
-                    Changelog
-                  </a>
-                  <a
-                    href="/401"
-                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-                  >
-                    Password protected
-                  </a>
-                  <a
-                    href="/404"
-                    className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-                  >
-                    404
-                  </a>
-                </div>
-              </div>
-              <div className="w-layout-vflex rt-footer-link-wrapper">
-                <div className="rt-text-style-h6 rt-text-color-soft-ash rt-footer-title-gap">
-                  Address
-                </div>
-                <div className="w-layout-vflex rt-footer-link">
-                  <div className="rt-text-color-white">
-                    MonaviOne Technologies Pvt Ltd, India
-                  </div>
-                </div>
+                ))}
               </div>
             </div>
           </div>
-          <div
-            data-w-id="e22294f6-8063-8b01-fc45-cc3c0e6664e0"
-            className="w-layout-hflex rt-footer-medium-wrapper rt-footer-medium-gap rt-event-none"
-          >
-            <div className="rt-font-size-500 rt-text-color-soft-ash rt-1">
-              M
-            </div>
-            <div className="rt-font-size-500 rt-text-color-soft-ash rt-2">
-              O
-            </div>
-            <div className="rt-font-size-500 rt-text-color-soft-ash rt-3">
-              N
-            </div>
-            <div className="rt-font-size-500 rt-text-color-soft-ash rt-4">
-              A
-            </div>
-            <div className="rt-font-size-500 rt-text-color-soft-ash rt-5">
-              V
-            </div>
-            <div className="rt-font-size-500 rt-text-color-soft-ash rt-6">
-              I
-            </div>
+
+          {/* Column 2: Quick Links */}
+          <div style={{ flex: '1 1 150px', display: 'flex', flexDirection: 'column', gap: '20px' }}>
+            <h4 style={{ color: 'white', fontSize: '18px', marginBottom: '4px', fontWeight: 'bold' }}>Quick Links</h4>
+            {[
+              { name: 'Home', path: '/' },
+              { name: 'About Us', path: '/about' },
+              { name: 'Services', path: '/service' },
+              { name: 'Specialists', path: '/specialists' },
+              { name: 'Book Appointment', path: '/appointment-schedule' },
+              { name: 'Contact', path: '/contact' }
+            ].map(link => (
+              <a key={link.name} href={link.path} style={{ color: '#b0b8c1', textDecoration: 'none', fontSize: '16px', transition: 'color 0.3s' }}>{link.name}</a>
+            ))}
           </div>
-          <div className="w-layout-hflex rt-footer-bottom-wrapper">
-            <div className="rt-text-color-white">
-              Designed by{" "}
-              <a
-                href="https://www.radianttemplates.com/"
-                target="_blank"
-                className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-              >
-                Radiant Templates
-              </a>
-              , Powered by{" "}
-              <a
-                href="https://webflow.com"
-                target="_blank"
-                className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-              >
-                Webflow.
-              </a>
+
+          {/* Column 3: Contact Us */}
+          <div style={{ flex: '1 1 250px', display: 'flex', flexDirection: 'column', gap: '20px' }}>
+            <h4 style={{ color: 'white', fontSize: '18px', marginBottom: '4px', fontWeight: 'bold' }}>Contact Us</h4>
+            
+            <div style={{ display: 'flex', gap: '14px', alignItems: 'flex-start' }}>
+              <svg style={{ flexShrink: 0, marginTop: '2px' }} width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00d2ad" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+              <a href="mailto:founder@monavi.in" style={{ color: '#b0b8c1', textDecoration: 'none', fontSize: '16px' }}>founder@monavi.in</a>
             </div>
-            <div className="rt-text-color-white">
-              <a
-                href="/license"
-                className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-              >
-                License
-              </a>{" "}
-              &nbsp;| &nbsp;
-              <a
-                href="/style-guide"
-                className="rt-link-decor-off rt-text-color-white rt-link-text-hover"
-              >
-                Style-guide
-              </a>
+            
+            <div style={{ display: 'flex', gap: '14px', alignItems: 'flex-start' }}>
+              <svg style={{ flexShrink: 0, marginTop: '2px' }} width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00d2ad" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+              <a href="tel:+919269458322" style={{ color: '#b0b8c1', textDecoration: 'none', fontSize: '16px' }}>+91 9269 458 322</a>
+            </div>
+            
+            <div style={{ display: 'flex', gap: '14px', alignItems: 'flex-start' }}>
+              <svg style={{ flexShrink: 0, marginTop: '2px' }} width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00d2ad" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+              <span style={{ color: '#b0b8c1', fontSize: '16px', lineHeight: '1.6' }}>MonaviOne Technologies Pvt Ltd,<br/>India</span>
             </div>
           </div>
         </div>
+        
+        {/* Bottom Bar */}
+        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', paddingTop: '30px', position: 'relative' }}>
+          <p style={{ color: '#7a8898', fontSize: '15px', margin: 0 }}>
+            Made with <span style={{ color: '#ff5a5a' }}>❤️</span> for better healthcare.
+          </p>
+          
+          <button 
+            onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+            style={{ 
+              position: 'absolute', 
+              right: '0', 
+              bottom: '0px',
+              width: '50px', 
+              height: '50px', 
+              borderRadius: '50%', 
+              backgroundColor: '#00d2ad', 
+              border: 'none',
+              cursor: 'pointer',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              boxShadow: '0 4px 12px rgba(0, 210, 173, 0.3)'
+            }}>
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="12" y1="19" x2="12" y2="5"></line><polyline points="5 12 12 5 19 12"></polyline></svg>
+          </button>
+        </div>
       </div>
-    </section>
+    </footer>
   );
 }

@@ -15,18 +15,24 @@ export default function Navbar() {
     >
       <div className="rt-navbar-shadow" />
       <div className="rt-container-extra-large w-container">
-        <div className="w-layout-hflex rt-navbar-wrapper">
-          <div className="w-layout-hflex rt-brand-logo-wrapper">
+        <div className="w-layout-hflex rt-navbar-wrapper" style={{ minHeight: '100px', padding: '10px 0' }}>
+          <div className="w-layout-hflex rt-brand-logo-wrapper" style={{ width: 'auto', minWidth: 'max-content', paddingRight: '20px' }}>
             <a
               href="/"
               aria-current="page"
               className="rt-brand w-nav-brand w--current"
+              style={{ display: 'flex', alignItems: 'center', width: 'auto', minWidth: 'max-content' }}
             >
               <img
-                width={123}
-                height={36}
+                style={{ maxHeight: '56px', width: 'auto' }}
                 alt="MONAVI"
-                src="/fonts/697ae93152c23e69f9cc161e_Brand%20Logo%20%282%29.svg"
+                src="/monavi/monavi_logo.png"
+                loading="lazy"
+              />
+              <img
+                style={{ maxHeight: '36px', width: 'auto', marginLeft: '6px' }}
+                alt="MONAVI NAME"
+                src="/monavi/monavi_name.png"
                 loading="lazy"
               />
             </a>
@@ -34,198 +40,60 @@ export default function Navbar() {
           <nav
             role="navigation"
             className="rt-nav-menu w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77 w-nav-menu"
+            style={{ paddingLeft: '20px', marginLeft: '0px' }}
           >
-            <div className="w-layout-vflex rt-nav-link-main">
-              <div className="w-layout-hflex rt-nav-link-wrapper">
+            <div className="w-layout-vflex rt-nav-link-main" style={{ alignItems: 'center' }}>
+              <div className="w-layout-hflex rt-nav-link-wrapper" style={{ alignItems: 'center', flexWrap: 'wrap', gap: '24px', justifyContent: 'center' }}>
                 <div className="w-layout-hflex rt-nav-link">
-                  <div
-                    data-delay={0}
-                    data-hover="true"
-                    data-w-id="4895d25e-2177-434f-4904-e848d905b31e"
-                    className="rt-drop-down w-dropdown"
-                  >
-                    <div className="rt-drop-drown-toggle w-dropdown-toggle">
-                      <div className="rt-nav-link-text">Home</div>
-                      <div className="w-layout-vflex rt-drop-down-arrow-icon-v3">
-                        <img
-                          width={8}
-                          height={5}
-                          alt
-                          src="/fonts/697854b5ad787f275eee14e5_Down%20Arrow.svg"
-                          loading="lazy"
-                        />
-                      </div>
-                    </div>
-                    <nav className="rt-navigation w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77 w-dropdown-list">
-                      <a
-                        href="/"
-                        aria-current="page"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link w--current"
-                      >
-                        Home one
-                      </a>
-                      <a
-                        href="/home-two"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Home two
-                      </a>
-                      <a
-                        href="/home-three"
-                        className="rt-drop-dwon-nav-link rt-body-font rt-bottom-gap w-dropdown-link"
-                      >
-                        Home three
-                      </a>
-                    </nav>
-                  </div>
+                  <a href="/" className="rt-nav-link-text w-nav-link">
+                    Home
+                  </a>
                 </div>
                 <div className="w-layout-hflex rt-nav-link">
                   <a href="/about" className="rt-nav-link-text w-nav-link">
                     About
                   </a>
                 </div>
-                <div className="w-layout-hflex rt-nav-link">
-                  <div
-                    data-delay={0}
-                    data-hover="true"
-                    data-w-id="4895d25e-2177-434f-4904-e848d905b32f"
-                    className="rt-drop-down w-dropdown"
-                  >
-                    <div className="rt-drop-drown-toggle w-dropdown-toggle">
-                      <div className="rt-nav-link-text">Pages</div>
-                      <div className="w-layout-vflex rt-drop-down-arrow-icon-v3">
-                        <img
-                          width={8}
-                          height={5}
-                          alt
-                          src="/fonts/697854b5ad787f275eee14e5_Down%20Arrow.svg"
-                          loading="lazy"
-                        />
-                      </div>
-                    </div>
-                    <nav className="rt-navigation w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77 w-dropdown-list">
-                      <a
-                        href="/service"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Service
-                      </a>
-                      <a
-                        href="/service-detail/healthcare"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Service detail
-                      </a>
-                      <a
-                        href="/appointment-schedule"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Appointment schedule
-                      </a>
-                      <a
-                        href="/specialists"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Specialists
-                      </a>
-                      <a
-                        href="/specialist/larkin-jomes"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Specialist details
-                      </a>
-                      <a
-                        href="/style-guide"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Style guide
-                      </a>
-                      <a
-                        href="/changelog"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Changelog
-                      </a>
-                      <a
-                        href="/license"
-                        className="rt-drop-dwon-nav-link rt-body-font rt-bottom-gap w-dropdown-link"
-                      >
-                        license
-                      </a>
-                    </nav>
-                  </div>
+                <div className="w-layout-hflex rt-nav-link" style={{ whiteSpace: 'nowrap' }}>
+                  <a href="/service" className="rt-nav-link-text w-nav-link">
+                    Service
+                  </a>
                 </div>
-                <div className="w-layout-hflex rt-nav-link">
-                  <div
-                    data-delay={0}
-                    data-hover="true"
-                    data-w-id="4895d25e-2177-434f-4904-e848d905b33d"
-                    className="rt-drop-down w-dropdown"
-                  >
-                    <div className="rt-drop-drown-toggle rt-dropdown-gap-off w-dropdown-toggle">
-                      <div className="rt-nav-link-text">Blog</div>
-                      <div className="w-layout-vflex rt-drop-down-arrow-icon-v3">
-                        <img
-                          width={8}
-                          height={5}
-                          alt
-                          src="/fonts/697854b5ad787f275eee14e5_Down%20Arrow.svg"
-                          loading="lazy"
-                        />
-                      </div>
-                    </div>
-                    <nav className="rt-navigation w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77 w-dropdown-list">
-                      <a
-                        href="/blog-one"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Blog one
-                      </a>
-                      <a
-                        href="/blog-two"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Blog two
-                      </a>
-                      <a
-                        href="/blog-three"
-                        className="rt-drop-dwon-nav-link rt-body-font rt-bottom-gap w-dropdown-link"
-                      >
-                        Blog three
-                      </a>
-                      <a
-                        href="/blog-post/mind-body-and-wellness-advice-for-everyday-living"
-                        className="rt-drop-dwon-nav-link rt-body-font rt-bottom-gap w-dropdown-link"
-                      >
-                        Blog posts
-                      </a>
-                    </nav>
-                  </div>
+                <div className="w-layout-hflex rt-nav-link" style={{ whiteSpace: 'nowrap' }}>
+                  <a href="/service-detail/healthcare" className="rt-nav-link-text w-nav-link">
+                    Service detail
+                  </a>
+                </div>
+                <div className="w-layout-hflex rt-nav-link" style={{ whiteSpace: 'nowrap' }}>
+                  <a href="/appointment-schedule" className="rt-nav-link-text w-nav-link">
+                    Appointment schedule
+                  </a>
+                </div>
+                <div className="w-layout-hflex rt-nav-link" style={{ whiteSpace: 'nowrap' }}>
+                  <a href="/specialists" className="rt-nav-link-text w-nav-link">
+                    Specialists
+                  </a>
                 </div>
                 <div className="w-layout-hflex rt-nav-link rt-nav-link-last-gap">
                   <a href="/contact" className="rt-nav-link-text w-nav-link">
                     Contact
                   </a>
                 </div>
-                <div className="w-layout-hflex rt-nav-link rt-nav-link-last-gap">
-                  <a href="/pricing" className="rt-nav-link-text w-nav-link">
-                    Pricing
-                  </a>
-                </div>
               </div>
               <div
                 data-w-id="4895d25e-2177-434f-4904-e848d905b34d"
                 className="w-layout-hflex rt-phone"
+                style={{ alignItems: 'center' }}
               >
                 <div className="w-layout-vflex rt-phone-number-wrapper">
                   <div className="rt-secondary-text-color rt-line-height rt-call-me-hover w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77">
                     Contact Sales
                   </div>
                   <a
-                    href="tel:8884567890"
+                    href="tel:+919269458322"
                     className="rt-line-height rt-font-weight-semi-bold rt-call-link w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77"
                   >
-                    +91 800 123 4567
+                    +91 9269458322
                   </a>
                 </div>
                 <div>
@@ -271,7 +139,7 @@ export default function Navbar() {
                         <img
                           width={11}
                           height={16}
-                          alt
+                          alt=""
                           src="/fonts/6985adfaaef9ef7e15b10623_6936a9fdfd2db0b87d8552bd_FB%20logo.svg"
                           loading="lazy"
                         />

@@ -43,7 +43,7 @@ export default function Section13_12() {
                   loading="lazy"
                   width={52}
                   height={51}
-                  alt
+                  alt=""
                 />
               </div>
               <div className="rt-psotion-absolute rt-two">
@@ -52,7 +52,7 @@ export default function Section13_12() {
                   loading="lazy"
                   width={25}
                   height={25}
-                  alt
+                  alt=""
                 />
               </div>
             </div>
@@ -74,7 +74,7 @@ export default function Section13_12() {
                   loading="lazy"
                   width={52}
                   height={51}
-                  alt
+                  alt=""
                 />
               </div>
             </div>
@@ -96,7 +96,7 @@ export default function Section13_12() {
                   loading="lazy"
                   width={25}
                   height={25}
-                  alt
+                  alt=""
                 />
               </div>
             </div>

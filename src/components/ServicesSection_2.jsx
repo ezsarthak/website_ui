@@ -44,7 +44,7 @@ export default function ServicesSection_2() {
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
               <img
-                src="/69a01c728d901b306210183f_Home%20One%20service%20image%20one.avif"
+                src="/monavi/recep_efficiency.png"
                 loading="lazy"
                 width={372}
                 height={514}
@@ -69,7 +69,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -83,7 +83,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -97,7 +97,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -148,7 +148,7 @@ export default function ServicesSection_2() {
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
               <img
-                src="/69a01c79c821a6dda6c62fc2_Home%20One%20service%20image%20two.avif"
+                src="/monavi/followup.png"
                 loading="lazy"
                 width={372}
                 height={514}
@@ -173,7 +173,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -187,7 +187,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -201,7 +201,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -252,7 +252,7 @@ export default function ServicesSection_2() {
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
               <img
-                src="/69a01c78da358ce32a44e096_Home%20One%20service%20image%20three.avif"
+                src="/monavi/doctor_dashboard.jpg"
                 loading="lazy"
                 width={372}
                 height={514}
@@ -277,7 +277,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -291,7 +291,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -305,7 +305,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -368,7 +368,7 @@ export default function ServicesSection_2() {
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
               <img
-                src="/69a01c728d901b306210183f_Home%20One%20service%20image%20one.avif"
+                src="/monavi/recep_efficiency.png"
                 loading="lazy"
                 width={372}
                 height={514}
@@ -393,7 +393,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -407,7 +407,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -421,7 +421,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -472,7 +472,7 @@ export default function ServicesSection_2() {
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
               <img
-                src="/69a01c79c821a6dda6c62fc2_Home%20One%20service%20image%20two.avif"
+                src="/monavi/followup.png"
                 loading="lazy"
                 width={372}
                 height={514}
@@ -497,7 +497,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -511,7 +511,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -525,7 +525,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -576,7 +576,7 @@ export default function ServicesSection_2() {
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
               <img
-                src="/69a01c78da358ce32a44e096_Home%20One%20service%20image%20three.avif"
+                src="/monavi/doctor_dashboard.jpg"
                 loading="lazy"
                 width={372}
                 height={514}
@@ -601,7 +601,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -615,7 +615,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -629,7 +629,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -692,7 +692,7 @@ export default function ServicesSection_2() {
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
               <img
-                src="/69a01c728d901b306210183f_Home%20One%20service%20image%20one.avif"
+                src="/monavi/recep_efficiency.png"
                 loading="lazy"
                 width={372}
                 height={514}
@@ -717,7 +717,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -731,7 +731,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -745,7 +745,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -796,7 +796,7 @@ export default function ServicesSection_2() {
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
               <img
-                src="/69a01c79c821a6dda6c62fc2_Home%20One%20service%20image%20two.avif"
+                src="/monavi/followup.png"
                 loading="lazy"
                 width={372}
                 height={514}
@@ -821,7 +821,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -835,7 +835,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -849,7 +849,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -900,7 +900,7 @@ export default function ServicesSection_2() {
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
               <img
-                src="/69a01c78da358ce32a44e096_Home%20One%20service%20image%20three.avif"
+                src="/monavi/doctor_dashboard.jpg"
                 loading="lazy"
                 width={372}
                 height={514}
@@ -925,7 +925,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -939,7 +939,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">
@@ -953,7 +953,7 @@ export default function ServicesSection_2() {
                         loading="lazy"
                         width={8}
                         height={8}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-secondary-text-color">

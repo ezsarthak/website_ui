@@ -46,7 +46,7 @@ export default function Section9_8() {
                         loading="lazy"
                         width={166}
                         height={1}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-text-style-h6">$49/mo</div>
@@ -79,7 +79,7 @@ export default function Section9_8() {
                         loading="lazy"
                         width={166}
                         height={1}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-text-style-h6">$99/mo</div>
@@ -114,7 +114,7 @@ export default function Section9_8() {
                         loading="lazy"
                         width={166}
                         height={1}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-text-style-h6">$199/mo</div>
@@ -149,7 +149,7 @@ export default function Section9_8() {
                         loading="lazy"
                         width={166}
                         height={1}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-text-style-h6">Custom</div>
@@ -182,7 +182,7 @@ export default function Section9_8() {
                         loading="lazy"
                         width={166}
                         height={1}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-text-style-h6">$29/mo</div>
@@ -215,7 +215,7 @@ export default function Section9_8() {
                         loading="lazy"
                         width={166}
                         height={1}
-                        alt
+                        alt=""
                       />
                     </div>
                     <div className="rt-text-style-h6">$49/mo</div>

@@ -52,7 +52,7 @@ export default function Section15_14() {
                           loading="lazy"
                           width={10}
                           height={11}
-                          alt
+                          alt=""
                         />
                       </div>
                       <div className="rt-secondary-text-color">10 Mar 2026</div>
@@ -97,7 +97,7 @@ export default function Section15_14() {
                           loading="lazy"
                           width={10}
                           height={11}
-                          alt
+                          alt=""
                         />
                       </div>
                       <div className="rt-secondary-text-color">10 Mar 2026</div>
@@ -142,7 +142,7 @@ export default function Section15_14() {
                           loading="lazy"
                           width={10}
                           height={11}
-                          alt
+                          alt=""
                         />
                       </div>
                       <div className="rt-secondary-text-color">10 Mar 2026</div>

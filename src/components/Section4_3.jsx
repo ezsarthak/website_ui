@@ -11,7 +11,7 @@ export default function Section4_3() {
               style={{ opacity: 0 }}
               className="rt-sub-text rt-small-tag-gap"
             >
-              The Benefits
+              Built For
             </div>
             <div
               data-w-id="21d222e7-a15c-dddd-3680-0ddcd249c00f"
@@ -46,92 +46,12 @@ export default function Section4_3() {
                   alt="Health Care"
                 />
               </div>
-              <div
-                data-w-id="36c79145-58aa-54ae-d863-268256a8d063"
-                className="w-layout-hflex rt-counter-wrapper-v1 rt-overflow-hidden rt-counter-wrapper-gap"
-              >
-                <div className="rt-counter-train-holder rt-h1-w-1">
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-1"
-                  >
-                    <div className="rt-text-style-h1">2</div>
-                    <div className="rt-text-style-h1">1</div>
-                  </div>
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-1"
-                  >
-                    <div className="rt-text-style-h1">0</div>
-                    <div className="rt-text-style-h1">1</div>
-                  </div>
-                </div>
-                <div className="rt-counter-train-holder">
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-2"
-                  >
-                    <div className="rt-text-style-h1">0</div>
-                    <div className="rt-text-style-h1">1</div>
-                    <div className="rt-text-style-h1">2</div>
-                    <div className="rt-text-style-h1">3</div>
-                    <div className="rt-text-style-h1">4</div>
-                  </div>
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-2"
-                  >
-                    <div className="rt-text-style-h1">5</div>
-                    <div className="rt-text-style-h1">4</div>
-                    <div className="rt-text-style-h1">3</div>
-                    <div className="rt-text-style-h1">2</div>
-                    <div className="rt-text-style-h1">1</div>
-                  </div>
-                </div>
-                <div className="rt-text-style-h1">+</div>
-              </div>
               <div className="rt-counter-line rt-counter-line-gap" />
               <div className="rt-text-style-h6 rt-counter-title-gap">
-                Zero Patient Drop-off
+                Built For Receptionists
               </div>
               <p className="rt-gap-off rt-secondary-text-color">
-                Keep patients returning for their follow-ups
+                Appointment scheduling, queue management and patient communication.
               </p>
             </div>
             <div
@@ -148,98 +68,12 @@ export default function Section4_3() {
                   alt="Awards"
                 />
               </div>
-              <div
-                data-w-id="44dcd10b-122d-955e-ff8c-1f54b45e48cf"
-                className="w-layout-hflex rt-counter-wrapper-v1 rt-overflow-hidden rt-counter-wrapper-gap"
-              >
-                <div className="rt-counter-train-holder rt-h1-w-1">
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-1"
-                  >
-                    <div className="rt-text-style-h1">8</div>
-                    <div className="rt-text-style-h1">7</div>
-                    <div className="rt-text-style-h1">6</div>
-                    <div className="rt-text-style-h1">3</div>
-                    <div className="rt-text-style-h1">2</div>
-                    <div className="rt-text-style-h1">1</div>
-                  </div>
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-1"
-                  >
-                    <div className="rt-text-style-h1">0</div>
-                    <div className="rt-text-style-h1">1</div>
-                    <div className="rt-text-style-h1">2</div>
-                    <div className="rt-text-style-h1">3</div>
-                    <div className="rt-text-style-h1">4</div>
-                    <div className="rt-text-style-h1">5</div>
-                  </div>
-                </div>
-                <div className="rt-counter-train-holder">
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-2"
-                  >
-                    <div className="rt-text-style-h1">0</div>
-                    <div className="rt-text-style-h1">1</div>
-                    <div className="rt-text-style-h1">2</div>
-                    <div className="rt-text-style-h1">1</div>
-                  </div>
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-2"
-                  >
-                    <div className="rt-text-style-h1">0</div>
-                    <div className="rt-text-style-h1">1</div>
-                    <div className="rt-text-style-h1">2</div>
-                    <div className="rt-text-style-h1">3</div>
-                  </div>
-                </div>
-                <div className="rt-text-style-h1">%</div>
-              </div>
               <div className="rt-counter-line rt-counter-line-gap" />
               <div className="rt-text-style-h6 rt-counter-title-gap">
-                Smarter Workflows
+                Built For Doctors
               </div>
               <p className="rt-gap-off rt-secondary-text-color">
-                No more missed appointments or manual tracking
+                Digital records, prescriptions and follow-up tracking.
               </p>
             </div>
             <div
@@ -256,54 +90,12 @@ export default function Section4_3() {
                   alt="Client Satisfaction"
                 />
               </div>
-              <div
-                data-w-id="227e9815-f199-1c2a-99ec-3394af6ad0a9"
-                className="w-layout-hflex rt-counter-wrapper-v1 rt-overflow-hidden rt-counter-wrapper-gap"
-              >
-                <div className="rt-counter-train-holder">
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-1"
-                  >
-                    <div className="rt-text-style-h1 rt-1">1</div>
-                    <div className="rt-text-style-h1">0</div>
-                    <div className="rt-text-style-h1">1</div>
-                  </div>
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-1"
-                  >
-                    <div className="rt-text-style-h1">0</div>
-                    <div className="rt-text-style-h1">1</div>
-                    <div className="rt-text-style-h1">2</div>
-                  </div>
-                </div>
-                <div className="rt-text-style-h1">k</div>
-              </div>
               <div className="rt-counter-line rt-counter-line-gap" />
               <div className="rt-text-style-h6 rt-counter-title-gap">
-                Happy Receptionists
+                Built For Clinics
               </div>
               <p className="rt-gap-off rt-secondary-text-color">
-                Save hours on endless phone calls
+                Improved retention and smoother operations.
               </p>
             </div>
             <div
@@ -320,90 +112,12 @@ export default function Section4_3() {
                   alt="Analytics Icon"
                 />
               </div>
-              <div
-                data-w-id="a6978c81-ba19-6dc2-4c5a-f3651f551f1b"
-                className="w-layout-hflex rt-counter-wrapper-v1 rt-overflow-hidden rt-counter-wrapper-gap"
-              >
-                <div className="rt-counter-train-holder rt-h1-w-1">
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-1"
-                  >
-                    <div className="rt-text-style-h1">4</div>
-                    <div className="rt-text-style-h1">3</div>
-                    <div className="rt-text-style-h1">2</div>
-                    <div className="rt-text-style-h1">1</div>
-                  </div>
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, -100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-1"
-                  >
-                    <div className="rt-text-style-h1">0</div>
-                    <div className="rt-text-style-h1">1</div>
-                    <div className="rt-text-style-h1">2</div>
-                    <div className="rt-text-style-h1">3</div>
-                  </div>
-                </div>
-                <div className="rt-counter-train-holder">
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-2"
-                  >
-                    <div className="rt-text-style-h1">0</div>
-                    <div className="rt-text-style-h1">1</div>
-                  </div>
-                  <div
-                    style={{
-                      WebkitTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      MozTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      msTransform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                      transform:
-                        "translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
-                    }}
-                    className="rt-counter-train rt-2"
-                  >
-                    <div className="rt-text-style-h1">2</div>
-                    <div className="rt-text-style-h1">1</div>
-                  </div>
-                </div>
-                <div className="rt-text-style-h1">+</div>
-              </div>
               <div className="rt-counter-line rt-counter-line-gap" />
               <div className="rt-text-style-h6 rt-counter-title-gap">
-                Higher Revenue
+                Built For Patients
               </div>
               <p className="rt-gap-off rt-secondary-text-color">
-                Maximize clinic profitability with better retention
+                Appointments, reminders and better continuity of care.
               </p>
             </div>
           </div>
