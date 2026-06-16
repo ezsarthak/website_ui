@@ -22,13 +22,17 @@ export default function Navbar() {
               aria-current="page"
               className="rt-brand w-nav-brand w--current"
             >
-              <img
-                width={123}
-                height={36}
-                alt="MONAVI"
-                src="/fonts/697ae93152c23e69f9cc161e_Brand%20Logo%20%282%29.svg"
-                loading="lazy"
-              />
+              <span
+                style={{
+                  fontFamily: "var(--plus-jakarta-sans)",
+                  fontWeight: 700,
+                  fontSize: "1.5rem",
+                  color: "var(--_color---color--ocean-blue)",
+                  letterSpacing: "0.08em",
+                }}
+              >
+                <span className="brand-highlight">MONAVI</span>
+              </span>
             </a>
           </div>
           <nav
@@ -38,178 +42,38 @@ export default function Navbar() {
             <div className="w-layout-vflex rt-nav-link-main">
               <div className="w-layout-hflex rt-nav-link-wrapper">
                 <div className="w-layout-hflex rt-nav-link">
-                  <div
-                    data-delay={0}
-                    data-hover="true"
-                    data-w-id="4895d25e-2177-434f-4904-e848d905b31e"
-                    className="rt-drop-down w-dropdown"
-                  >
-                    <div className="rt-drop-drown-toggle w-dropdown-toggle">
-                      <div className="rt-nav-link-text">Home</div>
-                      <div className="w-layout-vflex rt-drop-down-arrow-icon-v3">
-                        <img
-                          width={8}
-                          height={5}
-                          alt
-                          src="/fonts/697854b5ad787f275eee14e5_Down%20Arrow.svg"
-                          loading="lazy"
-                        />
-                      </div>
-                    </div>
-                    <nav className="rt-navigation w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77 w-dropdown-list">
-                      <a
-                        href="/"
-                        aria-current="page"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link w--current"
-                      >
-                        Home one
-                      </a>
-                      <a
-                        href="/home-two"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Home two
-                      </a>
-                      <a
-                        href="/home-three"
-                        className="rt-drop-dwon-nav-link rt-body-font rt-bottom-gap w-dropdown-link"
-                      >
-                        Home three
-                      </a>
-                    </nav>
-                  </div>
-                </div>
-                <div className="w-layout-hflex rt-nav-link">
-                  <a href="/about" className="rt-nav-link-text w-nav-link">
-                    About
+                  <a href="/" aria-current="page" className="rt-nav-link-text w-nav-link w--current">
+                    Home
                   </a>
                 </div>
                 <div className="w-layout-hflex rt-nav-link">
-                  <div
-                    data-delay={0}
-                    data-hover="true"
-                    data-w-id="4895d25e-2177-434f-4904-e848d905b32f"
-                    className="rt-drop-down w-dropdown"
-                  >
-                    <div className="rt-drop-drown-toggle w-dropdown-toggle">
-                      <div className="rt-nav-link-text">Pages</div>
-                      <div className="w-layout-vflex rt-drop-down-arrow-icon-v3">
-                        <img
-                          width={8}
-                          height={5}
-                          alt
-                          src="/fonts/697854b5ad787f275eee14e5_Down%20Arrow.svg"
-                          loading="lazy"
-                        />
-                      </div>
-                    </div>
-                    <nav className="rt-navigation w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77 w-dropdown-list">
-                      <a
-                        href="/service"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Service
-                      </a>
-                      <a
-                        href="/service-detail/healthcare"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Service detail
-                      </a>
-                      <a
-                        href="/appointment-schedule"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Appointment schedule
-                      </a>
-                      <a
-                        href="/specialists"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Specialists
-                      </a>
-                      <a
-                        href="/specialist/larkin-jomes"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Specialist details
-                      </a>
-                      <a
-                        href="/style-guide"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Style guide
-                      </a>
-                      <a
-                        href="/changelog"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Changelog
-                      </a>
-                      <a
-                        href="/license"
-                        className="rt-drop-dwon-nav-link rt-body-font rt-bottom-gap w-dropdown-link"
-                      >
-                        license
-                      </a>
-                    </nav>
-                  </div>
+                  <a href="/for-clinics" className="rt-nav-link-text w-nav-link">
+                    For Clinics
+                  </a>
                 </div>
                 <div className="w-layout-hflex rt-nav-link">
-                  <div
-                    data-delay={0}
-                    data-hover="true"
-                    data-w-id="4895d25e-2177-434f-4904-e848d905b33d"
-                    className="rt-drop-down w-dropdown"
-                  >
-                    <div className="rt-drop-drown-toggle rt-dropdown-gap-off w-dropdown-toggle">
-                      <div className="rt-nav-link-text">Blog</div>
-                      <div className="w-layout-vflex rt-drop-down-arrow-icon-v3">
-                        <img
-                          width={8}
-                          height={5}
-                          alt
-                          src="/fonts/697854b5ad787f275eee14e5_Down%20Arrow.svg"
-                          loading="lazy"
-                        />
-                      </div>
-                    </div>
-                    <nav className="rt-navigation w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77 w-dropdown-list">
-                      <a
-                        href="/blog-one"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Blog one
-                      </a>
-                      <a
-                        href="/blog-two"
-                        className="rt-drop-dwon-nav-link rt-body-font w-dropdown-link"
-                      >
-                        Blog two
-                      </a>
-                      <a
-                        href="/blog-three"
-                        className="rt-drop-dwon-nav-link rt-body-font rt-bottom-gap w-dropdown-link"
-                      >
-                        Blog three
-                      </a>
-                      <a
-                        href="/blog-post/mind-body-and-wellness-advice-for-everyday-living"
-                        className="rt-drop-dwon-nav-link rt-body-font rt-bottom-gap w-dropdown-link"
-                      >
-                        Blog posts
-                      </a>
-                    </nav>
-                  </div>
+                  <a href="/for-doctors" className="rt-nav-link-text w-nav-link">
+                    For Doctors
+                  </a>
+                </div>
+                <div className="w-layout-hflex rt-nav-link">
+                  <a href="/for-patients" className="rt-nav-link-text w-nav-link">
+                    For Patients
+                  </a>
+                </div>
+                <div className="w-layout-hflex rt-nav-link">
+                  <a href="/pilot-program" className="rt-nav-link-text w-nav-link">
+                    Pilot Program
+                  </a>
+                </div>
+                <div className="w-layout-hflex rt-nav-link">
+                  <a href="/blog-one" className="rt-nav-link-text w-nav-link">
+                    Blog
+                  </a>
                 </div>
                 <div className="w-layout-hflex rt-nav-link rt-nav-link-last-gap">
                   <a href="/contact" className="rt-nav-link-text w-nav-link">
                     Contact
-                  </a>
-                </div>
-                <div className="w-layout-hflex rt-nav-link rt-nav-link-last-gap">
-                  <a href="/pricing" className="rt-nav-link-text w-nav-link">
-                    Pricing
                   </a>
                 </div>
               </div>
@@ -219,13 +83,13 @@ export default function Navbar() {
               >
                 <div className="w-layout-vflex rt-phone-number-wrapper">
                   <div className="rt-secondary-text-color rt-line-height rt-call-me-hover w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77">
-                    Contact Sales
+                    Join Waitlist
                   </div>
                   <a
-                    href="tel:8884567890"
+                    href="/contact"
                     className="rt-line-height rt-font-weight-semi-bold rt-call-link w-variant-201f62ae-c8ac-7a9f-63c7-96b9c2b43f77"
                   >
-                    +91 800 123 4567
+                    hello@monavi.in
                   </a>
                 </div>
                 <div>
@@ -245,15 +109,15 @@ export default function Navbar() {
                     <a
                       data-wf--rt-button--variant="base"
                       data-w-id="36ee05a8-1a3a-f1af-b31b-d4bb524a6fd3"
-                      href="/appointment-schedule"
+                      href="/contact"
                       className="rt-button rt-overflow-hidden w-inline-block"
                     >
                       <div className="w-layout-hflex rt-text-button-wrapper rt-button-text">
                         <div className="rt-text-color-white rt-1">
-                          Book a Demo
+                          Book Demo
                         </div>
                         <div className="rt-text-color-white rt-change-text rt-2">
-                          Book a Demo
+                          Book Demo
                         </div>
                       </div>
                       <div className="rt-button-overlay" />
@@ -263,7 +127,7 @@ export default function Navbar() {
                 <div className="w-layout-vflex rt-nav-bottom-content">
                   <div className="w-layout-hflex rt-nav-botton-social-icon-wrapper">
                     <a
-                      href="https://facebook.com"
+                      href="https://linkedin.com"
                       target="_blank"
                       className="rt-social-icon w-inline-block"
                     >
@@ -271,7 +135,7 @@ export default function Navbar() {
                         <img
                           width={11}
                           height={16}
-                          alt
+                          alt="LinkedIn"
                           src="/fonts/6985adfaaef9ef7e15b10623_6936a9fdfd2db0b87d8552bd_FB%20logo.svg"
                           loading="lazy"
                         />
@@ -286,7 +150,7 @@ export default function Navbar() {
                         <img
                           width={11}
                           height={16}
-                          alt="instragram"
+                          alt="Instagram"
                           src="/fonts/6997e45a1e50b87ff34a4819_instragram.svg"
                           loading="lazy"
                         />
@@ -311,23 +175,9 @@ export default function Navbar() {
                 </div>
                 <div className="w-layout-vflex rt-nav-contact-box">
                   <div className="rt-nav-cc-text">
-                    Designed by
-                    <a
-                      href="https://www.radianttemplates.com/"
-                      target="_blank"
-                      className="rt-secondary-text-color"
-                    >
-                      {" "}
-                      Radiant Templates
-                    </a>
-                    ,Powered by{" "}
-                    <a
-                      href="https://webflow.com"
-                      target="_blank"
-                      className="rt-secondary-text-color"
-                    >
-                      Webflow
-                    </a>
+                    © 2025{" "}
+                    <span className="brand-highlight">MONAVI</span>
+                    . All rights reserved.
                   </div>
                 </div>
               </div>
@@ -341,13 +191,13 @@ export default function Navbar() {
               <a
                 data-wf--rt-button--variant="base"
                 data-w-id="36ee05a8-1a3a-f1af-b31b-d4bb524a6fd3"
-                href="/appointment-schedule"
+                href="/contact"
                 className="rt-button rt-overflow-hidden w-inline-block"
               >
                 <div className="w-layout-hflex rt-text-button-wrapper rt-button-text">
-                  <div className="rt-text-color-white rt-1">Book a Demo</div>
+                  <div className="rt-text-color-white rt-1">Book Demo</div>
                   <div className="rt-text-color-white rt-change-text rt-2">
-                    Book a Demo
+                    Book Demo
                   </div>
                 </div>
                 <div className="rt-button-overlay" />

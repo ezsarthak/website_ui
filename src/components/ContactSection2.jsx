@@ -93,10 +93,10 @@ export default function ContactSection2() {
                 <div className="w-layout-vflex rt-contact-info-text-wrapper">
                   <div className="rt-text-color-ocean-blue">Email address</div>
                   <a
-                    href="mailto:info@example.com"
+                    href="mailto:hello@monavi.in"
                     className="rt-secondary-text-color rt-link-decor-off rt-hover-effect"
                   >
-                    info@example.com
+                    hello@monavi.in
                   </a>
                 </div>
               </div>

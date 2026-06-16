@@ -11,7 +11,7 @@ export default function Section4_3() {
               style={{ opacity: 0 }}
               className="rt-sub-text rt-small-tag-gap"
             >
-              The Benefits
+              MONAVI Benefits
             </div>
             <div
               data-w-id="21d222e7-a15c-dddd-3680-0ddcd249c00f"
@@ -128,7 +128,7 @@ export default function Section4_3() {
               </div>
               <div className="rt-counter-line rt-counter-line-gap" />
               <div className="rt-text-style-h6 rt-counter-title-gap">
-                Zero Patient Drop-off
+                Better Patient Retention
               </div>
               <p className="rt-gap-off rt-secondary-text-color">
                 Keep patients returning for their follow-ups
@@ -236,7 +236,7 @@ export default function Section4_3() {
               </div>
               <div className="rt-counter-line rt-counter-line-gap" />
               <div className="rt-text-style-h6 rt-counter-title-gap">
-                Smarter Workflows
+                Smarter Clinic Operations
               </div>
               <p className="rt-gap-off rt-secondary-text-color">
                 No more missed appointments or manual tracking
@@ -300,7 +300,7 @@ export default function Section4_3() {
               </div>
               <div className="rt-counter-line rt-counter-line-gap" />
               <div className="rt-text-style-h6 rt-counter-title-gap">
-                Happy Receptionists
+                Better Patient Experience
               </div>
               <p className="rt-gap-off rt-secondary-text-color">
                 Save hours on endless phone calls
@@ -400,7 +400,7 @@ export default function Section4_3() {
               </div>
               <div className="rt-counter-line rt-counter-line-gap" />
               <div className="rt-text-style-h6 rt-counter-title-gap">
-                Higher Revenue
+                Better Clinic Revenue
               </div>
               <p className="rt-gap-off rt-secondary-text-color">
                 Maximize clinic profitability with better retention

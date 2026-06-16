@@ -28,8 +28,8 @@ export default function Section10_9() {
               >
                 <div className="rt-grid-item-two-title-warpper">
                   <div className="rt-text-style-h6 rt-text-color-white">
-                    Powerful clinic management software delivering organized
-                    workflows and smart patient retention.
+                    <span className="brand-highlight">MONAVI</span> — Powerful clinic management delivering
+                    organized workflows and smart patient retention.
                   </div>
                 </div>
                 <div className="w-layout-vflex rt-grid-item-bottom-wrapper">
@@ -43,7 +43,7 @@ export default function Section10_9() {
                     />
                   </div>
                   <div className="rt-body-font-2 rt-text-color-white">
-                    Automated Receptionist
+                    <span className="brand-highlight">MONAVI</span> Platform
                   </div>
                 </div>
                 <div className="rt-heart-icon-wrapper">

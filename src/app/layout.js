@@ -5,8 +5,8 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Heltro - Webflow HTML website template",
-  description: "Cloned website",
+  title: "MONAVI — Smart Clinic Management & Patient Retention Platform",
+  description: "MONAVI helps clinics manage appointments, queues, follow-ups and patient communication from a single platform. Bring more patients back and reduce reception chaos.",
 };
 
 export default function RootLayout({ children }) {

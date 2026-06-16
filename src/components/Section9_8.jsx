@@ -11,14 +11,14 @@ export default function Section9_8() {
               style={{ opacity: 0 }}
               className="rt-sub-text rt-small-tag-gap"
             >
-              Fair pricing
+              Pilot Program
             </div>
             <h2
               data-w-id="295e76a5-7a9a-9dfb-805f-7b992336bbb4"
               style={{ opacity: 0 }}
               className="rt-gap-off"
             >
-              Our clear, transparent software pricing structure
+              Become One Of <span className="brand-highlight">MONAVI</span>’s First Partner Clinics
             </h2>
           </div>
           <div className="w-layout-hflex rt-pricing-bottom rt-pricing-bottom-gap">
@@ -39,7 +39,7 @@ export default function Section9_8() {
                 </div>
                 <div className="w-layout-vflex rt-pricing-item-text-content">
                   <div className="w-layout-hflex rt-pricing-item-text-top">
-                    <div className="rt-text-style-h6">Starter Plan</div>
+                    <div className="rt-text-style-h6">Free Onboarding</div>
                     <div className="rt-pricing-line-wrapper">
                       <img
                         src="/fonts/696f8f6b053721e4758cae3c_LINE%20%282%29.svg"
@@ -49,10 +49,10 @@ export default function Section9_8() {
                         alt
                       />
                     </div>
-                    <div className="rt-text-style-h6">$49/mo</div>
+                    <div className="rt-text-style-h6">No Cost</div>
                   </div>
                   <p className="rt-gap-off rt-pricing-item-description">
-                    Basic queue management and automated SMS reminders for solo practitioners.
+                    Get started without any setup costs during the pilot phase.
                   </p>
                 </div>
               </div>
@@ -72,7 +72,7 @@ export default function Section9_8() {
                 </div>
                 <div className="w-layout-vflex rt-pricing-item-text-content">
                   <div className="w-layout-hflex rt-pricing-item-text-top">
-                    <div className="rt-text-style-h6">Pro Plan</div>
+                    <div className="rt-text-style-h6">Direct Founder Support</div>
                     <div className="rt-pricing-line-wrapper">
                       <img
                         src="/fonts/696f8f6b053721e4758cae3c_LINE%20%282%29.svg"
@@ -82,10 +82,10 @@ export default function Section9_8() {
                         alt
                       />
                     </div>
-                    <div className="rt-text-style-h6">$99/mo</div>
+                    <div className="rt-text-style-h6">Included</div>
                   </div>
                   <p className="rt-gap-off rt-pricing-item-description">
-                    Advanced patient tracking, analytics, and full retention engagement loop.
+                    Work directly with the MONAVI founding team throughout onboarding.
                   </p>
                 </div>
               </div>
@@ -105,9 +105,7 @@ export default function Section9_8() {
                 </div>
                 <div className="w-layout-vflex rt-pricing-item-text-content">
                   <div className="w-layout-hflex rt-pricing-item-text-top">
-                    <div className="rt-text-style-h6">
-                      Premium Plan
-                    </div>
+                    <div className="rt-text-style-h6">Early Access Benefits</div>
                     <div className="rt-pricing-line-wrapper">
                       <img
                         src="/fonts/696f8f6b053721e4758cae3c_LINE%20%282%29.svg"
@@ -117,10 +115,10 @@ export default function Section9_8() {
                         alt
                       />
                     </div>
-                    <div className="rt-text-style-h6">$199/mo</div>
+                    <div className="rt-text-style-h6">Exclusive</div>
                   </div>
                   <p className="rt-gap-off rt-pricing-item-description">
-                    Multi-doctor support, custom integrations, and priority 24/7 support.
+                    Be the first to access new MONAVI features as they launch.
                   </p>
                 </div>
               </div>
@@ -142,7 +140,7 @@ export default function Section9_8() {
                 </div>
                 <div className="w-layout-vflex rt-pricing-item-text-content">
                   <div className="w-layout-hflex rt-pricing-item-text-top">
-                    <div className="rt-text-style-h6">Enterprise Custom</div>
+                    <div className="rt-text-style-h6">Product Feedback Influence</div>
                     <div className="rt-pricing-line-wrapper">
                       <img
                         src="/fonts/696f8f6b053721e4758cae3c_LINE%20%282%29.svg"
@@ -152,10 +150,10 @@ export default function Section9_8() {
                         alt
                       />
                     </div>
-                    <div className="rt-text-style-h6">Custom</div>
+                    <div className="rt-text-style-h6">Direct</div>
                   </div>
                   <p className="rt-gap-off rt-pricing-item-description">
-                    Tailored solutions for large hospitals and multi-branch clinic chains.
+                    Shape the future of MONAVI. Your feedback drives our product roadmap.
                   </p>
                 </div>
               </div>
@@ -238,9 +236,9 @@ export default function Section9_8() {
               className="rt-button w-variant-89dd8ad8-48b3-8b43-4851-efb8a6341e9d rt-overflow-hidden w-inline-block"
             >
               <div className="w-layout-hflex rt-text-button-wrapper rt-button-text">
-                <div className="rt-text-color-white rt-1">Appointment</div>
+                <div className="rt-text-color-white rt-1">Apply For Pilot</div>
                 <div className="rt-text-color-white rt-change-text rt-2">
-                  Appointment
+                  Apply For Pilot
                 </div>
               </div>
               <div className="rt-button-overlay" />

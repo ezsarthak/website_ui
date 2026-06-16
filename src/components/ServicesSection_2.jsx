@@ -18,7 +18,7 @@ export default function ServicesSection_2() {
               style={{ opacity: 0 }}
               className="rt-gap-off"
             >
-              The Smart Clinic Flow & Patient Return System
+              Designed Around Real Clinic Workflows
             </h2>
           </div>
         </div>
@@ -54,10 +54,10 @@ export default function ServicesSection_2() {
             <div className="w-layout-vflex rt-slider-text-content">
               <div className="w-layout-vflex">
                 <div className="rt-sub-text rt-small-tag-gap rt-secondary-text-color">
-                  Reception Efficiency
+                  Reception Dashboard
                 </div>
                 <div className="rt-text-style-h5 rt-tab-h5-line-height-down">
-                  Automate the chaos of front-desk management
+                  Manage appointments, queues and patient communication.
                 </div>
               </div>
               <div className="w-layout-vflex rt-slider-content-bottom-wrapper">
@@ -158,10 +158,10 @@ export default function ServicesSection_2() {
             <div className="w-layout-vflex rt-slider-text-content">
               <div className="w-layout-vflex">
                 <div className="rt-sub-text rt-small-tag-gap rt-secondary-text-color">
-                  Follow-up Engine
+                  Doctor Workspace
                 </div>
                 <div className="rt-text-style-h5">
-                  Never let a patient slip through the cracks again
+                  Track consultations and follow-ups.
                 </div>
               </div>
               <div className="w-layout-vflex rt-slider-content-bottom-wrapper">
@@ -262,10 +262,10 @@ export default function ServicesSection_2() {
             <div className="w-layout-vflex rt-slider-text-content">
               <div className="w-layout-vflex">
                 <div className="rt-sub-text rt-small-tag-gap rt-secondary-text-color">
-                  Doctor Dashboard
+                  Patient Experience
                 </div>
                 <div className="rt-text-style-h5">
-                  Centralized workflow with zero administrative burden
+                  Receive reminders, appointments and prescriptions digitally.
                 </div>
               </div>
               <div className="w-layout-vflex rt-slider-content-bottom-wrapper">

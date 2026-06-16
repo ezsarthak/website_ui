@@ -116,15 +116,15 @@ export default function Section13_12() {
               style={{ opacity: 0 }}
               className="rt-gap-off rt-h2-heading-gap"
             >
-              Ready to take control of your clinic?
+              Ready to bring patients back to your clinic?
             </h2>
             <p
               data-w-id="8066d17a-7c54-a6ae-ee09-aadf0de7ee6a"
               style={{ opacity: 0 }}
               className="rt-gap-off rt-description-gap-v2 rt-secondary-text-color"
             >
-              Join hundreds of clinics across India bringing patients back and
-              reducing reception chaos.
+              Join clinics across India bringing patients back and
+              reducing reception chaos with <span className="brand-highlight">MONAVI</span>.
             </p>
             <div
               data-w-id="cce1664c-eeba-6aaa-200e-d32c1d845fff"
@@ -137,9 +137,9 @@ export default function Section13_12() {
                 className="rt-button rt-overflow-hidden w-inline-block"
               >
                 <div className="w-layout-hflex rt-text-button-wrapper rt-button-text">
-                  <div className="rt-text-color-white rt-1">Book a Demo</div>
+                  <div className="rt-text-color-white rt-1">Book Demo</div>
                   <div className="rt-text-color-white rt-change-text rt-2">
-                    Book a Demo
+                    Book Demo
                   </div>
                 </div>
                 <div className="rt-button-overlay" />
