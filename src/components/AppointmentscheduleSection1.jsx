@@ -20,7 +20,7 @@ export default function AppointmentscheduleSection1() {
         className="rt-contact-background-image-wrapper"
       >
         <img
-          src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aec1dd17ec68f4a48383dc_Appointment%20banner.webp"
+          src="/cdn-images/696f017270bc35c55e784979_69aec1dd17ec68f4a48383dc_Appointment_20banner.webp"
           sizes="(max-width: 1919px) 100vw, 1920px"
           width={1920}
           height={687}
@@ -53,8 +53,8 @@ export default function AppointmentscheduleSection1() {
           >
             <div className="w-layout-vflex rt-hero-bottom-left rt-border-radius-10 rt-overflow-hidden">
               <div
-                data-poster-url="https://cdn.prod.website-files.com/696f017270bc35c55e784979%2F6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_poster.0000000.jpg"
-                data-video-urls="https://cdn.prod.website-files.com/696f017270bc35c55e784979%2F6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_mp4.mp4,https://cdn.prod.website-files.com/696f017270bc35c55e784979%2F6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_webm.webm"
+                data-poster-url="/cdn-images/696f017270bc35c55e784979_6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_poster.0000000.jpg"
+                data-video-urls="/cdn-images/696f017270bc35c55e784979_6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_mp4.mp4_https___cdn.prod.website-files.com_696f017270bc35c55e784979_6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_webm.webm"
                 data-autoplay="true"
                 data-loop="true"
                 data-wf-ignore="true"
@@ -71,7 +71,7 @@ export default function AppointmentscheduleSection1() {
                   height: 100%; width: 100%; object-fit: cover;
                   {"}"}
                   {"}"}&lt;/style&gt;&lt;img data-wf-bgvideo-fallback-img="true"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979%2F6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_poster.0000000.jpg"
+                  src="/cdn-images/696f017270bc35c55e784979_6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_poster.0000000.jpg"
                   alt="image"&gt;
                 </noscript>
                 <div aria-live="polite">
@@ -83,7 +83,7 @@ export default function AppointmentscheduleSection1() {
                   >
                     <span className="rt-play-state">
                       <img
-                        src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69859766f0b870a5b7b1129c_Pause%20icon.svg"
+                        src="/cdn-images/696f017270bc35c55e784979_69859766f0b870a5b7b1129c_Pause_20icon.svg"
                         loading="lazy"
                         width={7}
                         height={10}
@@ -95,7 +95,7 @@ export default function AppointmentscheduleSection1() {
                         loading="lazy"
                         width={7}
                         height={10}
-                        src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6980224bdac4a2081698b5af_Play%20Button.svg"
+                        src="/cdn-images/696f017270bc35c55e784979_6980224bdac4a2081698b5af_Play_20Button.svg"
                         alt="Play video"
                       />
                     </span>
@@ -115,7 +115,7 @@ export default function AppointmentscheduleSection1() {
               >
                 <div className="w-layout-vflex">
                   <img
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6980224b3f3c129452af2436_Right%20Arrow.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_6980224b3f3c129452af2436_Right_20Arrow.svg"
                     loading="lazy"
                     width={13}
                     height={13}

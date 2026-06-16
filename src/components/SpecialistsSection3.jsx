@@ -16,7 +16,7 @@ export default function SpecialistsSection3() {
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
                     className="rt-team-member-iamge"
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/69899caf96d02ec3155adeef_woman-doctor-wearing-lab-coat.webp"
+                    src="/cdn-images/696f3fadf343717fcadd620a_69899caf96d02ec3155adeef_woman-doctor-wearing-lab-coat.webp"
                     width={427}
                     height={522}
                     alt="Sarah Jenkins"
@@ -44,7 +44,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698994e4bc68347eaeba3812_pexels-gustavo-fring-5934411%201%20(1).avif"
+                    src="/cdn-images/696f3fadf343717fcadd620a_698994e4bc68347eaeba3812_pexels-gustavo-fring-5934411_201_20_1_.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -70,7 +70,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/6989958fe9230ece007d59ee_kdfbhjs.avif"
+                    src="/cdn-images/696f3fadf343717fcadd620a_6989958fe9230ece007d59ee_kdfbhjs.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -98,7 +98,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/6989961deafb5b39826afbbf_Professional%20Portrait%201%20(2).avif"
+                    src="/cdn-images/696f3fadf343717fcadd620a_6989961deafb5b39826afbbf_Professional_20Portrait_201_20_2_.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -126,7 +126,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/6989966c266678e939b8a7df_Medical%20Professional%20Portrait%20(2)%201.avif"
+                    src="/cdn-images/696f3fadf343717fcadd620a_6989966c266678e939b8a7df_Medical_20Professional_20Portrait_20_2__201.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -154,7 +154,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/6989975c56f5db37da6c7aca_professional-portrait-hp1z0fhgaif%20(1).avif"
+                    src="/cdn-images/696f3fadf343717fcadd620a_6989975c56f5db37da6c7aca_professional-portrait-hp1z0fhgaif_20_1_.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -180,7 +180,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/69899786ac95f67f6e1065f5_Medical%20Professional%20Portrait%201%20(1).avif"
+                    src="/cdn-images/696f3fadf343717fcadd620a_69899786ac95f67f6e1065f5_Medical_20Professional_20Portrait_201_20_1_.avif"
                     loading="lazy"
                     width={427}
                     height={522}
@@ -206,7 +206,7 @@ export default function SpecialistsSection3() {
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698998086400b1ebc398f084_young-doctor-getting-ready-work%201%20(1).avif"
+                    src="/cdn-images/696f3fadf343717fcadd620a_698998086400b1ebc398f084_young-doctor-getting-ready-work_201_20_1_.avif"
                     loading="lazy"
                     width={427}
                     height={522}

@@ -21,7 +21,7 @@ export default function BlogthreeSection1() {
           className="rt-contact-background-image-wrapper"
         >
           <img
-            src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989a554f981ef94ec980a44_BANNER%20(2).avif"
+            src="/cdn-images/696f017270bc35c55e784979_6989a554f981ef94ec980a44_BANNER_20_2_.avif"
             alt="Blog BANNER "
             width={1920}
             height={605}

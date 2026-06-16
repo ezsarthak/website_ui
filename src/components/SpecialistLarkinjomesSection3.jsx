@@ -171,7 +171,7 @@ export default function SpecialistLarkinjomesSection3() {
                               width={17}
                               height={17}
                               alt="Facebook"
-                              src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6997e45a1e50b87ff34a4817_Facebook-5.svg"
+                              src="/cdn-images/696f017270bc35c55e784979_6997e45a1e50b87ff34a4817_Facebook-5.svg"
                               loading="lazy"
                             />
                           </a>
@@ -184,7 +184,7 @@ export default function SpecialistLarkinjomesSection3() {
                               width={18}
                               height={18}
                               alt="image"
-                              src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6985adfa49a8f1ffa6bf74cd_6936a9fd5054aa44de37cce9_Instagram.svg"
+                              src="/cdn-images/696f017270bc35c55e784979_6985adfa49a8f1ffa6bf74cd_6936a9fd5054aa44de37cce9_Instagram.svg"
                               loading="lazy"
                             />
                           </a>
@@ -197,7 +197,7 @@ export default function SpecialistLarkinjomesSection3() {
                               width={17}
                               height={17}
                               alt="X"
-                              src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6997e45a1e50b87ff34a4818_X.svg"
+                              src="/cdn-images/696f017270bc35c55e784979_6997e45a1e50b87ff34a4818_X.svg"
                               loading="lazy"
                             />
                           </a>

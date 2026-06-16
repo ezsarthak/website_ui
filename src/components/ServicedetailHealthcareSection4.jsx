@@ -37,7 +37,7 @@ export default function ServicedetailHealthcareSection4() {
               className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
             >
               <img
-                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aac3468dbf79dc892457f2_Service%20card.webp"
+                src="/cdn-images/696f017270bc35c55e784979_69aac3468dbf79dc892457f2_Service_20card.webp"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
                 alt="Heltro-service-card"
@@ -51,7 +51,7 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/69ad9071a88d829dc5c867cb_Service%20post%20(2).webp"
+                    src="/cdn-images/696f3fadf343717fcadd620a_69ad9071a88d829dc5c867cb_Service_20post_20_2_.webp"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -73,7 +73,7 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/69ad9081b866c1885277977c_Service%20post%20(5).webp"
+                    src="/cdn-images/696f3fadf343717fcadd620a_69ad9081b866c1885277977c_Service_20post_20_5_.webp"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -95,7 +95,7 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/69ad90994ead77acb9c326ce_Service%20post%20(11).webp"
+                    src="/cdn-images/696f3fadf343717fcadd620a_69ad90994ead77acb9c326ce_Service_20post_20_11_.webp"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -119,7 +119,7 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/69ad90a6778c864921dcd526_Service%20post.webp"
+                    src="/cdn-images/696f3fadf343717fcadd620a_69ad90a6778c864921dcd526_Service_20post.webp"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -141,7 +141,7 @@ export default function ServicedetailHealthcareSection4() {
               className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
             >
               <img
-                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aac3469e3ce9470750b408_Service%20card%202.webp"
+                src="/cdn-images/696f017270bc35c55e784979_69aac3469e3ce9470750b408_Service_20card_202.webp"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
                 alt="Heltro-service-card"
@@ -169,7 +169,7 @@ export default function ServicedetailHealthcareSection4() {
                   className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aac3468dbf79dc892457f2_Service%20card.webp"
+                    src="/cdn-images/696f017270bc35c55e784979_69aac3468dbf79dc892457f2_Service_20card.webp"
                     loading="lazy"
                     sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
                     alt="Heltro-service-card"
@@ -185,7 +185,7 @@ export default function ServicedetailHealthcareSection4() {
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
                       <img
-                        src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/69ad9071a88d829dc5c867cb_Service%20post%20(2).webp"
+                        src="/cdn-images/696f3fadf343717fcadd620a_69ad9071a88d829dc5c867cb_Service_20post_20_2_.webp"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -211,7 +211,7 @@ export default function ServicedetailHealthcareSection4() {
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
                       <img
-                        src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/69ad9081b866c1885277977c_Service%20post%20(5).webp"
+                        src="/cdn-images/696f3fadf343717fcadd620a_69ad9081b866c1885277977c_Service_20post_20_5_.webp"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -237,7 +237,7 @@ export default function ServicedetailHealthcareSection4() {
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
                       <img
-                        src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/69ad90994ead77acb9c326ce_Service%20post%20(11).webp"
+                        src="/cdn-images/696f3fadf343717fcadd620a_69ad90994ead77acb9c326ce_Service_20post_20_11_.webp"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -263,7 +263,7 @@ export default function ServicedetailHealthcareSection4() {
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
                       <img
-                        src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/69ad90a6778c864921dcd526_Service%20post.webp"
+                        src="/cdn-images/696f3fadf343717fcadd620a_69ad90a6778c864921dcd526_Service_20post.webp"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -287,7 +287,7 @@ export default function ServicedetailHealthcareSection4() {
                   className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aac3469e3ce9470750b408_Service%20card%202.webp"
+                    src="/cdn-images/696f017270bc35c55e784979_69aac3469e3ce9470750b408_Service_20card_202.webp"
                     loading="lazy"
                     sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
                     alt="Heltro-service-card"

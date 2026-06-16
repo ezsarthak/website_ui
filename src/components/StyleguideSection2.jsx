@@ -12,7 +12,7 @@ export default function StyleguideSection2() {
                   width={40}
                   height="Auto"
                   alt="Icon"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53fbed39137c61b48c6_Frame.svg"
+                  src="/cdn-images/696f017270bc35c55e784979_69aea53fbed39137c61b48c6_Frame.svg"
                   loading="lazy"
                 />
               </div>
@@ -83,7 +83,7 @@ export default function StyleguideSection2() {
                   width={40}
                   height="Auto"
                   alt="Icon"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53fbed39137c61b48c7_Group%20407.svg"
+                  src="/cdn-images/696f017270bc35c55e784979_69aea53fbed39137c61b48c7_Group_20407.svg"
                   loading="lazy"
                 />
               </div>
@@ -192,7 +192,7 @@ export default function StyleguideSection2() {
                   width={40}
                   height={40}
                   alt="Icon"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53fbed39137c61b48c1_Shadow.svg"
+                  src="/cdn-images/696f017270bc35c55e784979_69aea53fbed39137c61b48c1_Shadow.svg"
                   loading="lazy"
                 />
               </div>
@@ -215,7 +215,7 @@ export default function StyleguideSection2() {
                   width={40}
                   height="Auto"
                   alt="Icons"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53fbed39137c61b48c8_Vector%202-3.svg"
+                  src="/cdn-images/696f017270bc35c55e784979_69aea53fbed39137c61b48c8_Vector_202-3.svg"
                   loading="lazy"
                 />
               </div>
@@ -230,7 +230,7 @@ export default function StyleguideSection2() {
                     width={32}
                     height={32}
                     alt="Fav icon small"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aeb80eb586908ade5eafcf_Fav%20small.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_69aeb80eb586908ade5eafcf_Fav_20small.svg"
                     loading="lazy"
                   />
                 </div>
@@ -239,7 +239,7 @@ export default function StyleguideSection2() {
                     width={256}
                     height={256}
                     alt="Fav icon big"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aeb80ea6810da8641d8266_fav%20big.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_69aeb80ea6810da8641d8266_fav_20big.svg"
                     loading="lazy"
                   />
                 </div>
@@ -253,7 +253,7 @@ export default function StyleguideSection2() {
                     width={124}
                     height={28}
                     alt="Brand Logo"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/697ae93152c23e69f9cc161e_Brand%20Logo%20(2).svg"
+                    src="/cdn-images/696f017270bc35c55e784979_697ae93152c23e69f9cc161e_Brand_20Logo_20_2_.svg"
                     loading="lazy"
                   />
                 </div>
@@ -262,7 +262,7 @@ export default function StyleguideSection2() {
                     width={142}
                     height={28}
                     alt="Brand logo White"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6980314f82730b0e1a5ae75e_Brand%20logo%20White.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_6980314f82730b0e1a5ae75e_Brand_20logo_20White.svg"
                     loading="lazy"
                   />
                 </div>
@@ -276,7 +276,7 @@ export default function StyleguideSection2() {
                   width={33}
                   height="Auto"
                   alt="image"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53fbed39137c61b48cb_feanzo-buttons.svg"
+                  src="/cdn-images/696f017270bc35c55e784979_69aea53fbed39137c61b48cb_feanzo-buttons.svg"
                   loading="lazy"
                 />
               </div>
@@ -313,7 +313,7 @@ export default function StyleguideSection2() {
                       width={9}
                       height={9}
                       alt="Button Arrow Icon Two "
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69968957dd42864b79a5f253_Vector%20(66).svg"
+                      src="/cdn-images/696f017270bc35c55e784979_69968957dd42864b79a5f253_Vector_20_66_.svg"
                       loading="lazy"
                     />
                   </div>
@@ -322,7 +322,7 @@ export default function StyleguideSection2() {
                       width={9}
                       height={9}
                       alt="Button Arrow Icon Two "
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69968957dd42864b79a5f253_Vector%20(66).svg"
+                      src="/cdn-images/696f017270bc35c55e784979_69968957dd42864b79a5f253_Vector_20_66_.svg"
                       loading="lazy"
                     />
                   </div>
@@ -346,7 +346,7 @@ export default function StyleguideSection2() {
                   <div className="w-layout-hflex rt-button-arrow-1-v2">
                     <img
                       loading="lazy"
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6982cc9585d9d14180e08057_Arrow%201%20(1).svg"
+                      src="/cdn-images/696f017270bc35c55e784979_6982cc9585d9d14180e08057_Arrow_201_20_1_.svg"
                       alt="arrow"
                       className="rt-button-arrow"
                     />
@@ -354,7 +354,7 @@ export default function StyleguideSection2() {
                   <div className="w-layout-hflex rt-button-arrow-2-v2">
                     <img
                       loading="lazy"
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6982cc9585d9d14180e08057_Arrow%201%20(1).svg"
+                      src="/cdn-images/696f017270bc35c55e784979_6982cc9585d9d14180e08057_Arrow_201_20_1_.svg"
                       alt="arrow"
                       className="rt-button-arrow"
                     />
@@ -369,7 +369,7 @@ export default function StyleguideSection2() {
                 width={37}
                 height="Auto"
                 alt="image"
-                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53fbed39137c61b48ca_feanzo-list.svg"
+                src="/cdn-images/696f017270bc35c55e784979_69aea53fbed39137c61b48ca_feanzo-list.svg"
                 loading="lazy"
               />
               <div className="rt-text-style-h5">Lists</div>
@@ -392,7 +392,7 @@ export default function StyleguideSection2() {
                   width={40}
                   height="Auto"
                   alt="Icon"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53fbed39137c61b48c2_Icon-16.svg"
+                  src="/cdn-images/696f017270bc35c55e784979_69aea53fbed39137c61b48c2_Icon-16.svg"
                   loading="lazy"
                 />
               </div>
@@ -408,7 +408,7 @@ export default function StyleguideSection2() {
                   className="rt-footer-icon rt-hover w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6997e45a1e50b87ff34a4818_X.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_6997e45a1e50b87ff34a4818_X.svg"
                     loading="lazy"
                     width={12}
                     height={19}
@@ -421,7 +421,7 @@ export default function StyleguideSection2() {
                   className="rt-footer-icon rt-hover w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53ebed39137c61b48b1_feanzo-footer-linkdin.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_69aea53ebed39137c61b48b1_feanzo-footer-linkdin.svg"
                     loading="lazy"
                     width={12}
                     height={19}
@@ -434,7 +434,7 @@ export default function StyleguideSection2() {
                   className="rt-footer-icon rt-hover w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6997e45a1e50b87ff34a4817_Facebook-5.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_6997e45a1e50b87ff34a4817_Facebook-5.svg"
                     loading="lazy"
                     width={12}
                     height={19}
@@ -447,7 +447,7 @@ export default function StyleguideSection2() {
                   className="rt-footer-icon rt-hover w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6997e45a1e50b87ff34a4819_instragram.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_6997e45a1e50b87ff34a4819_instragram.svg"
                     loading="lazy"
                     width={12}
                     height={19}
@@ -464,7 +464,7 @@ export default function StyleguideSection2() {
                     width={33}
                     height={36}
                     alt="About Card Icon four"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5cee006c917c68d7ac65_Group%201597885068%20(1).svg"
+                    src="/cdn-images/696f017270bc35c55e784979_698d5cee006c917c68d7ac65_Group_201597885068_20_1_.svg"
                     loading="lazy"
                   />
                 </div>
@@ -473,7 +473,7 @@ export default function StyleguideSection2() {
                     width={34}
                     height={34}
                     alt="About Card Icon three"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5ceef7e896d1e5c40c55_Group%201597885385.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_698d5ceef7e896d1e5c40c55_Group_201597885385.svg"
                     loading="lazy"
                   />
                 </div>
@@ -482,7 +482,7 @@ export default function StyleguideSection2() {
                     width={36}
                     height={36}
                     alt="About Card Icon two"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5cee824c1b445dd7ec48_Group%201597885068%20(2).svg"
+                    src="/cdn-images/696f017270bc35c55e784979_698d5cee824c1b445dd7ec48_Group_201597885068_20_2_.svg"
                     loading="lazy"
                   />
                 </div>
@@ -491,7 +491,7 @@ export default function StyleguideSection2() {
                     width={27}
                     height={37}
                     alt="About Card Icon"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d592caa5f604ee6a1de1a_Group%201597885068.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_698d592caa5f604ee6a1de1a_Group_201597885068.svg"
                     loading="lazy"
                   />
                 </div>
@@ -500,7 +500,7 @@ export default function StyleguideSection2() {
                     width={31}
                     height={28}
                     alt="Medical icon 3"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698c2d3d8bfb931cd5149dd8_Group%2016.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_698c2d3d8bfb931cd5149dd8_Group_2016.svg"
                     loading="lazy"
                   />
                 </div>
@@ -509,7 +509,7 @@ export default function StyleguideSection2() {
                     width={50}
                     height={50}
                     alt="Lock Icon"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698ac87322d893f0f4df30a2_Vector%20(49).svg"
+                    src="/cdn-images/696f017270bc35c55e784979_698ac87322d893f0f4df30a2_Vector_20_49_.svg"
                     loading="lazy"
                   />
                 </div>
@@ -518,7 +518,7 @@ export default function StyleguideSection2() {
                     width={58}
                     height={40}
                     alt="pulseon contact icon"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6982e54e9220eaef7f4eadc0_69a826457fba9c898e343c95bb114e4b_pulseon-contact-icon.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_6982e54e9220eaef7f4eadc0_69a826457fba9c898e343c95bb114e4b_pulseon-contact-icon.svg"
                     loading="lazy"
                   />
                 </div>
@@ -527,7 +527,7 @@ export default function StyleguideSection2() {
                     width={40}
                     height={40}
                     alt="Neurology care"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/696f7f119a2cade9e09e2271_Neurology%20care.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_696f7f119a2cade9e09e2271_Neurology_20care.svg"
                     loading="lazy"
                   />
                 </div>
@@ -536,7 +536,7 @@ export default function StyleguideSection2() {
                     width={50}
                     height={44}
                     alt="Cardiology Icon"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/696f7e1279916125fded0bb6_Cardiology%20Icon.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_696f7e1279916125fded0bb6_Cardiology_20Icon.svg"
                     loading="lazy"
                   />
                 </div>
@@ -550,7 +550,7 @@ export default function StyleguideSection2() {
                   width={40}
                   height="Auto"
                   alt="image"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53fbed39137c61b48c9_feanzo-avatar-outline.svg"
+                  src="/cdn-images/696f017270bc35c55e784979_69aea53fbed39137c61b48c9_feanzo-avatar-outline.svg"
                   loading="lazy"
                 />
               </div>
@@ -564,7 +564,7 @@ export default function StyleguideSection2() {
                     width={31}
                     height={31}
                     alt="professional-portrait-team-member"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69a0191615d6d76eda600b16_pexels-gustavo-fring-5934411%201.avif"
+                    src="/cdn-images/696f017270bc35c55e784979_69a0191615d6d76eda600b16_pexels-gustavo-fring-5934411_201.avif"
                     loading="lazy"
                     className="rt-radius-full rt-image-position"
                   />
@@ -576,7 +576,7 @@ export default function StyleguideSection2() {
                   width={78}
                   height={78}
                   alt="Doctor 3"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6995c41caeb3ed0a820d46dd_Frame%201597885991.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6995c41caeb3ed0a820d46dd_Frame_201597885991.avif"
                   loading="lazy"
                   className="rt-radius-full"
                 />
@@ -591,7 +591,7 @@ export default function StyleguideSection2() {
                   width={43}
                   height="Auto"
                   alt="Icons"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53fbed39137c61b48c3_Placeholder%20icon.svg"
+                  src="/cdn-images/696f017270bc35c55e784979_69aea53fbed39137c61b48c3_Placeholder_20icon.svg"
                   loading="lazy"
                 />
               </div>
@@ -680,7 +680,7 @@ export default function StyleguideSection2() {
                   width={43}
                   height="Auto"
                   alt="Icon"
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aea53fbed39137c61b48c5_Rich%20Text.svg"
+                  src="/cdn-images/696f017270bc35c55e784979_69aea53fbed39137c61b48c5_Rich_20Text.svg"
                   loading="lazy"
                 />
               </div>
@@ -710,7 +710,7 @@ export default function StyleguideSection2() {
                 <div>
                   <img
                     loading="lazy"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69aaa6db10fc598ef5f30dfe_Service%20data%20banner.avif"
+                    src="/cdn-images/696f017270bc35c55e784979_69aaa6db10fc598ef5f30dfe_Service_20data_20banner.avif"
                     alt="Service data banner"
                     className="rt-border-radius-10"
                   />

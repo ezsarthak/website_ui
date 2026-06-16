@@ -14,7 +14,7 @@ export default function BlogtwoSection2() {
                   className="rt-blog-page-card-left-iamge rt-overflow-hidden w-inline-block"
                 >
                   <img
-                    src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b264f0ecdadb3cebbf9b1_side-view-smiley-doctor-patient%202%20(4).avif"
+                    src="/cdn-images/696f3fadf343717fcadd620a_698b264f0ecdadb3cebbf9b1_side-view-smiley-doctor-patient_202_20_4_.avif"
                     loading="lazy"
                     width={659}
                     height={452}
@@ -46,7 +46,7 @@ export default function BlogtwoSection2() {
                   <div className="w-layout-hflex rt-blog-author-details">
                     <div className="w-layout-hflex rt-blog-author-image">
                       <img
-                        src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698af7e37da351c2a9e83e28_doctor-talking-to-a-patient%20(1).avif"
+                        src="/cdn-images/696f3fadf343717fcadd620a_698af7e37da351c2a9e83e28_doctor-talking-to-a-patient_20_1_.avif"
                         loading="lazy"
                         alt="image"
                         className="rt-radius-full"
@@ -67,7 +67,7 @@ export default function BlogtwoSection2() {
         <div className="w-layout-hflex rt-blog-page-card-main rt-2">
           <div className="rt-blog-page-card-left-iamge rt-overflow-hidden rt-border-radius-10">
             <img
-              src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989c13beb7711ce6a03e1bd_side-view-smiley-doctor-patient%202%20(1).avif"
+              src="/cdn-images/696f017270bc35c55e784979_6989c13beb7711ce6a03e1bd_side-view-smiley-doctor-patient_202_20_1_.avif"
               loading="lazy"
               width={659}
               height={452}

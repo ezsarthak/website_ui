@@ -78,7 +78,7 @@ export default function AboutSection3() {
                     width={1290}
                     height={606}
                     alt="pulseon about one grow image"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/699d242bdab1e5ea2c39cb89_b5f839544721f1d6b4efde27f9aa8d2a_pulseon-about-one-grow-image.avif"
+                    src="/cdn-images/696f017270bc35c55e784979_699d242bdab1e5ea2c39cb89_b5f839544721f1d6b4efde27f9aa8d2a_pulseon-about-one-grow-image.avif"
                     loading="lazy"
                     className="rt-move-image-2 rt-image-position"
                   />
@@ -159,7 +159,7 @@ export default function AboutSection3() {
                 width={408}
                 height={445}
                 alt="pulseon about one grow image"
-                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/699d242bdab1e5ea2c39cb8d_edb38dd0625e2363519018bcfd8555b4_pulseon-about-one-grow-image.avif"
+                src="/cdn-images/696f017270bc35c55e784979_699d242bdab1e5ea2c39cb8d_edb38dd0625e2363519018bcfd8555b4_pulseon-about-one-grow-image.avif"
                 loading="lazy"
                 className="rt-tab-full-image"
               />
@@ -236,7 +236,7 @@ export default function AboutSection3() {
                 width={408}
                 height={445}
                 alt="pulseon about one grow image"
-                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/699d242bdab1e5ea2c39cb92_1c6f44e70c76db380277391d455b648a_pulseon-about-one-grow-image.avif"
+                src="/cdn-images/696f017270bc35c55e784979_699d242bdab1e5ea2c39cb92_1c6f44e70c76db380277391d455b648a_pulseon-about-one-grow-image.avif"
                 loading="lazy"
                 className="rt-tab-full-image"
               />

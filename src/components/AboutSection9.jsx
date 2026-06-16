@@ -13,7 +13,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="Dental Checkup Scene "
-              src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/699323d9468c01d51d24a7e0_Dental%20Checkup%20Scene%201.svg"
+              src="/cdn-images/696f017270bc35c55e784979_699323d9468c01d51d24a7e0_Dental_20Checkup_20Scene_201.svg"
               loading="lazy"
             />
           </div>
@@ -25,7 +25,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="heltro-dental checkup"
-              src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69afe5651bc20c6643effdb6_Dental%20checkup.webp"
+              src="/cdn-images/696f017270bc35c55e784979_69afe5651bc20c6643effdb6_Dental_20checkup.webp"
               loading="lazy"
               sizes="122px"
             />
@@ -40,7 +40,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="Dental Checkup Scene "
-              src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/699323d9468c01d51d24a7e0_Dental%20Checkup%20Scene%201.svg"
+              src="/cdn-images/696f017270bc35c55e784979_699323d9468c01d51d24a7e0_Dental_20Checkup_20Scene_201.svg"
               loading="lazy"
             />
           </div>
@@ -52,7 +52,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="heltro-dental checkup"
-              src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69afe5651bc20c6643effdb6_Dental%20checkup.webp"
+              src="/cdn-images/696f017270bc35c55e784979_69afe5651bc20c6643effdb6_Dental_20checkup.webp"
               loading="lazy"
               sizes="122px"
             />
@@ -67,7 +67,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="Dental Checkup Scene "
-              src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/699323d9468c01d51d24a7e0_Dental%20Checkup%20Scene%201.svg"
+              src="/cdn-images/696f017270bc35c55e784979_699323d9468c01d51d24a7e0_Dental_20Checkup_20Scene_201.svg"
               loading="lazy"
             />
           </div>
@@ -79,7 +79,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="heltro-dental checkup"
-              src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/69afe5651bc20c6643effdb6_Dental%20checkup.webp"
+              src="/cdn-images/696f017270bc35c55e784979_69afe5651bc20c6643effdb6_Dental_20checkup.webp"
               loading="lazy"
               sizes="122px"
             />

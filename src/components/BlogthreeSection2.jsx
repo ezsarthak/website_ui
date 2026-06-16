@@ -19,7 +19,7 @@ export default function BlogthreeSection2() {
                 >
                   <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698af9a29eac258b37f1581e_doctor-talking-to-a-patient-6749742%20(1).avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698af9a29eac258b37f1581e_doctor-talking-to-a-patient-6749742_20_1_.avif"
                       loading="lazy"
                       width={60}
                       height={60}
@@ -81,7 +81,7 @@ export default function BlogthreeSection2() {
                     className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden w-inline-block"
                   >
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698adf25e289a401b3a00a4a_people-woman-sitting-technology.avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698adf25e289a401b3a00a4a_people-woman-sitting-technology.avif"
                       loading="lazy"
                       width={410}
                       height={270}
@@ -106,7 +106,7 @@ export default function BlogthreeSection2() {
                 >
                   <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698afb1a2ff20da15a171b12_women-in-lab-gown-busy-workin9.avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698afb1a2ff20da15a171b12_women-in-lab-gown-busy-workin9.avif"
                       loading="lazy"
                       width={60}
                       height={60}
@@ -168,7 +168,7 @@ export default function BlogthreeSection2() {
                     className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden w-inline-block"
                   >
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698adf072595cb0f85c85e2a_women-in-lab-gown-busy-working.avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698adf072595cb0f85c85e2a_women-in-lab-gown-busy-working.avif"
                       loading="lazy"
                       width={410}
                       height={270}
@@ -193,7 +193,7 @@ export default function BlogthreeSection2() {
                 >
                   <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698af7e37da351c2a9e83e28_doctor-talking-to-a-patient%20(1).avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698af7e37da351c2a9e83e28_doctor-talking-to-a-patient_20_1_.avif"
                       loading="lazy"
                       width={60}
                       height={60}
@@ -254,7 +254,7 @@ export default function BlogthreeSection2() {
                     className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden w-inline-block"
                   >
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b264f0ecdadb3cebbf9b1_side-view-smiley-doctor-patient%202%20(4).avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698b264f0ecdadb3cebbf9b1_side-view-smiley-doctor-patient_202_20_4_.avif"
                       loading="lazy"
                       width={410}
                       height={270}
@@ -279,7 +279,7 @@ export default function BlogthreeSection2() {
                 >
                   <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698afdeb6010effb72a01257_man-in-black-and-yellow-jacket.avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698afdeb6010effb72a01257_man-in-black-and-yellow-jacket.avif"
                       loading="lazy"
                       width={60}
                       height={60}
@@ -341,7 +341,7 @@ export default function BlogthreeSection2() {
                     className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden w-inline-block"
                   >
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698adecbbce126b2dc2d2871_happy-doctor-holding-clipboard.avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698adecbbce126b2dc2d2871_happy-doctor-holding-clipboard.avif"
                       loading="lazy"
                       width={410}
                       height={270}
@@ -366,7 +366,7 @@ export default function BlogthreeSection2() {
                 >
                   <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698af44474c0410639a91167_doctor-talking-to-a-patient.avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698af44474c0410639a91167_doctor-talking-to-a-patient.avif"
                       loading="lazy"
                       width={60}
                       height={60}
@@ -428,7 +428,7 @@ export default function BlogthreeSection2() {
                     className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden w-inline-block"
                   >
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698ade3ad8763780c56360ef_woman-in-white-suit-with-stethoscope.avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698ade3ad8763780c56360ef_woman-in-white-suit-with-stethoscope.avif"
                       loading="lazy"
                       width={410}
                       height={270}
@@ -453,7 +453,7 @@ export default function BlogthreeSection2() {
                 >
                   <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698afe9037070ad7426364a0_woman-on-sofa-in-therapy-office-sharing%20(1).avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698afe9037070ad7426364a0_woman-on-sofa-in-therapy-office-sharing_20_1_.avif"
                       loading="lazy"
                       width={60}
                       height={60}
@@ -515,7 +515,7 @@ export default function BlogthreeSection2() {
                     className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden w-inline-block"
                   >
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698ade156547cd2f2f653ae0_portrait-smiling-young-doctors.avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698ade156547cd2f2f653ae0_portrait-smiling-young-doctors.avif"
                       loading="lazy"
                       width={410}
                       height={270}
@@ -539,7 +539,7 @@ export default function BlogthreeSection2() {
             >
               <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
                   loading="lazy"
                   width={60}
                   height={60}
@@ -595,7 +595,7 @@ export default function BlogthreeSection2() {
             <div className="w-layout-hflex rt-blog-three-right">
               <div className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989b148ee5826541e943f29_woman-in-white%20(1).avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989b148ee5826541e943f29_woman-in-white_20_1_.avif"
                   loading="lazy"
                   width={410}
                   height={270}
@@ -615,7 +615,7 @@ export default function BlogthreeSection2() {
             >
               <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
                   loading="lazy"
                   width={60}
                   height={60}
@@ -671,7 +671,7 @@ export default function BlogthreeSection2() {
             <div className="w-layout-hflex rt-blog-three-right">
               <div className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989b148ee5826541e943f29_woman-in-white%20(1).avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989b148ee5826541e943f29_woman-in-white_20_1_.avif"
                   loading="lazy"
                   width={410}
                   height={270}
@@ -691,7 +691,7 @@ export default function BlogthreeSection2() {
             >
               <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
                   loading="lazy"
                   width={60}
                   height={60}
@@ -747,7 +747,7 @@ export default function BlogthreeSection2() {
             <div className="w-layout-hflex rt-blog-three-right">
               <div className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989b148ee5826541e943f29_woman-in-white%20(1).avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989b148ee5826541e943f29_woman-in-white_20_1_.avif"
                   loading="lazy"
                   width={410}
                   height={270}
@@ -767,7 +767,7 @@ export default function BlogthreeSection2() {
             >
               <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
                   loading="lazy"
                   width={60}
                   height={60}
@@ -823,7 +823,7 @@ export default function BlogthreeSection2() {
             <div className="w-layout-hflex rt-blog-three-right">
               <div className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989b148ee5826541e943f29_woman-in-white%20(1).avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989b148ee5826541e943f29_woman-in-white_20_1_.avif"
                   loading="lazy"
                   width={410}
                   height={270}
@@ -843,7 +843,7 @@ export default function BlogthreeSection2() {
             >
               <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
                   loading="lazy"
                   width={60}
                   height={60}
@@ -899,7 +899,7 @@ export default function BlogthreeSection2() {
             <div className="w-layout-hflex rt-blog-three-right">
               <div className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989b148ee5826541e943f29_woman-in-white%20(1).avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989b148ee5826541e943f29_woman-in-white_20_1_.avif"
                   loading="lazy"
                   width={410}
                   height={270}
@@ -919,7 +919,7 @@ export default function BlogthreeSection2() {
             >
               <div className="w-layout-vflex rt-blog-three-left-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989ad83e9230ece0083066d_doctor-talking-to-a-patient-6749742.avif"
                   loading="lazy"
                   width={60}
                   height={60}
@@ -975,7 +975,7 @@ export default function BlogthreeSection2() {
             <div className="w-layout-hflex rt-blog-three-right">
               <div className="rt-blog-three-right-image-wrapper rt-border-radius-10 rt-overflow-hidden">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989b148ee5826541e943f29_woman-in-white%20(1).avif"
+                  src="/cdn-images/696f017270bc35c55e784979_6989b148ee5826541e943f29_woman-in-white_20_1_.avif"
                   loading="lazy"
                   width={410}
                   height={270}

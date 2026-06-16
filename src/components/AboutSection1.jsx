@@ -38,7 +38,7 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-1">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-1">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d55ea545bd513900f0340_about%20card%20one.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_698d55ea545bd513900f0340_about_20card_20one.avif"
                   loading="lazy"
                   width="377.5"
                   height={480}
@@ -53,7 +53,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
                     <img
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d592caa5f604ee6a1de1a_Group%201597885068.svg"
+                      src="/cdn-images/696f017270bc35c55e784979_698d592caa5f604ee6a1de1a_Group_201597885068.svg"
                       loading="lazy"
                       width={45}
                       height={45}
@@ -73,7 +73,7 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-2">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-2">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5e25824c1b445dd80a52_about%20card%20two.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_698d5e25824c1b445dd80a52_about_20card_20two.avif"
                   loading="lazy"
                   width="377.5"
                   height={480}
@@ -88,7 +88,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
                     <img
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5cee006c917c68d7ac65_Group%201597885068%20(1).svg"
+                      src="/cdn-images/696f017270bc35c55e784979_698d5cee006c917c68d7ac65_Group_201597885068_20_1_.svg"
                       loading="lazy"
                       width={45}
                       height={45}
@@ -108,7 +108,7 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-3">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-3">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5e2175ce16057fe488d9_about%20card%20three.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_698d5e2175ce16057fe488d9_about_20card_20three.avif"
                   loading="lazy"
                   width="377.5"
                   height={480}
@@ -123,7 +123,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
                     <img
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5ceef7e896d1e5c40c55_Group%201597885385.svg"
+                      src="/cdn-images/696f017270bc35c55e784979_698d5ceef7e896d1e5c40c55_Group_201597885385.svg"
                       loading="lazy"
                       width={45}
                       height={45}
@@ -143,7 +143,7 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-4">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-4">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5e475ea6ea70327c5413_about%20card%20four.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_698d5e475ea6ea70327c5413_about_20card_20four.avif"
                   loading="lazy"
                   width="377.5"
                   height={480}
@@ -158,7 +158,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
                     <img
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5cee824c1b445dd7ec48_Group%201597885068%20(2).svg"
+                      src="/cdn-images/696f017270bc35c55e784979_698d5cee824c1b445dd7ec48_Group_201597885068_20_2_.svg"
                       loading="lazy"
                       width={45}
                       height={45}
@@ -194,7 +194,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-1">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-1">
                     <img
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d55ea545bd513900f0340_about%20card%20one.avif"
+                      src="/cdn-images/696f017270bc35c55e784979_698d55ea545bd513900f0340_about_20card_20one.avif"
                       loading="lazy"
                       width="377.5"
                       height={480}
@@ -209,7 +209,7 @@ export default function AboutSection1() {
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
                         <img
-                          src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d592caa5f604ee6a1de1a_Group%201597885068.svg"
+                          src="/cdn-images/696f017270bc35c55e784979_698d592caa5f604ee6a1de1a_Group_201597885068.svg"
                           loading="lazy"
                           width={45}
                           height={45}
@@ -231,7 +231,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-2">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-2">
                     <img
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5e25824c1b445dd80a52_about%20card%20two.avif"
+                      src="/cdn-images/696f017270bc35c55e784979_698d5e25824c1b445dd80a52_about_20card_20two.avif"
                       loading="lazy"
                       width="377.5"
                       height={480}
@@ -246,7 +246,7 @@ export default function AboutSection1() {
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
                         <img
-                          src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5cee006c917c68d7ac65_Group%201597885068%20(1).svg"
+                          src="/cdn-images/696f017270bc35c55e784979_698d5cee006c917c68d7ac65_Group_201597885068_20_1_.svg"
                           loading="lazy"
                           width={45}
                           height={45}
@@ -270,7 +270,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-3">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-3">
                     <img
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5e2175ce16057fe488d9_about%20card%20three.avif"
+                      src="/cdn-images/696f017270bc35c55e784979_698d5e2175ce16057fe488d9_about_20card_20three.avif"
                       loading="lazy"
                       width="377.5"
                       height={480}
@@ -285,7 +285,7 @@ export default function AboutSection1() {
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
                         <img
-                          src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5ceef7e896d1e5c40c55_Group%201597885385.svg"
+                          src="/cdn-images/696f017270bc35c55e784979_698d5ceef7e896d1e5c40c55_Group_201597885385.svg"
                           loading="lazy"
                           width={45}
                           height={45}
@@ -309,7 +309,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-4">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-4">
                     <img
-                      src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5e475ea6ea70327c5413_about%20card%20four.avif"
+                      src="/cdn-images/696f017270bc35c55e784979_698d5e475ea6ea70327c5413_about_20card_20four.avif"
                       loading="lazy"
                       width="377.5"
                       height={480}
@@ -324,7 +324,7 @@ export default function AboutSection1() {
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
                         <img
-                          src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698d5cee824c1b445dd7ec48_Group%201597885068%20(2).svg"
+                          src="/cdn-images/696f017270bc35c55e784979_698d5cee824c1b445dd7ec48_Group_201597885068_20_2_.svg"
                           loading="lazy"
                           width={45}
                           height={45}

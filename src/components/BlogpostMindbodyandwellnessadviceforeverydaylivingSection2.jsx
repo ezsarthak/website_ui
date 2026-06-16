@@ -15,7 +15,7 @@ export default function BlogpostMindbodyandwellnessadviceforeverydaylivingSectio
                 >
                   <div className="rt-recrent-articles-card-left-image-wrapper rt-recent-article-iamge-gap">
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698adf072595cb0f85c85e2a_women-in-lab-gown-busy-working.avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698adf072595cb0f85c85e2a_women-in-lab-gown-busy-working.avif"
                       loading="lazy"
                       width={630}
                       height={319}
@@ -42,7 +42,7 @@ export default function BlogpostMindbodyandwellnessadviceforeverydaylivingSectio
                 >
                   <div className="rt-recrent-articles-card-left-image-wrapper rt-recent-article-iamge-gap">
                     <img
-                      src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b264f0ecdadb3cebbf9b1_side-view-smiley-doctor-patient%202%20(4).avif"
+                      src="/cdn-images/696f3fadf343717fcadd620a_698b264f0ecdadb3cebbf9b1_side-view-smiley-doctor-patient_202_20_4_.avif"
                       loading="lazy"
                       width={630}
                       height={319}
@@ -68,7 +68,7 @@ export default function BlogpostMindbodyandwellnessadviceforeverydaylivingSectio
             <div className="w-layout-vflex rt-recrent-articles-card-left">
               <div className="rt-recrent-articles-card-left-image-wrapper rt-recent-article-iamge-gap">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698b33e8f1732eab361d0750_dhhs.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_698b33e8f1732eab361d0750_dhhs.avif"
                   loading="lazy"
                   width={630}
                   height={319}
@@ -89,7 +89,7 @@ export default function BlogpostMindbodyandwellnessadviceforeverydaylivingSectio
             <div className="w-layout-vflex rt-recrent-articles-card-left">
               <div className="rt-recrent-articles-card-left-image-wrapper rt-recent-article-iamge-gap">
                 <img
-                  src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/698b33e8f1732eab361d0750_dhhs.avif"
+                  src="/cdn-images/696f017270bc35c55e784979_698b33e8f1732eab361d0750_dhhs.avif"
                   loading="lazy"
                   width={630}
                   height={319}

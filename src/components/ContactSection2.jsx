@@ -36,7 +36,7 @@ export default function ContactSection2() {
                     width={30}
                     height={42}
                     alt="pulseon contact icon"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6982e54e9220eaef7f4eadc0_69a826457fba9c898e343c95bb114e4b_pulseon-contact-icon.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_6982e54e9220eaef7f4eadc0_69a826457fba9c898e343c95bb114e4b_pulseon-contact-icon.svg"
                     loading="lazy"
                     className="rt-contact-icon-v2"
                   />
@@ -58,7 +58,7 @@ export default function ContactSection2() {
                     width={30}
                     height={30}
                     alt="pulseon contact icon"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6982e54e9220eaef7f4eadc2_4f117e6a36b8cd8284ddf0bfc5dd5d12_pulseon-contact-icon.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_6982e54e9220eaef7f4eadc2_4f117e6a36b8cd8284ddf0bfc5dd5d12_pulseon-contact-icon.svg"
                     loading="lazy"
                     className="rt-contact-icon-v2"
                   />
@@ -85,7 +85,7 @@ export default function ContactSection2() {
                     width={30}
                     height={30}
                     alt="pulseon contact icon"
-                    src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6982e54e9220eaef7f4eadc1_45a27526bc2b31bbbf8f10bd1a4a57b3_pulseon-contact-icon.svg"
+                    src="/cdn-images/696f017270bc35c55e784979_6982e54e9220eaef7f4eadc1_45a27526bc2b31bbbf8f10bd1a4a57b3_pulseon-contact-icon.svg"
                     loading="lazy"
                     className="rt-contact-icon-v2"
                   />

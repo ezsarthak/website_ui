@@ -74,7 +74,7 @@ export default function BlogtwoSection3() {
                       >
                         <div className="rt-blog-two-item-image-wrapper rt-overflow-hidden rt-blog-two-item-image-gap">
                           <img
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b154d120a7da7ece0e9f3_people-woman-sitting.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b154d120a7da7ece0e9f3_people-woman-sitting.avif"
                             loading="lazy"
                             width={410}
                             height={300}
@@ -99,7 +99,7 @@ export default function BlogtwoSection3() {
                           <div className="w-layout-hflex rt-blog-tw-item-date-wrapper">
                             <div className="w-layout-vflex rt-blog-dot">
                               <img
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                                 width={7}
                                 height={7}
@@ -125,7 +125,7 @@ export default function BlogtwoSection3() {
                       >
                         <div className="rt-blog-two-item-image-wrapper rt-overflow-hidden rt-blog-two-item-image-gap">
                           <img
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b243674c0410639b4bbc0_women-in-lab-gown-busy%20(1).avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b243674c0410639b4bbc0_women-in-lab-gown-busy_20_1_.avif"
                             loading="lazy"
                             width={410}
                             height={300}
@@ -150,7 +150,7 @@ export default function BlogtwoSection3() {
                           <div className="w-layout-hflex rt-blog-tw-item-date-wrapper">
                             <div className="w-layout-vflex rt-blog-dot">
                               <img
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                                 width={7}
                                 height={7}
@@ -176,7 +176,7 @@ export default function BlogtwoSection3() {
                       >
                         <div className="rt-blog-two-item-image-wrapper rt-overflow-hidden rt-blog-two-item-image-gap">
                           <img
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b1cbf37070ad7426b26f7_side-view-smiley-doctor-patient%202%20(2).avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b1cbf37070ad7426b26f7_side-view-smiley-doctor-patient_202_20_2_.avif"
                             loading="lazy"
                             width={410}
                             height={300}
@@ -201,7 +201,7 @@ export default function BlogtwoSection3() {
                           <div className="w-layout-hflex rt-blog-tw-item-date-wrapper">
                             <div className="w-layout-vflex rt-blog-dot">
                               <img
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                                 width={7}
                                 height={7}
@@ -227,7 +227,7 @@ export default function BlogtwoSection3() {
                       >
                         <div className="rt-blog-two-item-image-wrapper rt-overflow-hidden rt-blog-two-item-image-gap">
                           <img
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b158780735483c6611373_happy-doctor-holding.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b158780735483c6611373_happy-doctor-holding.avif"
                             loading="lazy"
                             width={410}
                             height={300}
@@ -252,7 +252,7 @@ export default function BlogtwoSection3() {
                           <div className="w-layout-hflex rt-blog-tw-item-date-wrapper">
                             <div className="w-layout-vflex rt-blog-dot">
                               <img
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                                 width={7}
                                 height={7}
@@ -278,7 +278,7 @@ export default function BlogtwoSection3() {
                       >
                         <div className="rt-blog-two-item-image-wrapper rt-overflow-hidden rt-blog-two-item-image-gap">
                           <img
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b159d0c873b4b9596da8e_woman-in-white-suit.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b159d0c873b4b9596da8e_woman-in-white-suit.avif"
                             loading="lazy"
                             width={410}
                             height={300}
@@ -303,7 +303,7 @@ export default function BlogtwoSection3() {
                           <div className="w-layout-hflex rt-blog-tw-item-date-wrapper">
                             <div className="w-layout-vflex rt-blog-dot">
                               <img
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                                 width={7}
                                 height={7}
@@ -329,7 +329,7 @@ export default function BlogtwoSection3() {
                       >
                         <div className="rt-blog-two-item-image-wrapper rt-overflow-hidden rt-blog-two-item-image-gap">
                           <img
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b15c4e65541ceb76bb865_portrait-smiling-young-doctors-standing-together.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b15c4e65541ceb76bb865_portrait-smiling-young-doctors-standing-together.avif"
                             loading="lazy"
                             width={410}
                             height={300}
@@ -354,7 +354,7 @@ export default function BlogtwoSection3() {
                           <div className="w-layout-hflex rt-blog-tw-item-date-wrapper">
                             <div className="w-layout-vflex rt-blog-dot">
                               <img
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                                 width={7}
                                 height={7}
@@ -380,7 +380,7 @@ export default function BlogtwoSection3() {
                       >
                         <div className="rt-blog-two-item-image-wrapper rt-overflow-hidden rt-blog-two-item-image-gap">
                           <img
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b12a1477beb2adb8f2e61_Doctor%20One.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b12a1477beb2adb8f2e61_Doctor_20One.avif"
                             loading="lazy"
                             width={410}
                             height={300}
@@ -405,7 +405,7 @@ export default function BlogtwoSection3() {
                           <div className="w-layout-hflex rt-blog-tw-item-date-wrapper">
                             <div className="w-layout-vflex rt-blog-dot">
                               <img
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                                 width={7}
                                 height={7}
@@ -432,7 +432,7 @@ export default function BlogtwoSection3() {
                       >
                         <div className="rt-blog-two-item-image-wrapper rt-overflow-hidden rt-blog-two-item-image-gap">
                           <img
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b12b61deb22fc2cff592d_Doctro%20Two.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b12b61deb22fc2cff592d_Doctro_20Two.avif"
                             loading="lazy"
                             width={410}
                             height={300}
@@ -457,7 +457,7 @@ export default function BlogtwoSection3() {
                           <div className="w-layout-hflex rt-blog-tw-item-date-wrapper">
                             <div className="w-layout-vflex rt-blog-dot">
                               <img
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                                 width={7}
                                 height={7}
@@ -484,7 +484,7 @@ export default function BlogtwoSection3() {
                       >
                         <div className="rt-blog-two-item-image-wrapper rt-overflow-hidden rt-blog-two-item-image-gap">
                           <img
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b253a5f5ea60243b61046_doctordfjg.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b253a5f5ea60243b61046_doctordfjg.avif"
                             loading="lazy"
                             width={410}
                             height={300}
@@ -509,7 +509,7 @@ export default function BlogtwoSection3() {
                           <div className="w-layout-hflex rt-blog-tw-item-date-wrapper">
                             <div className="w-layout-vflex rt-blog-dot">
                               <img
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                                 width={7}
                                 height={7}
@@ -547,7 +547,7 @@ export default function BlogtwoSection3() {
                             width={410}
                             height={300}
                             alt="image"
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b12a1477beb2adb8f2e61_Doctor%20One.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b12a1477beb2adb8f2e61_Doctor_20One.avif"
                             loading="lazy"
                             style={{
                               WebkitTransform:
@@ -572,7 +572,7 @@ export default function BlogtwoSection3() {
                                 width={7}
                                 height={7}
                                 alt="image"
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                               />
                             </div>
@@ -598,7 +598,7 @@ export default function BlogtwoSection3() {
                             width={410}
                             height={300}
                             alt="image"
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b159d0c873b4b9596da8e_woman-in-white-suit.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b159d0c873b4b9596da8e_woman-in-white-suit.avif"
                             loading="lazy"
                             style={{
                               WebkitTransform:
@@ -623,7 +623,7 @@ export default function BlogtwoSection3() {
                                 width={7}
                                 height={7}
                                 alt="image"
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                               />
                             </div>
@@ -648,7 +648,7 @@ export default function BlogtwoSection3() {
                             width={410}
                             height={300}
                             alt="image"
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b15c4e65541ceb76bb865_portrait-smiling-young-doctors-standing-together.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b15c4e65541ceb76bb865_portrait-smiling-young-doctors-standing-together.avif"
                             loading="lazy"
                             style={{
                               WebkitTransform:
@@ -673,7 +673,7 @@ export default function BlogtwoSection3() {
                                 width={7}
                                 height={7}
                                 alt="image"
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                               />
                             </div>
@@ -707,7 +707,7 @@ export default function BlogtwoSection3() {
                             width={410}
                             height={300}
                             alt="image"
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b1cbf37070ad7426b26f7_side-view-smiley-doctor-patient%202%20(2).avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b1cbf37070ad7426b26f7_side-view-smiley-doctor-patient_202_20_2_.avif"
                             loading="lazy"
                             style={{
                               WebkitTransform:
@@ -732,7 +732,7 @@ export default function BlogtwoSection3() {
                                 width={7}
                                 height={7}
                                 alt="image"
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                               />
                             </div>
@@ -757,7 +757,7 @@ export default function BlogtwoSection3() {
                             width={410}
                             height={300}
                             alt="image"
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b12b61deb22fc2cff592d_Doctro%20Two.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b12b61deb22fc2cff592d_Doctro_20Two.avif"
                             loading="lazy"
                             style={{
                               WebkitTransform:
@@ -782,7 +782,7 @@ export default function BlogtwoSection3() {
                                 width={7}
                                 height={7}
                                 alt="image"
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                               />
                             </div>
@@ -808,7 +808,7 @@ export default function BlogtwoSection3() {
                             width={410}
                             height={300}
                             alt="image"
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b253a5f5ea60243b61046_doctordfjg.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b253a5f5ea60243b61046_doctordfjg.avif"
                             loading="lazy"
                             style={{
                               WebkitTransform:
@@ -833,7 +833,7 @@ export default function BlogtwoSection3() {
                                 width={7}
                                 height={7}
                                 alt="image"
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                               />
                             </div>
@@ -868,7 +868,7 @@ export default function BlogtwoSection3() {
                             width={410}
                             height={300}
                             alt="image"
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b154d120a7da7ece0e9f3_people-woman-sitting.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b154d120a7da7ece0e9f3_people-woman-sitting.avif"
                             loading="lazy"
                             style={{
                               WebkitTransform:
@@ -893,7 +893,7 @@ export default function BlogtwoSection3() {
                                 width={7}
                                 height={7}
                                 alt="image"
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                               />
                             </div>
@@ -918,7 +918,7 @@ export default function BlogtwoSection3() {
                             width={410}
                             height={300}
                             alt="image"
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b243674c0410639b4bbc0_women-in-lab-gown-busy%20(1).avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b243674c0410639b4bbc0_women-in-lab-gown-busy_20_1_.avif"
                             loading="lazy"
                             style={{
                               WebkitTransform:
@@ -943,7 +943,7 @@ export default function BlogtwoSection3() {
                                 width={7}
                                 height={7}
                                 alt="image"
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                               />
                             </div>
@@ -968,7 +968,7 @@ export default function BlogtwoSection3() {
                             width={410}
                             height={300}
                             alt="image"
-                            src="https://cdn.prod.website-files.com/696f3fadf343717fcadd620a/698b158780735483c6611373_happy-doctor-holding.avif"
+                            src="/cdn-images/696f3fadf343717fcadd620a_698b158780735483c6611373_happy-doctor-holding.avif"
                             loading="lazy"
                             style={{
                               WebkitTransform:
@@ -993,7 +993,7 @@ export default function BlogtwoSection3() {
                                 width={7}
                                 height={7}
                                 alt="image"
-                                src="https://cdn.prod.website-files.com/696f017270bc35c55e784979/6989ce21a19ad5fddbda9abd_Ellipse%201316.svg"
+                                src="/cdn-images/696f017270bc35c55e784979_6989ce21a19ad5fddbda9abd_Ellipse_201316.svg"
                                 loading="lazy"
                               />
                             </div>
