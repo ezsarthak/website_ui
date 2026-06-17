@@ -70,8 +70,8 @@ export default function Navbar() {
                   </a>
                 </div>
                 <div className="w-layout-hflex rt-nav-link" style={{ whiteSpace: 'nowrap' }}>
-                  <a href="/specialists" className="rt-nav-link-text w-nav-link">
-                    Specialists
+                  <a href="/team" className="rt-nav-link-text w-nav-link">
+                    Team
                   </a>
                 </div>
                 <div className="w-layout-hflex rt-nav-link rt-nav-link-last-gap">

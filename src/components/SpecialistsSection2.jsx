@@ -42,17 +42,16 @@ export default function SpecialistsSection2() {
                 style={{ opacity: 0 }}
                 className="rt-gap-off rt-h2-heading-gap rt-pricing-details-heading"
               >
-                A complete workflow engine tailored for modern clinics
+                Dedicated to transforming healthcare
               </h2>
               <p
                 data-w-id="51638350-f806-61fb-35b4-fc57e38d5432"
                 style={{ opacity: 0 }}
                 className="rt-gap-off rt-description-gap rt-secondary-text-color"
               >
-                Our experienced team of healthcare professionals is dedicated to
-                delivering compassionate, evidence-based care with personalized
-                treatment approaches that prioritize patient safety, comfort,
-                and long-term health outcomes.
+                Our dedicated team of engineers, designers, and healthcare
+                experts are committed to building the most reliable and
+                efficient clinic flow system in the world.
               </p>
               <div
                 data-w-id="af0494d2-57de-009d-d40c-eb18dc954b0a"
@@ -64,9 +63,9 @@ export default function SpecialistsSection2() {
                 style={{ opacity: 0 }}
                 className="rt-team-member-description"
               >
-                Monavi Flow Engine,&nbsp;&nbsp;&nbsp;
+                Monavi,&nbsp;&nbsp;&nbsp;
                 <span className="rt-secondary-text-color">
-                  Core Architecture
+                  The Team
                 </span>
               </div>
             </div>

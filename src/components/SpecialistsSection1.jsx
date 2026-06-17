@@ -10,14 +10,14 @@ export default function SpecialistsSection1() {
             style={{ opacity: 0 }}
             className="rt-gap-off rt-h2-heading-gap"
           >
-            Built for everyone in your clinic
+            Meet the Monavi Team
           </h2>
           <p
             data-w-id="6622493a-dcc9-9181-af34-3fd6b8796fa8"
             style={{ opacity: 0 }}
             className="rt-gap-off rt-teams-hero-description rt-hero-description-gap"
           >
-            A powerful system designed to empower receptionists, assist doctors, and give clinic owners full control over their practice.
+            We are a team of passionate individuals dedicated to improving clinic workflows and patient experiences.
           </p>
           <div
             data-w-id="3d7ebbab-80c3-454b-b7e9-13e23f9b29bf"

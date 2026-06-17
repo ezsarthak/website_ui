@@ -70,7 +70,7 @@ export default function Footer() {
               { name: 'Home', path: '/' },
               { name: 'About Us', path: '/about' },
               { name: 'Services', path: '/service' },
-              { name: 'Specialists', path: '/specialists' },
+              { name: 'Team', path: '/team' },
               { name: 'Book Appointment', path: '/appointment-schedule' },
               { name: 'Contact', path: '/contact' }
             ].map(link => (
