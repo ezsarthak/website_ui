@@ -2,7 +2,7 @@ import React from "react";
 
 export default function AboutSection9() {
   return (
-    <section className="rt-marquee-v7 rt-overflow-hidden">
+    <section className="rt-marquee-v7 rt-overflow-hidden" style={{ zoom: 0.45 }}>
       <div
         data-w-id="0927c1df-0adb-5cc4-8869-4af6e4dc7beb"
         className="w-layout-hflex rt-marquee-train-wrapper rt-oveflow-hidden"
@@ -12,8 +12,8 @@ export default function AboutSection9() {
             <img
               width={122}
               height={121}
-              alt="Dental Checkup Scene "
-              src="/assets/696f017270bc35c55e784979_699323d9468c01d51d24a7e0_Dental_20Checkup_20Scene_201.svg"
+              alt="Monavi Logo"
+              src="/monavi/monavi_logo.png"
               loading="lazy"
             />
           </div>
@@ -24,10 +24,9 @@ export default function AboutSection9() {
             <img
               width={122}
               height={121}
-              alt="heltro-dental checkup"
-              src="/assets/696f017270bc35c55e784979_69afe5651bc20c6643effdb6_Dental_20checkup.webp"
+              alt="Monavi Logo"
+              src="/monavi/monavi_logo.png"
               loading="lazy"
-              sizes="122px"
             />
           </div>
           <div className="rt-marquee-text-wrapper rt-two">
@@ -39,8 +38,8 @@ export default function AboutSection9() {
             <img
               width={122}
               height={121}
-              alt="Dental Checkup Scene "
-              src="/assets/696f017270bc35c55e784979_699323d9468c01d51d24a7e0_Dental_20Checkup_20Scene_201.svg"
+              alt="Monavi Logo"
+              src="/monavi/monavi_logo.png"
               loading="lazy"
             />
           </div>
@@ -51,10 +50,9 @@ export default function AboutSection9() {
             <img
               width={122}
               height={121}
-              alt="heltro-dental checkup"
-              src="/assets/696f017270bc35c55e784979_69afe5651bc20c6643effdb6_Dental_20checkup.webp"
+              alt="Monavi Logo"
+              src="/monavi/monavi_logo.png"
               loading="lazy"
-              sizes="122px"
             />
           </div>
           <div className="rt-marquee-text-wrapper rt-two">
@@ -66,8 +64,8 @@ export default function AboutSection9() {
             <img
               width={122}
               height={121}
-              alt="Dental Checkup Scene "
-              src="/assets/696f017270bc35c55e784979_699323d9468c01d51d24a7e0_Dental_20Checkup_20Scene_201.svg"
+              alt="Monavi Logo"
+              src="/monavi/monavi_logo.png"
               loading="lazy"
             />
           </div>
@@ -78,10 +76,9 @@ export default function AboutSection9() {
             <img
               width={122}
               height={121}
-              alt="heltro-dental checkup"
-              src="/assets/696f017270bc35c55e784979_69afe5651bc20c6643effdb6_Dental_20checkup.webp"
+              alt="Monavi Logo"
+              src="/monavi/monavi_logo.png"
               loading="lazy"
-              sizes="122px"
             />
           </div>
           <div className="rt-marquee-text-wrapper rt-two">

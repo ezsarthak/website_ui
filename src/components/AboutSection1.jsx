@@ -38,11 +38,11 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-1">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-1">
                 <img
-                  src="/assets/696f017270bc35c55e784979_698d55ea545bd513900f0340_about_20card_20one.avif"
+                  src="/monavi/Automated_Reminders.png"
                   loading="lazy"
                   width="377.5"
                   height={480}
-                  alt="about card one"
+                  alt="Automated Reminders"
                 />
               </div>
               <div
@@ -73,11 +73,11 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-2">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-2">
                 <img
-                  src="/assets/696f017270bc35c55e784979_698d5e25824c1b445dd80a52_about_20card_20two.avif"
+                  src="/monavi/Reduce_Chaos.png"
                   loading="lazy"
                   width="377.5"
                   height={480}
-                  alt="about card two"
+                  alt="Reduce Chaos"
                 />
               </div>
               <div
@@ -108,11 +108,11 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-3">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-3">
                 <img
-                  src="/assets/696f017270bc35c55e784979_698d5e2175ce16057fe488d9_about_20card_20three.avif"
+                  src="/monavi/Patient_Retention.png"
                   loading="lazy"
                   width="377.5"
                   height={480}
-                  alt="about card three"
+                  alt="Patient Retention"
                 />
               </div>
               <div
@@ -143,11 +143,11 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-4">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-4">
                 <img
-                  src="/assets/696f017270bc35c55e784979_698d5e475ea6ea70327c5413_about_20card_20four.avif"
+                  src="/monavi/Queue_Tracking.png"
                   loading="lazy"
                   width="377.5"
                   height={480}
-                  alt="about card four"
+                  alt="Queue Tracking"
                 />
               </div>
               <div
@@ -194,11 +194,11 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-1">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-1">
                     <img
-                      src="/assets/696f017270bc35c55e784979_698d55ea545bd513900f0340_about_20card_20one.avif"
+                      src="/monavi/Automated_Reminders.png"
                       loading="lazy"
                       width="377.5"
                       height={480}
-                      alt="about card one"
+                      alt="Automated Reminders"
                     />
                   </div>
                   <div
@@ -231,11 +231,11 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-2">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-2">
                     <img
-                      src="/assets/696f017270bc35c55e784979_698d5e25824c1b445dd80a52_about_20card_20two.avif"
+                      src="/monavi/Reduce_Chaos.png"
                       loading="lazy"
                       width="377.5"
                       height={480}
-                      alt="about card two"
+                      alt="Reduce Chaos"
                     />
                   </div>
                   <div
@@ -270,11 +270,11 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-3">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-3">
                     <img
-                      src="/assets/696f017270bc35c55e784979_698d5e2175ce16057fe488d9_about_20card_20three.avif"
+                      src="/monavi/Patient_Retention.png"
                       loading="lazy"
                       width="377.5"
                       height={480}
-                      alt="about card three"
+                      alt="Patient Retention"
                     />
                   </div>
                   <div
@@ -309,11 +309,11 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-4">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-4">
                     <img
-                      src="/assets/696f017270bc35c55e784979_698d5e475ea6ea70327c5413_about_20card_20four.avif"
+                      src="/monavi/Queue_Tracking.png"
                       loading="lazy"
                       width="377.5"
                       height={480}
-                      alt="about card four"
+                      alt="Queue Tracking"
                     />
                   </div>
                   <div
