@@ -11,7 +11,7 @@ export default function ServiceSection1() {
         className="rt-contact-background-image-wrapper"
       >
         <img
-          src="/assets/696f017270bc35c55e784979_698337778e577b294f4d6e16_271ba4d4e5a5d529d38016fdf1d71c48_Service_20Banner_20Background.avif"
+          src="/monavi/service_page_bg.png"
           alt="Service Banner Background"
           width={1920}
           height={843}
