@@ -105,7 +105,7 @@ export default function ContactSection2() {
           <div className="w-layout-hflex rt-session-image-v2 rt-overflow-hidden rt-border-radius-10">
             <img
               className="rt-move-image"
-              src="/images/monavi/receptionist_using_software_1781317951601.png"
+              src="/monavi/recep.png"
               width={630}
               height={700}
               alt="pulseon contact image"

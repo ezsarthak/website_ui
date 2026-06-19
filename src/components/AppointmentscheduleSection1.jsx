@@ -60,7 +60,7 @@ export default function AppointmentscheduleSection1() {
                 data-wf-ignore="true"
                 className="rt-pricing-video w-background-video w-background-video-atom"
               >
-                <img src="/images/monavi/doctor_digital_prescription_1781317963970.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+                <img src="/monavi/recep_efficiency.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
                 <noscript>
                   &lt;style&gt; [data-wf-bgvideo-fallback-img] {"{"}
                   display: none;

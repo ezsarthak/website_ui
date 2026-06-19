@@ -8,7 +8,7 @@ export default function ContactSection3() {
           <div className="w-layout-hflex rt-session-image-v2 rt-overflow-hidden rt-border-radius-10">
             <img
               className="rt-move-image rt-image-position-left"
-              src="/images/monavi/hero_dashboard_mockup_1781317936748.png"
+              src="/monavi/doctor_dashboard.jpg"
               width={630}
               height={700}
               alt="pulseon free session image"
