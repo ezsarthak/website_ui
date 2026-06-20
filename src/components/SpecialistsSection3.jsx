@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function SpecialistsSection3() {
   return (
@@ -12,12 +13,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/sarthak"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     className="rt-team-member-iamge"
                     src="/assets/696f3fadf343717fcadd620a_69899caf96d02ec3155adeef_woman-doctor-wearing-lab-coat.webp"
                     width={427}
@@ -41,12 +42,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/jane-smith"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_698994e4bc68347eaeba3812_pexels-gustavo-fring-5934411_201_20_1_.avif"
                     loading="lazy"
                     width={427}
@@ -67,12 +68,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/alex-johnson"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_6989958fe9230ece007d59ee_kdfbhjs.avif"
                     loading="lazy"
                     width={427}
@@ -95,12 +96,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/michael-lee"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_6989961deafb5b39826afbbf_Professional_20Portrait_201_20_2_.avif"
                     loading="lazy"
                     width={427}
@@ -123,12 +124,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/emily-chen"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_6989966c266678e939b8a7df_Medical_20Professional_20Portrait_20_2__201.avif"
                     loading="lazy"
                     width={427}
@@ -151,12 +152,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/david-brown"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_6989975c56f5db37da6c7aca_professional-portrait-hp1z0fhgaif_20_1_.avif"
                     loading="lazy"
                     width={427}
@@ -177,12 +178,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/anna-taylor"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_69899786ac95f67f6e1065f5_Medical_20Professional_20Portrait_201_20_1_.avif"
                     loading="lazy"
                     width={427}
@@ -203,12 +204,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/chris-evans"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_698998086400b1ebc398f084_young-doctor-getting-ready-work_201_20_1_.avif"
                     loading="lazy"
                     width={427}
@@ -231,12 +232,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/daniel-garcia"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_698998086400b1ebc398f084_young-doctor-getting-ready-work_201_20_1_.avif"
                     loading="lazy"
                     width={427}
@@ -259,12 +260,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/jessica-patel"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_69899caf96d02ec3155adeef_woman-doctor-wearing-lab-coat.webp"
                     loading="lazy"
                     width={427}
@@ -287,12 +288,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/matthew-kim"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_698994e4bc68347eaeba3812_pexels-gustavo-fring-5934411_201_20_1_.avif"
                     loading="lazy"
                     width={427}
@@ -315,12 +316,12 @@ export default function SpecialistsSection3() {
             <div role="listitem" className="w-dyn-item">
               <a
                 data-w-id="bf4c5f67-e372-26db-6419-7bba171d04b6"
-                style={{ opacity: 0 }}
+                
                 href="/team/laura-martinez"
                 className="rt-team-member-image-wrapper rt-position-relative rt-overflow-hidden w-inline-block"
               >
                 <div className="rt-overflow-hidden rt-border-radius-10">
-                  <img
+                  <Image 
                     src="/assets/696f3fadf343717fcadd620a_6989961deafb5b39826afbbf_Professional_20Portrait_201_20_2_.avif"
                     loading="lazy"
                     width={427}

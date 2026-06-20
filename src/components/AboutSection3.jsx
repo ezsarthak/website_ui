@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function AboutSection3() {
   return (
@@ -23,7 +24,7 @@ export default function AboutSection3() {
                 <div className="w-layout-vflex rt-grow-text-wrapper rt-margin-left rt-overflow-hidden">
                   <div
                     data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b13d0"
-                    style={{ opacity: 0 }}
+                    
                     className="rt-font-weight-semi-bold rt-service-subtext-gap"
                   >
                     Features
@@ -32,7 +33,7 @@ export default function AboutSection3() {
                     <div className="rt-overflow-hidden">
                       <h2
                         data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b13d4"
-                        style={{ opacity: 0 }}
+                        
                         className="rt-gap-off"
                       >
                         Automate patient tracking and reduce clinic chaos
@@ -42,7 +43,7 @@ export default function AboutSection3() {
                   <div className="rt-groe-v2-paragraph-wrapper">
                     <p
                       data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b13d6"
-                      style={{ opacity: 0 }}
+                      
                       className="rt-gap-off rt-grow-paragraph-v3"
                     >
                       Replace messy queues with smart waitlists and automated reminders that keep your clinic running smoothly.
@@ -50,7 +51,7 @@ export default function AboutSection3() {
                   </div>
                   <div
                     data-w-id="cfaaa2f1-ca38-1050-099d-317986cfd429"
-                    style={{ opacity: 0 }}
+                    
                   >
                     <a
                       data-wf--rt-button--variant="base"
@@ -74,7 +75,7 @@ export default function AboutSection3() {
                   data-w-id="1011331b-4bdb-0373-b3e8-5d26ef8d6084"
                   className="w-layout-hflex rt-grow-image-wrapper rt-border-radius-10 rt-oveflow-hidden"
                 >
-                  <img
+                  <Image 
                     width={1290}
                     height={606}
                     alt="pulseon about one grow image"
@@ -103,7 +104,7 @@ export default function AboutSection3() {
               <div className="w-layout-vflex rt-grow-text-wrapper rt-mobile-text-center rt-overflow-hidden">
                 <div
                   data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b13e4"
-                  style={{ opacity: 0 }}
+                  
                   className="rt-font-weight-semi-bold rt-service-subtext-gap"
                 >
                   Features
@@ -112,7 +113,7 @@ export default function AboutSection3() {
                   <div className="rt-overflow-hidden">
                     <h2
                       data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b13e8"
-                      style={{ opacity: 0 }}
+                      
                       className="rt-gap-off"
                     >
                       Keep patients returning with smart automated follow-ups
@@ -122,7 +123,7 @@ export default function AboutSection3() {
                 <div className="rt-groe-v2-paragraph-wrapper">
                   <p
                     data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b13ea"
-                    style={{ opacity: 0 }}
+                    
                     className="rt-gap-off rt-grow-paragraph-v3"
                   >
                     Automated engagement loops designed to bring patients back without adding manual work for reception.
@@ -130,7 +131,7 @@ export default function AboutSection3() {
                 </div>
                 <div
                   data-w-id="2dbf2299-744c-60d2-f86d-81e4053244cf"
-                  style={{ opacity: 0 }}
+                  
                 >
                   <a
                     data-wf--rt-button--variant="base"
@@ -155,7 +156,7 @@ export default function AboutSection3() {
               data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b13f6"
               className="w-layout-hflex rt-grow-image-wrapper-v2 rt-border-radius-10 rt-overflow-hidden"
             >
-              <img
+              <Image 
                 width={408}
                 height={445}
                 alt="pulseon about one grow image"
@@ -182,7 +183,7 @@ export default function AboutSection3() {
               <div className="w-layout-vflex rt-grow-text-wrapper rt-mobile-text-center rt-overflow-hidden">
                 <div
                   data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b1402"
-                  style={{ opacity: 0 }}
+                  
                   className="rt-font-weight-semi-bold rt-service-subtext-gap"
                 >
                   Features
@@ -191,7 +192,7 @@ export default function AboutSection3() {
                   <div className="rt-overflow-hidden">
                     <h2
                       data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b1406"
-                      style={{ opacity: 0 }}
+                      
                       className="rt-gap-off"
                     >
                       Simplify doctor workflows and increase daily appointments
@@ -200,14 +201,14 @@ export default function AboutSection3() {
                 </div>
                 <p
                   data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b1408"
-                  style={{ opacity: 0 }}
+                  
                   className="rt-gap-off rt-grow-paragraph-v3"
                 >
                   Manage the flow of appointments seamlessly and ensure a steady stream of visits.
                 </p>
                 <div
                   data-w-id="554a76b8-aada-0da4-46d5-1c97d27e2b67"
-                  style={{ opacity: 0 }}
+                  
                 >
                   <a
                     data-wf--rt-button--variant="base"
@@ -232,7 +233,7 @@ export default function AboutSection3() {
               data-w-id="258ae1e1-725a-5f8f-ef8d-99f6041b1413"
               className="w-layout-hflex rt-grow-image-wrapper-v2 rt-border-radius-10 rt-overflow-hidden rt-change"
             >
-              <img
+              <Image 
                 width={408}
                 height={445}
                 alt="pulseon about one grow image"

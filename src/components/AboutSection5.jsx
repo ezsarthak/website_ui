@@ -8,21 +8,21 @@ export default function AboutSection5() {
           <div className="w-layout-vflex rt-apointment-left rt-mobile-text-center">
             <h2
               data-w-id="c4b0a78a-c2f7-a16a-59fd-1eb9a32727f0"
-              style={{ opacity: 0 }}
+              
               className="rt-gap-off rt-h2-heading-gap"
             >
               Empowering clinic owners to maximize efficiency
             </h2>
             <p
               data-w-id="d7b7ba00-e689-0bd1-ad15-02d36e10b58d"
-              style={{ opacity: 0 }}
+              
               className="rt-gap-off rt-apointment-description rt-secondary-text-color"
             >
               Reduce no-shows, increase repeat visits, and streamline reception workflows without adding extra staff.
             </p>
             <div
               data-w-id="e9e234d6-0333-26df-935e-083b03ae2ab0"
-              style={{ opacity: 0 }}
+              
             >
               <a
                 data-wf--rt-button--variant="base"
@@ -43,7 +43,7 @@ export default function AboutSection5() {
           <div className="w-layout-vflex rt-apointment-right">
             <div
               data-w-id="07d87a7e-0ca9-b0a1-b96f-e48e74379996"
-              style={{ opacity: 0 }}
+              
               className="w-layout-hflex rt-apointment-counter-wrapper rt-position-relative"
             >
               <div
@@ -140,7 +140,7 @@ export default function AboutSection5() {
             </div>
             <div
               data-w-id="9d96ce88-62cc-5e92-e2eb-58f3806e9f85"
-              style={{ opacity: 0 }}
+              
               className="w-layout-hflex rt-apointment-counter-wrapper rt-position-relative"
             >
               <div
@@ -273,7 +273,7 @@ export default function AboutSection5() {
             </div>
             <div
               data-w-id="62198ecb-ba0c-455e-b237-05dca3c2c654"
-              style={{ opacity: 0 }}
+              
               className="w-layout-hflex rt-apointment-counter-wrapper rt-position-relative"
             >
               <div
@@ -374,7 +374,7 @@ export default function AboutSection5() {
             </div>
             <div
               data-w-id="b935e9e5-e50b-d7f5-80f9-876d49326c97"
-              style={{ opacity: 0 }}
+              
               className="w-layout-hflex rt-apointment-counter-wrapper rt-position-relative"
             >
               <div

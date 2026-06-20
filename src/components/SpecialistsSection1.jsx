@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function SpecialistsSection1() {
   return (
@@ -7,21 +8,21 @@ export default function SpecialistsSection1() {
         <div className="w-layout-vflex rt-teams-hero-main rt-text-center">
           <h2
             data-w-id="abbd9277-bf91-7011-aad8-71f316fb1d05"
-            style={{ opacity: 0 }}
+            
             className="rt-gap-off rt-h2-heading-gap"
           >
             Meet the Monavi Team
           </h2>
           <p
             data-w-id="6622493a-dcc9-9181-af34-3fd6b8796fa8"
-            style={{ opacity: 0 }}
+            
             className="rt-gap-off rt-teams-hero-description rt-hero-description-gap"
           >
             We are a team of passionate individuals dedicated to improving clinic workflows and patient experiences.
           </p>
           <div
             data-w-id="3d7ebbab-80c3-454b-b7e9-13e23f9b29bf"
-            style={{ opacity: 0 }}
+            
             className="w-layout-hflex rt-hero-service-button-wrapper"
           >
             <a
@@ -57,14 +58,14 @@ export default function SpecialistsSection1() {
       </div>
       <div
         data-w-id="7dafd06f-ced5-ecd9-deb7-b858d7118139"
-        style={{ opacity: 0 }}
+        
         className="rt-position-relative rt-overflow-hidden"
       >
         <div
           data-w-id="b185508f-3369-af92-168c-43a19e433784"
           className="rt-teams-image-wrapper"
         >
-          <img
+          <Image 
             src="/images/monavi/receptionist_using_software_1781317951601.png"
             loading="lazy"
             width={1920}

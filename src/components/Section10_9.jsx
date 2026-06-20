@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function Section10_9() {
   return (
@@ -10,20 +11,19 @@ export default function Section10_9() {
               id="w-node-_9982a5f0-7390-5432-cb8b-67d77e73ddb6-5e7849ad"
               className="rt-grid-item-one rt-overflow-hidden"
             >
-              <img
-                src="/monavi/recep.png"
+              <Image width={800} height={600} 
+                src="/monavi/Workflow%20Automation%20service%20page.png"
                 loading="lazy"
-                width={850}
-                height={709}
-                alt="Receptionist Software"
+                sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 608px"
+                alt="monavi-image"
                 data-w-id="cf598317-6821-e76c-18e6-cbc45bca6c81"
-                style={{ opacity: 0, objectFit: 'cover' }}
+                style={{ objectFit: 'cover', width: "100%", height: "auto" }}
               />
             </div>
             <div className="rt-portfolio-right-grid">
               <div
                 data-w-id="e6257efe-a828-6b96-c4d4-d451d1d5ad3c"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-grid-item-two"
               >
                 <div className="rt-grid-item-two-title-warpper">
@@ -34,7 +34,7 @@ export default function Section10_9() {
                 </div>
                 <div className="w-layout-vflex rt-grid-item-bottom-wrapper">
                   <div className="w-layout-hflex rt-signature-wrapper">
-                    <img
+                    <Image 
                       src="/fonts/696f6df8b5586175ba1cd8af_Dr.A.markemo.svg"
                       loading="lazy"
                       width={124}
@@ -47,17 +47,16 @@ export default function Section10_9() {
                   </div>
                 </div>
                 <div className="rt-heart-icon-wrapper">
-                  <img
+                  <Image width={800} height={600} 
                     src="/fonts/699d53a8f9eecfd18f9aa453_Group%2016%20%281%29.svg"
                     loading="lazy"
                     alt="Heart Icon"
-                    height="Auto"
                   />
                 </div>
               </div>
               <div
                 data-w-id="6b0c93b6-7a53-93a3-a82a-454411173531"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-grid-item-three"
               >
                 <div className="rt-text-style-h1">10x</div>
@@ -71,11 +70,11 @@ export default function Section10_9() {
           <div className="w-layout-hflex rt-doctor-portfolio-bottom">
             <div
               data-w-id="86e6af88-76e5-982c-2b5d-1120620ebbf4"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-portfolio-card-item-one rt-text-center"
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
-                <img
+                <Image 
                   src="/fonts/696f7b4bb5f35f3d5fb74aab_Darmatology%20icon.svg"
                   loading="lazy"
                   width={51}
@@ -93,11 +92,11 @@ export default function Section10_9() {
             </div>
             <div
               data-w-id="2e234df2-a009-3e0f-46dd-e059ee8546ce"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-portfolio-card-item-one rt-text-center rt-two"
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
-                <img
+                <Image 
                   src="/fonts/696f7e1279916125fded0bb6_Cardiology%20Icon.svg"
                   loading="lazy"
                   width={51}
@@ -115,11 +114,11 @@ export default function Section10_9() {
             </div>
             <div
               data-w-id="f5068072-c75e-d8b9-62c9-4b90df97387e"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-portfolio-card-item-one rt-text-center rt-three"
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
-                <img
+                <Image 
                   src="/fonts/696f7f1113e093a41616f2c6_Orthopedic%20care.svg"
                   loading="lazy"
                   width={51}
@@ -137,11 +136,11 @@ export default function Section10_9() {
             </div>
             <div
               data-w-id="4221ef72-52f4-e209-76f0-5a2d1e4964d1"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-portfolio-card-item-one rt-text-center rt-four"
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
-                <img
+                <Image 
                   src="/fonts/696f7f119a2cade9e09e2271_Neurology%20care.svg"
                   loading="lazy"
                   width={51}

@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function ServiceSection3() {
   return (
@@ -8,7 +9,7 @@ export default function ServiceSection3() {
           <div className="rt-overflow-hidden">
             <h2
               data-w-id="8c09893c-2dad-a5de-4221-db5a16d95d18"
-              style={{ opacity: 0 }}
+              
               className="rt-gap-off rt-text-center"
             >
               Where smart workflows meet exceptional patient experiences
@@ -36,7 +37,7 @@ export default function ServiceSection3() {
                 className="rt-slider-v1-image-one"
               >
                 <div className="rt-position-relative rt-border-radius-10 rt-overflow-hidden">
-                  <img
+                  <Image 
                     width={410}
                     height={660}
                     alt="Yoga Image"
@@ -68,7 +69,7 @@ export default function ServiceSection3() {
                 className="rt-slider-v1-image-two"
               >
                 <div className="rt-position-relative rt-border-radius-10 rt-overflow-hidden">
-                  <img
+                  <Image 
                     width={410}
                     height={660}
                     alt="Yoga Image"
@@ -76,7 +77,7 @@ export default function ServiceSection3() {
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
-                    style={{ opacity: 0 }}
+                    
                     className="w-layout-hflex rt-slider-v1-image-contant-text two"
                   >
                     <div className="rt-text-style-h6 rt-text-color-white rt-text-center">
@@ -100,7 +101,7 @@ export default function ServiceSection3() {
                 className="rt-slider-v1-image-three"
               >
                 <div className="rt-position-relative rt-border-radius-10 rt-overflow-hidden">
-                  <img
+                  <Image 
                     width={410}
                     height={660}
                     alt="Yoga Image"
@@ -108,7 +109,7 @@ export default function ServiceSection3() {
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
-                    style={{ opacity: 0 }}
+                    
                     className="w-layout-hflex rt-slider-v1-image-contant-text three"
                   >
                     <div className="rt-text-style-h6 rt-text-color-white rt-text-center">
@@ -132,7 +133,7 @@ export default function ServiceSection3() {
                 className="rt-slider-v1-image-four"
               >
                 <div className="rt-position-relative rt-border-radius-10 rt-overflow-hidden">
-                  <img
+                  <Image 
                     width={410}
                     height={660}
                     alt="Yoga Image"
@@ -140,7 +141,7 @@ export default function ServiceSection3() {
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
-                    style={{ opacity: 0 }}
+                    
                     className="w-layout-hflex rt-slider-v1-image-contant-text four"
                   >
                     <div className="rt-text-style-h6 rt-text-color-white rt-text-center">
@@ -164,7 +165,7 @@ export default function ServiceSection3() {
                 className="rt-slider-v1-image-five"
               >
                 <div className="rt-position-relative rt-border-radius-10 rt-overflow-hidden">
-                  <img
+                  <Image 
                     width={410}
                     height={660}
                     alt="Yoga Image"
@@ -172,7 +173,7 @@ export default function ServiceSection3() {
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
-                    style={{ opacity: 0 }}
+                    
                     className="w-layout-hflex rt-slider-v1-image-contant-text five"
                   >
                     <div className="rt-text-style-h6 rt-text-color-white rt-text-center">

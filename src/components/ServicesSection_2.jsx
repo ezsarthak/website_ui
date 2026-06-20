@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function ServicesSection_2() {
   return (
@@ -8,14 +9,14 @@ export default function ServicesSection_2() {
           <div className="w-layout-vflex rt-blog-top-left rt-text-center-mobile">
             <div
               data-w-id="824d9661-0832-50d1-7f4e-3bffe7dcc315"
-              style={{ opacity: 0 }}
+              
               className="rt-sub-text rt-small-tag-gap"
             >
               The Solution
             </div>
             <h2
               data-w-id="824d9661-0832-50d1-7f4e-3bffe7dcc317"
-              style={{ opacity: 0 }}
+              
               className="rt-gap-off"
             >
               The Smart Clinic Flow & Patient Return System
@@ -25,7 +26,7 @@ export default function ServicesSection_2() {
       </div>
       <div
         data-w-id="6c6ef315-e899-847b-fbfd-5ee9b9442b8c"
-        style={{ opacity: 0 }}
+        
         className="w-layout-hflex rt-slider-wrapper"
       >
         <div
@@ -43,7 +44,7 @@ export default function ServicesSection_2() {
         >
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
-              <img
+              <Image 
                 src="/monavi/recep_efficiency.png"
                 loading="lazy"
                 width={372}
@@ -64,7 +65,7 @@ export default function ServicesSection_2() {
                 <div className="w-layout-vflex rt-slider-list-item-wrapper">
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -78,7 +79,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -92,7 +93,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -123,7 +124,7 @@ export default function ServicesSection_2() {
                       </div>
                       <div className="w-layout-hflex rt-button-arrow-box">
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -131,7 +132,7 @@ export default function ServicesSection_2() {
                           />
                         </div>
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -147,7 +148,7 @@ export default function ServicesSection_2() {
           </div>
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
-              <img
+              <Image 
                 src="/monavi/followup.png"
                 loading="lazy"
                 width={372}
@@ -168,7 +169,7 @@ export default function ServicesSection_2() {
                 <div className="w-layout-vflex rt-slider-list-item-wrapper">
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -182,7 +183,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -196,7 +197,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -227,7 +228,7 @@ export default function ServicesSection_2() {
                       </div>
                       <div className="w-layout-hflex rt-button-arrow-box">
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -235,7 +236,7 @@ export default function ServicesSection_2() {
                           />
                         </div>
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -251,7 +252,7 @@ export default function ServicesSection_2() {
           </div>
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
-              <img
+              <Image 
                 src="/monavi/doctor_dashboard.jpg"
                 loading="lazy"
                 width={372}
@@ -272,7 +273,7 @@ export default function ServicesSection_2() {
                 <div className="w-layout-vflex rt-slider-list-item-wrapper">
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -286,7 +287,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -300,7 +301,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -330,7 +331,7 @@ export default function ServicesSection_2() {
                     </div>
                     <div className="w-layout-hflex rt-button-arrow-box">
                       <div className="w-layout-hflex rt-button-arrow-1-v2">
-                        <img
+                        <Image width={800} height={600} 
                           loading="lazy"
                           src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                           alt="arrow"
@@ -338,7 +339,7 @@ export default function ServicesSection_2() {
                         />
                       </div>
                       <div className="w-layout-hflex rt-button-arrow-2-v2">
-                        <img
+                        <Image width={800} height={600} 
                           loading="lazy"
                           src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                           alt="arrow"
@@ -367,7 +368,7 @@ export default function ServicesSection_2() {
         >
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
-              <img
+              <Image 
                 src="/monavi/recep_efficiency.png"
                 loading="lazy"
                 width={372}
@@ -388,7 +389,7 @@ export default function ServicesSection_2() {
                 <div className="w-layout-vflex rt-slider-list-item-wrapper">
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -402,7 +403,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -416,7 +417,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -447,7 +448,7 @@ export default function ServicesSection_2() {
                       </div>
                       <div className="w-layout-hflex rt-button-arrow-box">
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -455,7 +456,7 @@ export default function ServicesSection_2() {
                           />
                         </div>
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -471,7 +472,7 @@ export default function ServicesSection_2() {
           </div>
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
-              <img
+              <Image 
                 src="/monavi/followup.png"
                 loading="lazy"
                 width={372}
@@ -492,7 +493,7 @@ export default function ServicesSection_2() {
                 <div className="w-layout-vflex rt-slider-list-item-wrapper">
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -506,7 +507,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -520,7 +521,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -551,7 +552,7 @@ export default function ServicesSection_2() {
                       </div>
                       <div className="w-layout-hflex rt-button-arrow-box">
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -559,7 +560,7 @@ export default function ServicesSection_2() {
                           />
                         </div>
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -575,7 +576,7 @@ export default function ServicesSection_2() {
           </div>
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
-              <img
+              <Image 
                 src="/monavi/doctor_dashboard.jpg"
                 loading="lazy"
                 width={372}
@@ -596,7 +597,7 @@ export default function ServicesSection_2() {
                 <div className="w-layout-vflex rt-slider-list-item-wrapper">
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -610,7 +611,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -624,7 +625,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -654,7 +655,7 @@ export default function ServicesSection_2() {
                     </div>
                     <div className="w-layout-hflex rt-button-arrow-box">
                       <div className="w-layout-hflex rt-button-arrow-1-v2">
-                        <img
+                        <Image width={800} height={600} 
                           loading="lazy"
                           src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                           alt="arrow"
@@ -662,7 +663,7 @@ export default function ServicesSection_2() {
                         />
                       </div>
                       <div className="w-layout-hflex rt-button-arrow-2-v2">
-                        <img
+                        <Image width={800} height={600} 
                           loading="lazy"
                           src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                           alt="arrow"
@@ -691,7 +692,7 @@ export default function ServicesSection_2() {
         >
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
-              <img
+              <Image 
                 src="/monavi/recep_efficiency.png"
                 loading="lazy"
                 width={372}
@@ -712,7 +713,7 @@ export default function ServicesSection_2() {
                 <div className="w-layout-vflex rt-slider-list-item-wrapper">
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -726,7 +727,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -740,7 +741,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -771,7 +772,7 @@ export default function ServicesSection_2() {
                       </div>
                       <div className="w-layout-hflex rt-button-arrow-box">
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -779,7 +780,7 @@ export default function ServicesSection_2() {
                           />
                         </div>
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -795,7 +796,7 @@ export default function ServicesSection_2() {
           </div>
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
-              <img
+              <Image 
                 src="/monavi/followup.png"
                 loading="lazy"
                 width={372}
@@ -816,7 +817,7 @@ export default function ServicesSection_2() {
                 <div className="w-layout-vflex rt-slider-list-item-wrapper">
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -830,7 +831,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -844,7 +845,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -875,7 +876,7 @@ export default function ServicesSection_2() {
                       </div>
                       <div className="w-layout-hflex rt-button-arrow-box">
                         <div className="w-layout-hflex rt-button-arrow-1-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -883,7 +884,7 @@ export default function ServicesSection_2() {
                           />
                         </div>
                         <div className="w-layout-hflex rt-button-arrow-2-v2">
-                          <img
+                          <Image width={800} height={600} 
                             loading="lazy"
                             src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                             alt="arrow"
@@ -899,7 +900,7 @@ export default function ServicesSection_2() {
           </div>
           <div className="w-layout-hflex rt-slider-item-wrapper">
             <div className="rt-slider-image-warpper">
-              <img
+              <Image 
                 src="/monavi/doctor_dashboard.jpg"
                 loading="lazy"
                 width={372}
@@ -920,7 +921,7 @@ export default function ServicesSection_2() {
                 <div className="w-layout-vflex rt-slider-list-item-wrapper">
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -934,7 +935,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -948,7 +949,7 @@ export default function ServicesSection_2() {
                   </div>
                   <div className="w-layout-hflex rt-slider-list-item">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697b4ea1c7eaa08310f3f732_Plus%20Icon.svg"
                         loading="lazy"
                         width={8}
@@ -978,7 +979,7 @@ export default function ServicesSection_2() {
                     </div>
                     <div className="w-layout-hflex rt-button-arrow-box">
                       <div className="w-layout-hflex rt-button-arrow-1-v2">
-                        <img
+                        <Image width={800} height={600} 
                           loading="lazy"
                           src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                           alt="arrow"
@@ -986,7 +987,7 @@ export default function ServicesSection_2() {
                         />
                       </div>
                       <div className="w-layout-hflex rt-button-arrow-2-v2">
-                        <img
+                        <Image width={800} height={600} 
                           loading="lazy"
                           src="/fonts/6982cc9585d9d14180e08057_Arrow%201%20%281%29.svg"
                           alt="arrow"

@@ -18,7 +18,7 @@ export default function AboutSection7() {
             </div>
             <div
               data-w-id="abe4f553-338c-3894-ded5-086cdd7a49a7"
-              style={{ opacity: 0 }}
+              
               className="rt-matrcis-card-one rt-one"
             >
               <div className="w-layout-vflex rt-matrics-text-wrapper">
@@ -42,7 +42,7 @@ export default function AboutSection7() {
             </div>
             <div
               data-w-id="d9d3985b-148c-57dd-8680-5b12ac0356e5"
-              style={{ opacity: 0 }}
+              
               className="rt-matrcis-card-one rt-two"
             >
               <div className="w-layout-vflex rt-matrics-text-wrapper">
@@ -66,7 +66,7 @@ export default function AboutSection7() {
             </div>
             <div
               data-w-id="b56bfec4-2a4c-3df2-5f76-b63d7aeb9d5d"
-              style={{ opacity: 0 }}
+              
               className="rt-matrcis-card-one rt-three"
             >
               <div className="w-layout-vflex rt-matrics-text-wrapper">

@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function ServiceSection1() {
   return (
@@ -10,7 +11,7 @@ export default function ServiceSection1() {
         data-w-id="54656bea-a361-86f4-2658-81e77b397f84"
         className="rt-contact-background-image-wrapper"
       >
-        <img
+        <Image 
           src="/monavi/service_page_bg.png"
           alt="Service Banner Background"
           width={1920}
@@ -22,14 +23,14 @@ export default function ServiceSection1() {
         <div className="w-layout-vflex rt-service-hero-main rt-position-relative rt-mobile-text-center">
           <h1
             data-w-id="06ff925e-a5bc-6278-8896-e796e9eac86a"
-            style={{ opacity: 0 }}
+            
             className="rt-gap-off rt-hero-heading-gap"
           >
             Bring Patients Back. Reduce Clinic Chaos.
           </h1>
           <p
             data-w-id="61503c8b-78bb-a868-ad9e-233f88974e29"
-            style={{ opacity: 0 }}
+            
             className="rt-gap-off rt-hero-description-gap rt-service-description"
           >
             MONAVI is a smart clinic flow and patient return system that automates follow-ups, manages queues, and retains patients.
@@ -37,7 +38,7 @@ export default function ServiceSection1() {
           <div className="w-layout-hflex rt-hero-service-button-wrapper rt-button-wrapper-gap">
             <div
               data-w-id="664d2005-4338-8503-fe54-69f25031155f"
-              style={{ opacity: 0 }}
+              
             >
               <a
                 data-wf--rt-button--variant="base"
@@ -58,7 +59,7 @@ export default function ServiceSection1() {
             </div>
             <div
               data-w-id="911ecf77-4d57-d0a7-8114-7e8fe11a1f76"
-              style={{ opacity: 0 }}
+              
             >
               <a
                 data-wf--rt-button-v2--variant="base"
@@ -78,11 +79,11 @@ export default function ServiceSection1() {
           </div>
           <div
             data-w-id="bc1d85bc-784c-3893-d7f7-5c8821c5ce4b"
-            style={{ opacity: 0 }}
+            
             className="w-layout-hflex rt-hero-service-bottom"
           >
             <div className="w-layout-vflex rt-statisfied-patient-image-wrapper">
-              <img
+              <Image 
                 src="/assets/696f017270bc35c55e784979_69783fe9e1caad94b13a2f35_Satisfied_20patient.webp"
                 loading="lazy"
                 width={115}
@@ -93,7 +94,7 @@ export default function ServiceSection1() {
             <div className="w-layout-vflex rt-hero-right-top-right">
               <div className="w-layout-hflex rt-hero-star-wrapper">
                 <div>
-                  <img
+                  <Image 
                     src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
                     loading="lazy"
                     width={18}
@@ -102,7 +103,7 @@ export default function ServiceSection1() {
                   />
                 </div>
                 <div>
-                  <img
+                  <Image 
                     src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
                     loading="lazy"
                     width={18}
@@ -111,7 +112,7 @@ export default function ServiceSection1() {
                   />
                 </div>
                 <div>
-                  <img
+                  <Image 
                     src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
                     loading="lazy"
                     width={18}
@@ -120,7 +121,7 @@ export default function ServiceSection1() {
                   />
                 </div>
                 <div>
-                  <img
+                  <Image 
                     src="/assets/696f017270bc35c55e784979_69783f94d83ac256daf590c0_Star_20Icon_20_2_.svg"
                     loading="lazy"
                     width={18}

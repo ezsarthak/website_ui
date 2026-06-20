@@ -8,7 +8,7 @@ export default function AboutSection8() {
           <div className="w-layout-vflex rt-about-faq-top rt-text-center">
             <h2
               data-w-id="a69cff1e-2378-aefb-1750-a33eff44e9b7"
-              style={{ opacity: 0 }}
+              
               className="rt-gap-off"
             >
               Frequently asked questions
@@ -18,7 +18,7 @@ export default function AboutSection8() {
             <div className="w-layout-vflex rt-faq-box-one">
               <div
                 data-w-id="d7b94ab3-819f-e993-68d9-81e6160a2df9"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-faq-content-box"
               >
                 <div className="w-layout-hflex rt-faq-question">
@@ -54,7 +54,7 @@ export default function AboutSection8() {
               </div>
               <div
                 data-w-id="e88c61f0-942b-78fd-f0d4-133486a017f2"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-faq-content-box"
               >
                 <div className="w-layout-hflex rt-faq-question">
@@ -90,7 +90,7 @@ export default function AboutSection8() {
               </div>
               <div
                 data-w-id="f0239ff9-f676-15f0-dada-c432522adcbe"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-faq-content-box"
               >
                 <div className="w-layout-hflex rt-faq-question">
@@ -126,7 +126,7 @@ export default function AboutSection8() {
               </div>
               <div
                 data-w-id="a9da7844-9202-62dd-81b3-87feca352d00"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-faq-content-box"
               >
                 <div className="w-layout-hflex rt-faq-question">
@@ -164,7 +164,7 @@ export default function AboutSection8() {
             <div className="w-layout-vflex rt-faq-box-one">
               <div
                 data-w-id="1543e455-6ac1-921b-cacd-225f2707d694"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-faq-content-box"
               >
                 <div className="w-layout-hflex rt-faq-question">
@@ -200,7 +200,7 @@ export default function AboutSection8() {
               </div>
               <div
                 data-w-id="1543e455-6ac1-921b-cacd-225f2707d6a1"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-faq-content-box"
               >
                 <div className="w-layout-hflex rt-faq-question">
@@ -236,7 +236,7 @@ export default function AboutSection8() {
               </div>
               <div
                 data-w-id="1543e455-6ac1-921b-cacd-225f2707d6ae"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-faq-content-box"
               >
                 <div className="w-layout-hflex rt-faq-question">
@@ -272,7 +272,7 @@ export default function AboutSection8() {
               </div>
               <div
                 data-w-id="1543e455-6ac1-921b-cacd-225f2707d6bb"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-faq-content-box"
               >
                 <div className="w-layout-hflex rt-faq-question">

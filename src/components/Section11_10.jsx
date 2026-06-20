@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function Section11_10() {
   return (
@@ -10,7 +11,7 @@ export default function Section11_10() {
         >
           <div className="w-layout-hflex rt-marquee-train">
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img
+              <Image 
                 width={122}
                 height={121}
                 alt="Ticker Three"
@@ -22,7 +23,7 @@ export default function Section11_10() {
               <div className="rt-marquee-text-style">Advanced healing</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img
+              <Image 
                 width={122}
                 height={121}
                 alt="Ticker Three"
@@ -34,7 +35,7 @@ export default function Section11_10() {
               <div className="rt-marquee-text-style">Compassionate care</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img
+              <Image 
                 width={122}
                 height={121}
                 alt="Ticker Three"
@@ -48,7 +49,7 @@ export default function Section11_10() {
           </div>
           <div className="w-layout-hflex rt-marquee-train">
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img
+              <Image 
                 width={122}
                 height={121}
                 alt="Ticker Three"
@@ -60,7 +61,7 @@ export default function Section11_10() {
               <div className="rt-marquee-text-style">Advanced healing</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img
+              <Image 
                 width={122}
                 height={121}
                 alt="Ticker Three"
@@ -72,7 +73,7 @@ export default function Section11_10() {
               <div className="rt-marquee-text-style">Compassionate care</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img
+              <Image 
                 width={122}
                 height={121}
                 alt="Ticker Three"
@@ -86,7 +87,7 @@ export default function Section11_10() {
           </div>
           <div className="w-layout-hflex rt-marquee-train">
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img
+              <Image 
                 width={122}
                 height={121}
                 alt="Ticker Three"
@@ -98,7 +99,7 @@ export default function Section11_10() {
               <div className="rt-marquee-text-style">Advanced healing</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img
+              <Image 
                 width={122}
                 height={121}
                 alt="Ticker Three"
@@ -110,7 +111,7 @@ export default function Section11_10() {
               <div className="rt-marquee-text-style">Compassionate care</div>
             </div>
             <div className="rt-marquee-round-ticker rt-two-ticker">
-              <img
+              <Image 
                 width={122}
                 height={121}
                 alt="Ticker Three"

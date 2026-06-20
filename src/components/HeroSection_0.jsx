@@ -1,10 +1,11 @@
 import React from "react";
+import Image from "next/image";
 
 export default function HeroSection_0() {
   return (
     <section className="rt-hero rt-overflow-hidden rt-position-relative">
       <div className="rt-home-one-background-image-wrapper-v2">
-        <img
+        <Image 
           src="/monavi/bg.png"
           alt="BANNER"
           width={1920}
@@ -55,7 +56,7 @@ export default function HeroSection_0() {
                 >
                   <div className="w-layout-hflex rt-bottom-button-icon-wrapper">
                     <div className="w-layout-vflex rt-icon-wrapper">
-                      <img
+                      <Image 
                         src="/fonts/69a143e06d269cdcb6e0d162_Group%2016%20%282%29.svg"
                         loading="lazy"
                         width={19}
@@ -76,7 +77,7 @@ export default function HeroSection_0() {
                 >
                   <div className="w-layout-hflex rt-bottom-button-icon-wrapper">
                     <div className="w-layout-vflex rt-icon-wrapper">
-                      <img
+                      <Image 
                         src="/fonts/69a143e09df366f2a0a37963_Group%201597885431.svg"
                         loading="lazy"
                         width={19}
@@ -99,7 +100,7 @@ export default function HeroSection_0() {
                 >
                   <div className="w-layout-hflex rt-bottom-button-icon-wrapper">
                     <div className="w-layout-vflex rt-icon-wrapper">
-                      <img
+                      <Image 
                         src="/fonts/69a143e0877eeaaad829b74f_Group%201597885272.svg"
                         loading="lazy"
                         width={19}
@@ -120,7 +121,7 @@ export default function HeroSection_0() {
                 >
                   <div className="w-layout-hflex rt-bottom-button-icon-wrapper">
                     <div className="w-layout-vflex rt-icon-wrapper">
-                      <img
+                      <Image 
                         src="/fonts/69a143e0bfa82469f14fae39_Group%201597885431%20%281%29.svg"
                         loading="lazy"
                         width={18}
@@ -144,7 +145,7 @@ export default function HeroSection_0() {
               href="#about-us"
               className="rt-scroll-button-wrapper rt-position-relative rt-mobile-potrait-display-off w-inline-block"
             >
-              <img
+              <Image 
                 src="/fonts/697854b5b7e195383d30a67f_Group%201597885275.svg"
                 loading="lazy"
                 width={135}
@@ -165,7 +166,7 @@ export default function HeroSection_0() {
               />
               <div className="w-layout-vflex rt-scroll-button-arrow-wrapper">
                 <div className="rt-hero-scroll-icon-wrapper">
-                  <img
+                  <Image 
                     src="/fonts/697854b5cbc03af41f48e1f0_Circle%20Text.svg"
                     loading="lazy"
                     width={28}

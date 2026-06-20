@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function Section4_3() {
   return (
@@ -8,7 +9,7 @@ export default function Section4_3() {
           <div className="w-layout-vflex rt-counter-top-content rt-counter-top-gap rt-mobile-text-center">
             <div
               data-w-id="b84fa72e-ebbb-1829-3323-dbfdece63101"
-              style={{ opacity: 0 }}
+              
               className="rt-sub-text rt-small-tag-gap"
             >
               Built For
@@ -19,7 +20,7 @@ export default function Section4_3() {
             >
               <h2
                 data-w-id="682875c8-e66a-2e54-9801-2827517b9a26"
-                style={{ opacity: 0 }}
+                
                 className="rt-gap-off"
               >
                 Designed for busy clinics that want to grow without the chaos
@@ -34,11 +35,11 @@ export default function Section4_3() {
           <div className="w-layout-hflex rt-counter-bottom-wrapper">
             <div
               data-w-id="15f622bf-81a7-7420-b236-c55478740cf5"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-counter-item-card-one rt-mobile-text-center"
             >
               <div className="rt-counter-icon-gap">
-                <img
+                <Image 
                   src="/fonts/697304590d52897b1a291422_Healh%20Care.svg"
                   loading="lazy"
                   width={61}
@@ -56,11 +57,11 @@ export default function Section4_3() {
             </div>
             <div
               data-w-id="44dcd10b-122d-955e-ff8c-1f54b45e48cc"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-counter-item-card-one rt-mobile-text-center"
             >
               <div className="rt-counter-icon-gap">
-                <img
+                <Image 
                   src="/fonts/6973045a0b0a48f7d7c1d269_Awards.svg"
                   loading="lazy"
                   width={61}
@@ -78,11 +79,11 @@ export default function Section4_3() {
             </div>
             <div
               data-w-id="227e9815-f199-1c2a-99ec-3394af6ad0a6"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-counter-item-card-one rt-mobile-text-center"
             >
               <div className="rt-counter-icon-gap">
-                <img
+                <Image 
                   src="/fonts/6973045909e28a21e06686bf_Client%20Satisfaction.svg"
                   loading="lazy"
                   width={58}
@@ -100,11 +101,11 @@ export default function Section4_3() {
             </div>
             <div
               data-w-id="a6978c81-ba19-6dc2-4c5a-f3651f551f18"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-counter-item-card-one rt-counter-item-card-one-v2 rt-mobile-text-center"
             >
               <div className="rt-counter-icon-gap">
-                <img
+                <Image 
                   src="/fonts/6973045976366a0092ddf7f1_Medical%20Specialist.svg"
                   loading="lazy"
                   width={60}

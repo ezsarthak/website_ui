@@ -1,4 +1,6 @@
+/* eslint-disable @next/next/no-html-link-for-pages */
 import React from "react";
+import Image from "next/image";
 
 export default function Navbar() {
   return (
@@ -23,13 +25,15 @@ export default function Navbar() {
               className="rt-brand w-nav-brand w--current"
               style={{ display: 'flex', alignItems: 'center', width: 'auto', minWidth: 'max-content' }}
             >
-              <img
+              <Image 
+                width={150} height={56}
                 style={{ maxHeight: '56px', width: 'auto' }}
                 alt="MONAVI"
                 src="/monavi/monavi_logo.png"
                 loading="lazy"
               />
-              <img
+              <Image 
+                width={150} height={36}
                 style={{ maxHeight: '36px', width: 'auto', marginLeft: '6px' }}
                 alt="MONAVI NAME"
                 src="/monavi/monavi_name.png"
@@ -97,7 +101,7 @@ export default function Navbar() {
                   </a>
                 </div>
                 <div>
-                  <img
+                  <Image 
                     width={29}
                     height={28}
                     alt="Call Icon"
@@ -136,7 +140,7 @@ export default function Navbar() {
                       className="rt-social-icon w-inline-block"
                     >
                       <div className="w-layout-hflex rt-nav-social-icon">
-                        <img
+                        <Image 
                           width={11}
                           height={16}
                           alt=""
@@ -151,7 +155,7 @@ export default function Navbar() {
                       className="rt-social-icon w-inline-block"
                     >
                       <div className="w-layout-hflex rt-nav-social-icon">
-                        <img
+                        <Image 
                           width={11}
                           height={16}
                           alt="instragram"
@@ -166,7 +170,7 @@ export default function Navbar() {
                       className="rt-social-icon w-inline-block"
                     >
                       <div className="w-layout-hflex rt-nav-social-icon">
-                        <img
+                        <Image 
                           width={11}
                           height={16}
                           alt="X"
@@ -179,23 +183,7 @@ export default function Navbar() {
                 </div>
                 <div className="w-layout-vflex rt-nav-contact-box">
                   <div className="rt-nav-cc-text">
-                    Designed by
-                    <a
-                      href="https://www.radianttemplates.com/"
-                      target="_blank"
-                      className="rt-secondary-text-color"
-                    >
-                      {" "}
-                      Radiant Templates
-                    </a>
-                    ,Powered by{" "}
-                    <a
-                      href="https://webflow.com"
-                      target="_blank"
-                      className="rt-secondary-text-color"
-                    >
-                      Webflow
-                    </a>
+                    &copy; 2026 MONAVI. All rights reserved.
                   </div>
                 </div>
               </div>

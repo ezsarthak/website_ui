@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function AboutSection1() {
   return (
@@ -8,14 +9,14 @@ export default function AboutSection1() {
           <div className="w-layout-vflex rt-about-top-content rt-text-center rt-hero-top-content-gap">
             <h1
               data-w-id="1650fd17-8333-35f4-2861-74ae8782e5a6"
-              style={{ opacity: 0 }}
+              
               className="rt-gap-off rt-h1-heading-bottom-gap-v2"
             >
               Smart Clinic Flow & Patient Return System
             </h1>
             <div
               data-w-id="0d3777bf-56f2-5618-a348-e69d0e9c9fd7"
-              style={{ opacity: 0 }}
+              
             >
               <a
                 data-wf--rt-button--variant="base"
@@ -37,22 +38,22 @@ export default function AboutSection1() {
           >
             <div className="w-layout-vflex rt-about-hero-card-one rt-1">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-1">
-                <img
+                <Image 
                   src="/monavi/Automated_Reminders.png"
                   loading="lazy"
-                  width="377.5"
+                  width={378}
                   height={480}
                   alt="Automated Reminders"
                 />
               </div>
               <div
                 data-w-id="2330de72-de77-e31d-b37d-a5329c428929"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-hflex rt-hero-about-card-text-wrapper"
               >
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
-                    <img
+                    <Image 
                       src="/assets/696f017270bc35c55e784979_698d592caa5f604ee6a1de1a_Group_201597885068.svg"
                       loading="lazy"
                       width={45}
@@ -72,22 +73,22 @@ export default function AboutSection1() {
             </div>
             <div className="w-layout-vflex rt-about-hero-card-one rt-2">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-2">
-                <img
+                <Image 
                   src="/monavi/Reduce_Chaos.png"
                   loading="lazy"
-                  width="377.5"
+                  width={378}
                   height={480}
                   alt="Reduce Chaos"
                 />
               </div>
               <div
                 data-w-id="a1e10464-f711-ec63-2570-0abcb92980e6"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-hflex rt-hero-about-card-text-wrapper"
               >
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
-                    <img
+                    <Image 
                       src="/assets/696f017270bc35c55e784979_698d5cee006c917c68d7ac65_Group_201597885068_20_1_.svg"
                       loading="lazy"
                       width={45}
@@ -107,22 +108,22 @@ export default function AboutSection1() {
             </div>
             <div className="w-layout-vflex rt-about-hero-card-one rt-3">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-3">
-                <img
+                <Image 
                   src="/monavi/Patient_Retention.png"
                   loading="lazy"
-                  width="377.5"
+                  width={378}
                   height={480}
                   alt="Patient Retention"
                 />
               </div>
               <div
                 data-w-id="c4eeda56-7b3b-e1da-5b09-e7d8a34b7529"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-hflex rt-hero-about-card-text-wrapper"
               >
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
-                    <img
+                    <Image 
                       src="/assets/696f017270bc35c55e784979_698d5ceef7e896d1e5c40c55_Group_201597885385.svg"
                       loading="lazy"
                       width={45}
@@ -142,22 +143,22 @@ export default function AboutSection1() {
             </div>
             <div className="w-layout-vflex rt-about-hero-card-one rt-4">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-4">
-                <img
+                <Image 
                   src="/monavi/Queue_Tracking.png"
                   loading="lazy"
-                  width="377.5"
+                  width={378}
                   height={480}
                   alt="Queue Tracking"
                 />
               </div>
               <div
                 data-w-id="47dac187-21fe-a719-e44e-ad13aae83278"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-hflex rt-hero-about-card-text-wrapper"
               >
                 <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                   <div className="w-layout-vflex rt-about-hero-icon">
-                    <img
+                    <Image 
                       src="/assets/696f017270bc35c55e784979_698d5cee824c1b445dd7ec48_Group_201597885068_20_2_.svg"
                       loading="lazy"
                       width={45}
@@ -193,22 +194,22 @@ export default function AboutSection1() {
               <div className="w-slide">
                 <div className="w-layout-vflex rt-about-hero-card-one rt-1">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-1">
-                    <img
+                    <Image 
                       src="/monavi/Automated_Reminders.png"
                       loading="lazy"
-                      width="377.5"
+                      width={378}
                       height={480}
                       alt="Automated Reminders"
                     />
                   </div>
                   <div
                     data-w-id="7f484a2b-58c2-fab5-5a9f-e86132c06af7"
-                    style={{ opacity: 0 }}
+                    
                     className="w-layout-hflex rt-hero-about-card-text-wrapper"
                   >
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
-                        <img
+                        <Image 
                           src="/assets/696f017270bc35c55e784979_698d592caa5f604ee6a1de1a_Group_201597885068.svg"
                           loading="lazy"
                           width={45}
@@ -230,22 +231,22 @@ export default function AboutSection1() {
               <div className="w-slide">
                 <div className="w-layout-vflex rt-about-hero-card-one rt-2">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-2">
-                    <img
+                    <Image 
                       src="/monavi/Reduce_Chaos.png"
                       loading="lazy"
-                      width="377.5"
+                      width={378}
                       height={480}
                       alt="Reduce Chaos"
                     />
                   </div>
                   <div
                     data-w-id="7f484a2b-58c2-fab5-5a9f-e86132c06b04"
-                    style={{ opacity: 0 }}
+                    
                     className="w-layout-hflex rt-hero-about-card-text-wrapper"
                   >
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
-                        <img
+                        <Image 
                           src="/assets/696f017270bc35c55e784979_698d5cee006c917c68d7ac65_Group_201597885068_20_1_.svg"
                           loading="lazy"
                           width={45}
@@ -269,22 +270,22 @@ export default function AboutSection1() {
               <div className="w-slide">
                 <div className="w-layout-vflex rt-about-hero-card-one rt-3">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-3">
-                    <img
+                    <Image 
                       src="/monavi/Patient_Retention.png"
                       loading="lazy"
-                      width="377.5"
+                      width={378}
                       height={480}
                       alt="Patient Retention"
                     />
                   </div>
                   <div
                     data-w-id="7f484a2b-58c2-fab5-5a9f-e86132c06b11"
-                    style={{ opacity: 0 }}
+                    
                     className="w-layout-hflex rt-hero-about-card-text-wrapper"
                   >
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
-                        <img
+                        <Image 
                           src="/assets/696f017270bc35c55e784979_698d5ceef7e896d1e5c40c55_Group_201597885385.svg"
                           loading="lazy"
                           width={45}
@@ -308,22 +309,22 @@ export default function AboutSection1() {
               <div className="w-slide">
                 <div className="w-layout-vflex rt-about-hero-card-one rt-4">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-4">
-                    <img
+                    <Image 
                       src="/monavi/Queue_Tracking.png"
                       loading="lazy"
-                      width="377.5"
+                      width={378}
                       height={480}
                       alt="Queue Tracking"
                     />
                   </div>
                   <div
                     data-w-id="7f484a2b-58c2-fab5-5a9f-e86132c06b1e"
-                    style={{ opacity: 0 }}
+                    
                     className="w-layout-hflex rt-hero-about-card-text-wrapper"
                   >
                     <div className="w-layout-vflex rt-heroabout-card-icon-wrapper">
                       <div className="w-layout-vflex rt-about-hero-icon">
-                        <img
+                        <Image 
                           src="/assets/696f017270bc35c55e784979_698d5cee824c1b445dd7ec48_Group_201597885068_20_2_.svg"
                           loading="lazy"
                           width={45}

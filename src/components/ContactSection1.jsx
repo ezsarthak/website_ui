@@ -1,4 +1,6 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from "react";
+import Image from "next/image";
 
 export default function ContactSection1() {
   return (
@@ -19,8 +21,8 @@ export default function ContactSection1() {
         }}
         className="rt-contact-background-image-wrapper"
       >
-        <img
-          src="/assets/696f017270bc35c55e784979_6982db50172a925e568fb4f4_ad4b9a78e04f2ce8494d89d6997bebde_Contact_20Banner_20Background.avif"
+        <Image 
+          src="/monavi/service_page_bg.png"
           alt="Contact Banner Background"
           width={1920}
           height={687}
@@ -32,22 +34,22 @@ export default function ContactSection1() {
           <div className="w-layout-vflex rt-contact-hero-top rt-text-center rt-top-content-gap-v2">
             <div
               data-w-id="df59d03d-a22a-641a-3beb-f58e478d6e76"
-              style={{ opacity: 0 }}
-              className="rt-sub-text-v2 rt-small-tag-gap rt-text-color-white"
+              
+              className="rt-sub-text-v2 rt-small-tag-gap"
             >
               Contact Us
             </div>
             <h1
               data-w-id="df59d03d-a22a-641a-3beb-f58e478d6e78"
-              style={{ opacity: 0 }}
-              className="rt-gap-off rt-text-color-white"
+              
+              className="rt-gap-off"
             >
               Get in touch with the Monavi team
             </h1>
           </div>
           <div
             data-w-id="81c11af8-4e42-896f-628a-9cd75a64487a"
-            style={{ opacity: 0 }}
+            
             className="w-layout-hflex rt-hero-left-bottom-v2 rt-border-radius-10"
           >
             <div className="w-layout-vflex rt-hero-bottom-left rt-border-radius-10 rt-overflow-hidden">
@@ -59,7 +61,7 @@ export default function ContactSection1() {
                 data-wf-ignore="true"
                 className="rt-pricing-video w-background-video w-background-video-atom"
               >
-                <img src="/images/monavi/patient_mobile_app_1781317975329.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+                <Image width={800} height={600}  src="/monavi/patient.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
                 <noscript>
                   &lt;style&gt; [data-wf-bgvideo-fallback-img] {"{"}
                   display: none;
@@ -70,7 +72,7 @@ export default function ContactSection1() {
                   height: 100%; width: 100%; object-fit: cover;
                   {"}"}
                   {"}"}&lt;/style&gt;&lt;img data-wf-bgvideo-fallback-img="true"
-                  src="/assets/696f017270bc35c55e784979_6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_poster.0000000.jpg"
+                  src="/monavi/patient.png"
                   alt="image"&gt;
                 </noscript>
                 <div aria-live="polite">
@@ -81,7 +83,7 @@ export default function ContactSection1() {
                     className="w-backgroundvideo-backgroundvideoplaypausebutton rt-video-play-pause-button w-background-video--control"
                   >
                     <span className="rt-play-state">
-                      <img
+                      <Image 
                         src="/assets/696f017270bc35c55e784979_69859766f0b870a5b7b1129c_Pause_20icon.svg"
                         loading="lazy"
                         width={7}
@@ -90,7 +92,7 @@ export default function ContactSection1() {
                       />
                     </span>
                     <span hidden className="rt-pause-state">
-                      <img
+                      <Image 
                         loading="lazy"
                         width={7}
                         height={10}
@@ -114,7 +116,7 @@ export default function ContactSection1() {
                 className="rt-hero-botom-right-button w-inline-block"
               >
                 <div className="w-layout-vflex">
-                  <img
+                  <Image 
                     src="/assets/696f017270bc35c55e784979_6980224b3f3c129452af2436_Right_20Arrow.svg"
                     loading="lazy"
                     width={13}

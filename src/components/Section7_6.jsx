@@ -1,4 +1,6 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from "react";
+import Image from "next/image";
 
 export default function Section7_6() {
   return (
@@ -48,7 +50,7 @@ export default function Section7_6() {
             data-wf-ignore="true"
             className="rt-video rt-overflow-hidden rt-border-radius-10 w-background-video w-background-video-atom"
           >
-            <img src="/images/monavi/patient_mobile_app_1781317975329.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+            <Image width={800} height={600}  src="/images/monavi/patient_mobile_app_1781317975329.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
             <div className="w-layout-vflex rt-play-pause-button-wrapper">
               <div className="w-layout-vflex rt-button-inner">
                 <noscript>
@@ -72,7 +74,7 @@ export default function Section7_6() {
                     className="w-backgroundvideo-backgroundvideoplaypausebutton rt-play-pause-wraper w-background-video--control"
                   >
                     <span>
-                      <img
+                      <Image 
                         width={21}
                         height={26}
                         alt="Pause video"
@@ -82,7 +84,7 @@ export default function Section7_6() {
                       />
                     </span>
                     <span hidden>
-                      <img
+                      <Image 
                         width={21}
                         height={26}
                         alt="Pause video"

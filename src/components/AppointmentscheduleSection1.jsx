@@ -1,4 +1,6 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from "react";
+import Image from "next/image";
 
 export default function AppointmentscheduleSection1() {
   return (
@@ -19,8 +21,8 @@ export default function AppointmentscheduleSection1() {
         }}
         className="rt-contact-background-image-wrapper"
       >
-        <img
-          src="/assets/696f017270bc35c55e784979_69aec1dd17ec68f4a48383dc_Appointment_20banner.webp"
+        <Image 
+          src="/monavi/bg.png"
           sizes="(max-width: 1919px) 100vw, 1920px"
           width={1920}
           height={687}
@@ -33,22 +35,22 @@ export default function AppointmentscheduleSection1() {
           <div className="w-layout-vflex rt-contact-hero-top rt-text-center rt-top-content-gap-v2">
             <div
               data-w-id="d48799f0-fc80-707d-8437-eed3fbdb0889"
-              style={{ opacity: 0 }}
-              className="rt-sub-text-v2 rt-small-tag-gap rt-text-color-white"
+              
+              className="rt-sub-text-v2 rt-small-tag-gap"
             >
               Smart System
             </div>
             <h1
               data-w-id="d49b36c4-b2d4-46b4-6996-7f4f1a8dc7ce"
-              style={{ opacity: 0 }}
-              className="rt-gap-off rt-text-color-white"
+              
+              className="rt-gap-off"
             >
               Streamlined clinic scheduling
             </h1>
           </div>
           <div
             data-w-id="d49b36c4-b2d4-46b4-6996-7f4f1a8dc7d0"
-            style={{ opacity: 0 }}
+            
             className="w-layout-hflex rt-hero-left-bottom-v2 rt-border-radius-10"
           >
             <div className="w-layout-vflex rt-hero-bottom-left rt-border-radius-10 rt-overflow-hidden">
@@ -60,7 +62,7 @@ export default function AppointmentscheduleSection1() {
                 data-wf-ignore="true"
                 className="rt-pricing-video w-background-video w-background-video-atom"
               >
-                <img src="/monavi/recep_efficiency.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} />
+                <Image width={800} height={600}  src="/monavi/recep_efficiency.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
                 <noscript>
                   &lt;style&gt; [data-wf-bgvideo-fallback-img] {"{"}
                   display: none;
@@ -71,7 +73,7 @@ export default function AppointmentscheduleSection1() {
                   height: 100%; width: 100%; object-fit: cover;
                   {"}"}
                   {"}"}&lt;/style&gt;&lt;img data-wf-bgvideo-fallback-img="true"
-                  src="/assets/696f017270bc35c55e784979_6984446d2e0a6686374a68e0_6011424-uhd_3840_2160_25fps_poster.0000000.jpg"
+                  src="/monavi/recep_efficiency.png"
                   alt="image"&gt;
                 </noscript>
                 <div aria-live="polite">
@@ -82,7 +84,7 @@ export default function AppointmentscheduleSection1() {
                     className="w-backgroundvideo-backgroundvideoplaypausebutton rt-video-play-pause-button w-background-video--control"
                   >
                     <span className="rt-play-state">
-                      <img
+                      <Image 
                         src="/assets/696f017270bc35c55e784979_69859766f0b870a5b7b1129c_Pause_20icon.svg"
                         loading="lazy"
                         width={7}
@@ -91,7 +93,7 @@ export default function AppointmentscheduleSection1() {
                       />
                     </span>
                     <span hidden className="rt-pause-state">
-                      <img
+                      <Image 
                         loading="lazy"
                         width={7}
                         height={10}
@@ -114,7 +116,7 @@ export default function AppointmentscheduleSection1() {
                 className="rt-hero-botom-right-button w-inline-block"
               >
                 <div className="w-layout-vflex">
-                  <img
+                  <Image 
                     src="/assets/696f017270bc35c55e784979_6980224b3f3c129452af2436_Right_20Arrow.svg"
                     loading="lazy"
                     width={13}

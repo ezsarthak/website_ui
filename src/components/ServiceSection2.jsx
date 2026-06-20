@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function ServiceSection2() {
   return (
@@ -9,7 +10,7 @@ export default function ServiceSection2() {
             <div className="rt-service-details-top-left">
               <h2
                 data-w-id="93c2d69a-f8fd-3ba0-df50-8d46c4c36235"
-                style={{ opacity: 0 }}
+                
                 className="rt-gap-off"
               >
                 A comprehensive system for your clinic
@@ -17,7 +18,7 @@ export default function ServiceSection2() {
             </div>
             <div
               data-w-id="7506ea1b-0c5a-106c-3d3e-a628ef0e6cb7"
-              style={{ opacity: 0 }}
+              
             >
               <a
                 data-wf--rt-button-v4--variant="base"
@@ -35,7 +36,7 @@ export default function ServiceSection2() {
                 </div>
                 <div className="w-layout-hflex rt-button-arrow-box">
                   <div className="w-layout-hflex rt-button-arrow-1-v2">
-                    <img
+                    <Image width={800} height={600} 
                       loading="lazy"
                       src="/assets/696f017270bc35c55e784979_6982cc9585d9d14180e08057_Arrow_201_20_1_.svg"
                       alt="arrow"
@@ -43,7 +44,7 @@ export default function ServiceSection2() {
                     />
                   </div>
                   <div className="w-layout-hflex rt-button-arrow-2-v2">
-                    <img
+                    <Image width={800} height={600} 
                       loading="lazy"
                       src="/assets/696f017270bc35c55e784979_6982cc9585d9d14180e08057_Arrow_201_20_1_.svg"
                       alt="arrow"
@@ -60,13 +61,13 @@ export default function ServiceSection2() {
                 <div role="listitem" className="w-dyn-item">
                   <a
                     data-w-id="0539b868-e181-7d0d-5403-e22a59a78056"
-                    style={{ opacity: 0 }}
+                    
                     href="/service-detail/more-clinical"
                     className="rt-service-details-content-one rt-position-relative w-inline-block"
                   >
                     <div className="w-layout-vflex rt-service-details-content-left rt-mobile-text-center">
                       <div className="w-layout-vflex rt-content-left-icon-wrapper rt-content-left-icon-wrapper-gap">
-                        <img
+                        <Image 
                           src="/assets/696f017270bc35c55e784979_698c1f6681cba9dd8dddf8d2_Group_201597885279_20_1_.svg"
                           loading="lazy"
                           width={47}
@@ -86,7 +87,7 @@ export default function ServiceSection2() {
                         data-w-id="263f6410-a097-ec7d-5a46-8b8885825580"
                         className="w-layout-vflex rt-service-details-content-right rt-border-radius-10"
                       >
-                        <img
+                        <Image 
                           src="/monavi/Workflow%20Automation%20service%20page.png"
                           loading="lazy"
                           width={322}
@@ -110,13 +111,13 @@ export default function ServiceSection2() {
                 <div role="listitem" className="w-dyn-item">
                   <a
                     data-w-id="a6e6413b-69e7-2a54-7c0b-e9a36f830dcb"
-                    style={{ opacity: 0 }}
+                    
                     href="/service-detail/patient-care"
                     className="rt-service-details-content-one rt-position-relative w-inline-block"
                   >
                     <div className="w-layout-vflex rt-service-details-content-left rt-mobile-text-center">
                       <div className="w-layout-vflex rt-content-left-icon-wrapper rt-content-left-icon-wrapper-gap">
-                        <img
+                        <Image 
                           src="/assets/696f017270bc35c55e784979_698c2d3d8bfb931cd5149dd8_Group_2016.svg"
                           loading="lazy"
                           width={47}
@@ -136,7 +137,7 @@ export default function ServiceSection2() {
                         data-w-id="a6e6413b-69e7-2a54-7c0b-e9a36f830dd5"
                         className="w-layout-vflex rt-service-details-content-right rt-border-radius-10"
                       >
-                        <img
+                        <Image 
                           src="/monavi/Patient%20Rentation%20Service%20page.png"
                           loading="lazy"
                           width={322}
@@ -160,13 +161,13 @@ export default function ServiceSection2() {
                 <div role="listitem" className="w-dyn-item">
                   <a
                     data-w-id="01004086-b119-9b25-3e7f-e5f909feabeb"
-                    style={{ opacity: 0 }}
+                    
                     href="/service-detail/healthcare"
                     className="rt-service-details-content-one rt-position-relative w-inline-block"
                   >
                     <div className="w-layout-vflex rt-service-details-content-left rt-mobile-text-center">
                       <div className="w-layout-vflex rt-content-left-icon-wrapper rt-content-left-icon-wrapper-gap">
-                        <img
+                        <Image 
                           src="/assets/696f017270bc35c55e784979_698c2d3a46882970b777cfc7_Group_201597885391.svg"
                           loading="lazy"
                           width={47}
@@ -186,7 +187,7 @@ export default function ServiceSection2() {
                         data-w-id="01004086-b119-9b25-3e7f-e5f909feabf5"
                         className="w-layout-vflex rt-service-details-content-right rt-border-radius-10"
                       >
-                        <img
+                        <Image 
                           src="/monavi/Smart%20Analytics%20service%20page.png"
                           loading="lazy"
                           width={322}

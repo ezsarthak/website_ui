@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function ServicedetailHealthcareSection4() {
   return (
@@ -8,14 +9,14 @@ export default function ServicedetailHealthcareSection4() {
           <div className="w-layout-vflex rt-healthcare-title rt-text-center">
             <div
               data-w-id="74bb20dc-6341-a4e9-2271-71bf002c6fbb"
-              style={{ opacity: 0 }}
+              
               className="rt-sub-text rt-small-tag-gap"
             >
               Smart Waitlists
             </div>
             <div
               data-w-id="74bb20dc-6341-a4e9-2271-71bf002c6fbd"
-              style={{ opacity: 0 }}
+              
               className="rt-position-relative rt-overflow-hidden"
             >
               <h2 className="rt-gap-off">
@@ -33,25 +34,25 @@ export default function ServicedetailHealthcareSection4() {
           <div className="rt-healthcare-card-wrapper rt-mobile-potrait-display-off">
             <div
               data-w-id="0c62bd05-ccdd-40f4-ba64-3aab6d869587"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
             >
-              <img
-                src="/assets/696f017270bc35c55e784979_69aac3468dbf79dc892457f2_Service_20card.webp"
+              <Image width={800} height={600} style={{ width: "100%", height: "auto" }} 
+                src="/monavi/Workflow%20Automation%20service%20page.png"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
-                alt="Heltro-service-card"
+                alt="MONAVI-service-card"
               />
             </div>
             <div
               data-w-id="f7708f9e-b694-a107-7c34-497448733ae1"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-healthcare-card-v2 rt-mobile-text-center"
             >
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
-                  <img
-                    src="/assets/696f3fadf343717fcadd620a_69ad9071a88d829dc5c867cb_Service_20post_20_2_.webp"
+                  <Image width={800} height={600} 
+                    src="/monavi/Waitlist%20Management.png"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -67,13 +68,13 @@ export default function ServicedetailHealthcareSection4() {
             </div>
             <div
               data-w-id="2a08bfca-bf6a-2290-ec76-7c10010b1251"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-healthcare-card-v2 rt-mobile-text-center"
             >
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
-                  <img
-                    src="/assets/696f3fadf343717fcadd620a_69ad9081b866c1885277977c_Service_20post_20_5_.webp"
+                  <Image width={800} height={600} 
+                    src="/monavi/patient.png"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -89,13 +90,13 @@ export default function ServicedetailHealthcareSection4() {
             </div>
             <div
               data-w-id="08c36d6d-7107-2ef4-c2bd-90f6d6d57ecd"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-healthcare-card-v2 rt-mobile-text-center"
             >
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
-                  <img
-                    src="/assets/696f3fadf343717fcadd620a_69ad90994ead77acb9c326ce_Service_20post_20_11_.webp"
+                  <Image width={800} height={600} 
+                    src="/monavi/Simplify%20doctor%20workflows%20and%20increase%20daily%20appointments.png"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -113,13 +114,13 @@ export default function ServicedetailHealthcareSection4() {
             </div>
             <div
               data-w-id="2655de11-b658-c1dd-0947-793502e920bb"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-healthcare-card-v2 rt-mobile-text-center"
             >
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
-                  <img
-                    src="/assets/696f3fadf343717fcadd620a_69ad90a6778c864921dcd526_Service_20post.webp"
+                  <Image width={800} height={600} 
+                    src="/monavi/No-Show%20Reduction.png"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -137,14 +138,14 @@ export default function ServicedetailHealthcareSection4() {
             </div>
             <div
               data-w-id="661047fc-15d0-a688-3b38-a84ef58dfbeb"
-              style={{ opacity: 0 }}
+              
               className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
             >
-              <img
-                src="/assets/696f017270bc35c55e784979_69aac3469e3ce9470750b408_Service_20card_202.webp"
+              <Image width={800} height={600} style={{ width: "100%", height: "auto" }} 
+                src="/monavi/Patient%20Rentation%20Service%20page.png"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
-                alt="Heltro-service-card"
+                alt="MONAVI-service-card"
               />
             </div>
           </div>
@@ -165,27 +166,27 @@ export default function ServicedetailHealthcareSection4() {
               <div className="slide w-slide">
                 <div
                   data-w-id="6da08038-9768-9f6f-3234-5881e946ffdb"
-                  style={{ opacity: 0 }}
+                  
                   className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
                 >
-                  <img
-                    src="/assets/696f017270bc35c55e784979_69aac3468dbf79dc892457f2_Service_20card.webp"
+                  <Image width={800} height={600} style={{ width: "100%", height: "auto" }} 
+                    src="/monavi/Workflow%20Automation%20service%20page.png"
                     loading="lazy"
                     sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
-                    alt="Heltro-service-card"
+                    alt="MONAVI-service-card"
                   />
                 </div>
               </div>
               <div className="w-slide">
                 <div
                   data-w-id="294d6516-1c99-355e-f3a8-be7b3e37227f"
-                  style={{ opacity: 0 }}
+                  
                   className="w-layout-vflex rt-healthcare-card-v2 rt-mobile-text-center"
                 >
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
-                      <img
-                        src="/assets/696f3fadf343717fcadd620a_69ad9071a88d829dc5c867cb_Service_20post_20_2_.webp"
+                      <Image width={800} height={600} 
+                        src="/monavi/Waitlist%20Management.png"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -205,13 +206,13 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-slide">
                 <div
                   data-w-id="9f9b7369-ad7e-4310-5899-915e20ec8ced"
-                  style={{ opacity: 0 }}
+                  
                   className="w-layout-vflex rt-healthcare-card-v2 rt-mobile-text-center"
                 >
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
-                      <img
-                        src="/assets/696f3fadf343717fcadd620a_69ad9081b866c1885277977c_Service_20post_20_5_.webp"
+                      <Image width={800} height={600} 
+                        src="/monavi/patient.png"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -231,13 +232,13 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-slide">
                 <div
                   data-w-id="2aec048d-b45b-1d6a-f768-520350d3a68f"
-                  style={{ opacity: 0 }}
+                  
                   className="w-layout-vflex rt-healthcare-card-v2 rt-mobile-text-center"
                 >
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
-                      <img
-                        src="/assets/696f3fadf343717fcadd620a_69ad90994ead77acb9c326ce_Service_20post_20_11_.webp"
+                      <Image width={800} height={600} 
+                        src="/monavi/Simplify%20doctor%20workflows%20and%20increase%20daily%20appointments.png"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -257,13 +258,13 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-slide">
                 <div
                   data-w-id="6c66589c-e5c2-a049-6734-a1970c60ce9b"
-                  style={{ opacity: 0 }}
+                  
                   className="w-layout-vflex rt-healthcare-card-v2 rt-mobile-text-center"
                 >
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
-                      <img
-                        src="/assets/696f3fadf343717fcadd620a_69ad90a6778c864921dcd526_Service_20post.webp"
+                      <Image width={800} height={600} 
+                        src="/monavi/No-Show%20Reduction.png"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -283,14 +284,14 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-slide">
                 <div
                   data-w-id="feb717ba-5716-e2da-88a7-2383e690d6d4"
-                  style={{ opacity: 0 }}
+                  
                   className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
                 >
-                  <img
-                    src="/assets/696f017270bc35c55e784979_69aac3469e3ce9470750b408_Service_20card_202.webp"
+                  <Image width={800} height={600} style={{ width: "100%", height: "auto" }} 
+                    src="/monavi/Patient%20Rentation%20Service%20page.png"
                     loading="lazy"
                     sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
-                    alt="Heltro-service-card"
+                    alt="MONAVI-service-card"
                   />
                 </div>
               </div>

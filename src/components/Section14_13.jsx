@@ -1,4 +1,6 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from "react";
+import Image from "next/image";
 
 export default function Section14_13() {
   return (
@@ -12,14 +14,14 @@ export default function Section14_13() {
             <div className="w-layout-vflex rt-pricing-top-content rt-text-center rt-top-content-gap">
               <div
                 data-w-id="4a6918b2-a37a-bb69-36eb-d98f4d3a8f07"
-                style={{ opacity: 0 }}
+                
                 className="rt-sub-text rt-small-tag-gap"
               >
                 Testimonials
               </div>
               <h2
                 data-w-id="4a6918b2-a37a-bb69-36eb-d98f4d3a8f09"
-                style={{ opacity: 0 }}
+                
                 className="rt-gap-off"
               >
                 What Clinic Teams Are Saying
@@ -43,7 +45,7 @@ export default function Section14_13() {
                 >
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -52,7 +54,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -61,7 +63,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -70,7 +72,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -79,7 +81,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -96,7 +98,7 @@ export default function Section14_13() {
                   <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                        <img
+                        <Image 
                           src="/images/monavi/patient_mobile_app_1781317975329.png"
                           loading="lazy"
                           width={50}
@@ -108,7 +110,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-hflex rt-comma-wrapper">
                       <div>
-                        <img
+                        <Image 
                           src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                           loading="lazy"
                           width={18}
@@ -117,7 +119,7 @@ export default function Section14_13() {
                         />
                       </div>
                       <div>
-                        <img
+                        <Image 
                           src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                           loading="lazy"
                           width={18}
@@ -134,7 +136,7 @@ export default function Section14_13() {
                 >
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -143,7 +145,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -152,7 +154,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -161,7 +163,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -170,7 +172,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -187,7 +189,7 @@ export default function Section14_13() {
                   <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                        <img
+                        <Image 
                           src="/images/monavi/hero_dashboard_mockup_1781317936748.png"
                           loading="lazy"
                           width={50}
@@ -199,7 +201,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-hflex rt-comma-wrapper">
                       <div>
-                        <img
+                        <Image 
                           src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                           loading="lazy"
                           width={18}
@@ -208,7 +210,7 @@ export default function Section14_13() {
                         />
                       </div>
                       <div>
-                        <img
+                        <Image 
                           src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                           loading="lazy"
                           width={18}
@@ -226,7 +228,7 @@ export default function Section14_13() {
                   >
                     <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                       <div className="w-layout-vflex">
-                        <img
+                        <Image 
                           src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                           loading="lazy"
                           width={18}
@@ -235,7 +237,7 @@ export default function Section14_13() {
                         />
                       </div>
                       <div className="w-layout-vflex">
-                        <img
+                        <Image 
                           src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                           loading="lazy"
                           width={18}
@@ -244,7 +246,7 @@ export default function Section14_13() {
                         />
                       </div>
                       <div className="w-layout-vflex">
-                        <img
+                        <Image 
                           src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                           loading="lazy"
                           width={18}
@@ -253,7 +255,7 @@ export default function Section14_13() {
                         />
                       </div>
                       <div className="w-layout-vflex">
-                        <img
+                        <Image 
                           src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                           loading="lazy"
                           width={18}
@@ -262,7 +264,7 @@ export default function Section14_13() {
                         />
                       </div>
                       <div className="w-layout-vflex">
-                        <img
+                        <Image 
                           src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                           loading="lazy"
                           width={18}
@@ -279,7 +281,7 @@ export default function Section14_13() {
                     <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                       <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                         <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                          <img
+                          <Image 
                             src="/images/monavi/receptionist_using_software_1781317951601.png"
                             loading="lazy"
                             width={50}
@@ -291,7 +293,7 @@ export default function Section14_13() {
                       </div>
                       <div className="w-layout-hflex rt-comma-wrapper">
                         <div>
-                          <img
+                          <Image 
                             src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                             loading="lazy"
                             width={18}
@@ -300,7 +302,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div>
-                          <img
+                          <Image 
                             src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                             loading="lazy"
                             width={18}
@@ -320,7 +322,7 @@ export default function Section14_13() {
                 >
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -329,7 +331,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -338,7 +340,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -347,7 +349,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -356,7 +358,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -373,7 +375,7 @@ export default function Section14_13() {
                   <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                        <img
+                        <Image 
                           src="/images/monavi/doctor_digital_prescription_1781317963970.png"
                           loading="lazy"
                           width={50}
@@ -385,7 +387,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-hflex rt-comma-wrapper">
                       <div>
-                        <img
+                        <Image 
                           src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                           loading="lazy"
                           width={18}
@@ -394,7 +396,7 @@ export default function Section14_13() {
                         />
                       </div>
                       <div>
-                        <img
+                        <Image 
                           src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                           loading="lazy"
                           width={18}
@@ -411,7 +413,7 @@ export default function Section14_13() {
                 >
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -420,7 +422,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -429,7 +431,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -438,7 +440,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -447,7 +449,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -464,7 +466,7 @@ export default function Section14_13() {
                   <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                        <img
+                        <Image 
                           src="/images/monavi/patient_mobile_app_1781317975329.png"
                           loading="lazy"
                           width={50}
@@ -476,7 +478,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-hflex rt-comma-wrapper">
                       <div>
-                        <img
+                        <Image 
                           src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                           loading="lazy"
                           width={18}
@@ -485,7 +487,7 @@ export default function Section14_13() {
                         />
                       </div>
                       <div>
-                        <img
+                        <Image 
                           src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                           loading="lazy"
                           width={18}
@@ -502,7 +504,7 @@ export default function Section14_13() {
                 >
                   <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -511,7 +513,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -520,7 +522,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -529,7 +531,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -538,7 +540,7 @@ export default function Section14_13() {
                       />
                     </div>
                     <div className="w-layout-vflex">
-                      <img
+                      <Image 
                         src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                         loading="lazy"
                         width={18}
@@ -555,7 +557,7 @@ export default function Section14_13() {
                   <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                     <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                       <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                        <img
+                        <Image 
                           src="/images/monavi/hero_dashboard_mockup_1781317936748.png"
                           loading="lazy"
                           width={50}
@@ -567,7 +569,7 @@ export default function Section14_13() {
                     </div>
                     <div className="w-layout-hflex rt-comma-wrapper">
                       <div>
-                        <img
+                        <Image 
                           src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                           loading="lazy"
                           width={18}
@@ -576,7 +578,7 @@ export default function Section14_13() {
                         />
                       </div>
                       <div>
-                        <img
+                        <Image 
                           src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                           loading="lazy"
                           width={18}
@@ -610,7 +612,7 @@ export default function Section14_13() {
                     >
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -619,7 +621,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -628,7 +630,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -637,7 +639,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -646,7 +648,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -664,7 +666,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                            <img
+                            <Image 
                               src="/images/monavi/receptionist_using_software_1781317951601.png"
                               loading="lazy"
                               width={50}
@@ -676,7 +678,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-hflex rt-comma-wrapper">
                           <div>
-                            <img
+                            <Image 
                               src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                               loading="lazy"
                               width={18}
@@ -685,7 +687,7 @@ export default function Section14_13() {
                             />
                           </div>
                           <div>
-                            <img
+                            <Image 
                               src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                               loading="lazy"
                               width={18}
@@ -704,7 +706,7 @@ export default function Section14_13() {
                     >
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -713,7 +715,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -722,7 +724,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -731,7 +733,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -740,7 +742,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -757,7 +759,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                            <img
+                            <Image 
                               src="/images/monavi/doctor_digital_prescription_1781317963970.png"
                               loading="lazy"
                               width={50}
@@ -769,7 +771,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-hflex rt-comma-wrapper">
                           <div>
-                            <img
+                            <Image 
                               src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                               loading="lazy"
                               width={18}
@@ -778,7 +780,7 @@ export default function Section14_13() {
                             />
                           </div>
                           <div>
-                            <img
+                            <Image 
                               src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                               loading="lazy"
                               width={18}
@@ -798,7 +800,7 @@ export default function Section14_13() {
                       >
                         <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                           <div className="w-layout-vflex">
-                            <img
+                            <Image 
                               src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                               loading="lazy"
                               width={18}
@@ -807,7 +809,7 @@ export default function Section14_13() {
                             />
                           </div>
                           <div className="w-layout-vflex">
-                            <img
+                            <Image 
                               src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                               loading="lazy"
                               width={18}
@@ -816,7 +818,7 @@ export default function Section14_13() {
                             />
                           </div>
                           <div className="w-layout-vflex">
-                            <img
+                            <Image 
                               src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                               loading="lazy"
                               width={18}
@@ -825,7 +827,7 @@ export default function Section14_13() {
                             />
                           </div>
                           <div className="w-layout-vflex">
-                            <img
+                            <Image 
                               src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                               loading="lazy"
                               width={18}
@@ -834,7 +836,7 @@ export default function Section14_13() {
                             />
                           </div>
                           <div className="w-layout-vflex">
-                            <img
+                            <Image 
                               src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                               loading="lazy"
                               width={18}
@@ -851,7 +853,7 @@ export default function Section14_13() {
                         <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                           <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                             <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                              <img
+                              <Image 
                                 src="/images/monavi/patient_mobile_app_1781317975329.png"
                                 loading="lazy"
                                 width={50}
@@ -863,7 +865,7 @@ export default function Section14_13() {
                           </div>
                           <div className="w-layout-hflex rt-comma-wrapper">
                             <div>
-                              <img
+                              <Image 
                                 src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                                 loading="lazy"
                                 width={18}
@@ -872,7 +874,7 @@ export default function Section14_13() {
                               />
                             </div>
                             <div>
-                              <img
+                              <Image 
                                 src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                                 loading="lazy"
                                 width={18}
@@ -892,7 +894,7 @@ export default function Section14_13() {
                     >
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -901,7 +903,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -910,7 +912,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -919,7 +921,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -928,7 +930,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -945,7 +947,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                            <img
+                            <Image 
                               src="/images/monavi/hero_dashboard_mockup_1781317936748.png"
                               loading="lazy"
                               width={50}
@@ -957,7 +959,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-hflex rt-comma-wrapper">
                           <div>
-                            <img
+                            <Image 
                               src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                               loading="lazy"
                               width={18}
@@ -966,7 +968,7 @@ export default function Section14_13() {
                             />
                           </div>
                           <div>
-                            <img
+                            <Image 
                               src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                               loading="lazy"
                               width={18}
@@ -985,7 +987,7 @@ export default function Section14_13() {
                     >
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -994,7 +996,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -1003,7 +1005,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -1012,7 +1014,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -1021,7 +1023,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -1038,7 +1040,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                            <img
+                            <Image 
                               src="/images/monavi/receptionist_using_software_1781317951601.png"
                               loading="lazy"
                               width={50}
@@ -1050,7 +1052,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-hflex rt-comma-wrapper">
                           <div>
-                            <img
+                            <Image 
                               src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                               loading="lazy"
                               width={18}
@@ -1059,7 +1061,7 @@ export default function Section14_13() {
                             />
                           </div>
                           <div>
-                            <img
+                            <Image 
                               src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                               loading="lazy"
                               width={18}
@@ -1078,7 +1080,7 @@ export default function Section14_13() {
                     >
                       <div className="w-layout-hflex rt-testimonials-star-icon-wrapper rt-star-icon-wrapper-gap">
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -1087,7 +1089,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -1096,7 +1098,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -1105,7 +1107,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -1114,7 +1116,7 @@ export default function Section14_13() {
                           />
                         </div>
                         <div className="w-layout-vflex">
-                          <img
+                          <Image 
                             src="/fonts/697c784eac18ec5792616359_Star%20Icon%20%283%29.svg"
                             loading="lazy"
                             width={18}
@@ -1131,7 +1133,7 @@ export default function Section14_13() {
                       <div className="w-layout-hflex rt-testimonials-patient-details-wrapper">
                         <div className="w-layout-hflex rt-testimonials-patient-photo-name">
                           <div className="rt-patitnet-photo-wrapper rt-overflow-hidden">
-                            <img
+                            <Image 
                               src="/images/monavi/doctor_digital_prescription_1781317963970.png"
                               loading="lazy"
                               width={50}
@@ -1143,7 +1145,7 @@ export default function Section14_13() {
                         </div>
                         <div className="w-layout-hflex rt-comma-wrapper">
                           <div>
-                            <img
+                            <Image 
                               src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                               loading="lazy"
                               width={18}
@@ -1152,7 +1154,7 @@ export default function Section14_13() {
                             />
                           </div>
                           <div>
-                            <img
+                            <Image 
                               src="/fonts/697c7aa94666b3deb731148b_Comma%20Iocn.svg"
                               loading="lazy"
                               width={18}

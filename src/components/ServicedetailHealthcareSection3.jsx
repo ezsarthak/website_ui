@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export default function ServicedetailHealthcareSection3() {
   return (
@@ -7,27 +8,27 @@ export default function ServicedetailHealthcareSection3() {
         <div className="w-layout-hflex rt-service-content-v2">
           <div
             data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3c8"
-            style={{ opacity: 0 }}
+            
             className="rt-service-left-image-wrapper rt-position-relative"
           >
             <div
               data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3c9"
               className="rt-service-image-box rt-1"
             >
-              <img
-                src="/assets/696f017270bc35c55e784979_69aab947154f197adf1eb83d_Care_20image.avif"
+              <Image 
+                src="/monavi/recep.png"
                 loading="lazy"
                 width={528}
                 height={550}
-                alt="Heltro-care-image"
+                alt="MONAVI-care-image"
               />
             </div>
             <div
               data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3cb"
               className="rt-service-image-box rt-image-absolute rt-2"
             >
-              <img
-                src="/assets/696f017270bc35c55e784979_699bd840c3e10b56b7359f15_IMAGE_20_4_.avif"
+              <Image 
+                src="/monavi/Queue_Tracking.png"
                 loading="lazy"
                 width={528}
                 height={550}
@@ -38,8 +39,8 @@ export default function ServicedetailHealthcareSection3() {
               data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3cd"
               className="rt-service-image-box rt-image-absolute rt-3"
             >
-              <img
-                src="/assets/696f017270bc35c55e784979_699bd83f2468f78a4a571a0a_IMAGE_20_5_.avif"
+              <Image 
+                src="/monavi/Automated%20Reminders.png"
                 loading="lazy"
                 width={528}
                 height={550}
@@ -50,14 +51,14 @@ export default function ServicedetailHealthcareSection3() {
               data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3cf"
               className="rt-service-image-box rt-image-absolute rt-4"
             >
-              <img
-                src="/assets/696f017270bc35c55e784979_699bd83eb90ae292cc1a8c9b_IMAGE_20_6_.avif"
+              <Image 
+                src="/monavi/Smart%20Analytics%20service%20page.png"
                 loading="lazy"
                 width={528}
                 height={550}
                 alt="Our Service image four"
                 data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3d0"
-                style={{ opacity: 0 }}
+                
               />
             </div>
           </div>
@@ -70,7 +71,7 @@ export default function ServicedetailHealthcareSection3() {
             <div className="w-layout-vflex rt-service-right-box">
               <div
                 data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3d2"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-service-points"
               >
                 <div className="w-layout-hflex rt-service-point-title">
@@ -90,7 +91,7 @@ export default function ServicedetailHealthcareSection3() {
               </div>
               <div
                 data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3d9"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-service-points"
               >
                 <div className="w-layout-hflex rt-service-point-title">
@@ -110,7 +111,7 @@ export default function ServicedetailHealthcareSection3() {
               </div>
               <div
                 data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3e0"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-service-points"
               >
                 <div className="w-layout-hflex rt-service-point-title">
@@ -130,7 +131,7 @@ export default function ServicedetailHealthcareSection3() {
               </div>
               <div
                 data-w-id="67618c67-f951-254a-f3e6-1525b2e0a3e7"
-                style={{ opacity: 0 }}
+                
                 className="w-layout-vflex rt-service-points"
               >
                 <div className="w-layout-hflex rt-service-point-title">

@@ -8,14 +8,14 @@ export default function ServicedetailHealthcareSection2() {
           <div className="w-layout-vflex rt-choose-us-title rt-text-center">
             <div
               data-w-id="f7699f98-e809-485b-9320-3ceeae4496d2"
-              style={{ opacity: 0 }}
+              
               className="rt-sub-text rt-small-tag-gap"
             >
               Why choose us
             </div>
             <div
               data-w-id="f7699f98-e809-485b-9320-3ceeae4496d4"
-              style={{ opacity: 0 }}
+              
               className="rt-position-relative rt-overflow-hidden"
             >
               <h2 className="rt-gap-off">
@@ -32,7 +32,7 @@ export default function ServicedetailHealthcareSection2() {
           </div>
           <div
             data-w-id="d9d0a822-9955-7199-9874-8b4d8faf7385"
-            style={{ opacity: 0 }}
+            
             className="w-layout-hflex rt-experience-wrapper"
           >
             <div className="w-layout-vflex rt-experience-box rt-mobile-text-center">
