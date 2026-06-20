@@ -40,7 +40,7 @@ export default function Section13_12() {
               </div>
               <div className="rt-psotion-absolute rt-one">
                 <Image 
-                  src="/fonts/696f50a3d546f3f075cd75c1_Ticker%20Icon.svg"
+                  src="/fonts/696f50a3d546f3f075cd75c1_Ticker_Icon.svg"
                   loading="lazy"
                   width={52}
                   height={51}
@@ -71,7 +71,7 @@ export default function Section13_12() {
               </div>
               <div className="rt-psotion-absolute rt-three">
                 <Image 
-                  src="/fonts/696f51c5022829ac984d9a8c_Ticker%20Two.svg"
+                  src="/fonts/696f51c5022829ac984d9a8c_Ticker_Two.svg"
                   loading="lazy"
                   width={52}
                   height={51}
@@ -93,7 +93,7 @@ export default function Section13_12() {
               </div>
               <div className="rt-psotion-absolute rt-four">
                 <Image 
-                  src="/fonts/696f51c6d80d7b14c627f02b_Star%20Icon.svg"
+                  src="/fonts/696f51c6d80d7b14c627f02b_Star_Icon.svg"
                   loading="lazy"
                   width={25}
                   height={25}

@@ -12,7 +12,7 @@ export default function ServiceSection1() {
         className="rt-contact-background-image-wrapper"
       >
         <Image 
-          src="/monavi/service_page_bg.png"
+          src="/monavi/service_page_bg.webp"
           alt="Service Banner Background"
           width={1920}
           height={843}

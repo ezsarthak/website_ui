@@ -38,7 +38,7 @@ export default function ServicedetailHealthcareSection4() {
               className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
             >
               <Image width={800} height={600} style={{ width: "100%", height: "auto" }} 
-                src="/monavi/Workflow%20Automation%20service%20page.png"
+                src="/monavi/Workflow_Automation_service_page.webp"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
                 alt="MONAVI-service-card"
@@ -52,7 +52,7 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
                   <Image width={800} height={600} 
-                    src="/monavi/Waitlist%20Management.png"
+                    src="/monavi/Waitlist_Management.webp"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -74,7 +74,7 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
                   <Image width={800} height={600} 
-                    src="/monavi/patient.png"
+                    src="/monavi/patient.webp"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -96,7 +96,7 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
                   <Image width={800} height={600} 
-                    src="/monavi/Simplify%20doctor%20workflows%20and%20increase%20daily%20appointments.png"
+                    src="/monavi/Simplify_doctor_workflows_and_increase_daily_appointments.webp"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -120,7 +120,7 @@ export default function ServicedetailHealthcareSection4() {
               <div className="w-layout-vflex rt-healthcare-top-text">
                 <div className="w-layout-vflex rt-healthcare-top-image">
                   <Image width={800} height={600} 
-                    src="/monavi/No-Show%20Reduction.png"
+                    src="/monavi/No-Show_Reduction.webp"
                     loading="lazy"
                     alt="image"
                     className="rt-border-radius-10"
@@ -142,7 +142,7 @@ export default function ServicedetailHealthcareSection4() {
               className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
             >
               <Image width={800} height={600} style={{ width: "100%", height: "auto" }} 
-                src="/monavi/Patient%20Rentation%20Service%20page.png"
+                src="/monavi/Patient_Rentation_Service_page.webp"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
                 alt="MONAVI-service-card"
@@ -170,7 +170,7 @@ export default function ServicedetailHealthcareSection4() {
                   className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
                 >
                   <Image width={800} height={600} style={{ width: "100%", height: "auto" }} 
-                    src="/monavi/Workflow%20Automation%20service%20page.png"
+                    src="/monavi/Workflow_Automation_service_page.webp"
                     loading="lazy"
                     sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
                     alt="MONAVI-service-card"
@@ -186,7 +186,7 @@ export default function ServicedetailHealthcareSection4() {
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
                       <Image width={800} height={600} 
-                        src="/monavi/Waitlist%20Management.png"
+                        src="/monavi/Waitlist_Management.webp"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -212,7 +212,7 @@ export default function ServicedetailHealthcareSection4() {
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
                       <Image width={800} height={600} 
-                        src="/monavi/patient.png"
+                        src="/monavi/patient.webp"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -238,7 +238,7 @@ export default function ServicedetailHealthcareSection4() {
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
                       <Image width={800} height={600} 
-                        src="/monavi/Simplify%20doctor%20workflows%20and%20increase%20daily%20appointments.png"
+                        src="/monavi/Simplify_doctor_workflows_and_increase_daily_appointments.webp"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -264,7 +264,7 @@ export default function ServicedetailHealthcareSection4() {
                   <div className="w-layout-vflex rt-healthcare-top-text">
                     <div className="w-layout-vflex rt-healthcare-top-image">
                       <Image width={800} height={600} 
-                        src="/monavi/No-Show%20Reduction.png"
+                        src="/monavi/No-Show_Reduction.webp"
                         loading="lazy"
                         alt="image"
                         className="rt-border-radius-10"
@@ -288,7 +288,7 @@ export default function ServicedetailHealthcareSection4() {
                   className="w-layout-vflex rt-healthcare-card rt-overflow-hidden"
                 >
                   <Image width={800} height={600} style={{ width: "100%", height: "auto" }} 
-                    src="/monavi/Patient%20Rentation%20Service%20page.png"
+                    src="/monavi/Patient_Rentation_Service_page.webp"
                     loading="lazy"
                     sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 836px, 100vw"
                     alt="MONAVI-service-card"

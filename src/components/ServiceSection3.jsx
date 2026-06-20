@@ -41,7 +41,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-                    src="/monavi/Automated%20Reminders.png"
+                    src="/monavi/Automated_Reminders.webp"
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -73,7 +73,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-                    src="/monavi/Waitlist%20Management.png"
+                    src="/monavi/Waitlist_Management.webp"
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -105,7 +105,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-                    src="/monavi/Real-Time%20Tracking.png"
+                    src="/monavi/Real-Time_Tracking.webp"
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -137,7 +137,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-                    src="/monavi/No-Show%20Reduction.png"
+                    src="/monavi/No-Show_Reduction.webp"
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div
@@ -169,7 +169,7 @@ export default function ServiceSection3() {
                     width={410}
                     height={660}
                     alt="Yoga Image"
-                    src="/monavi/Doctor%20Dashboard.png"
+                    src="/monavi/Doctor_Dashboard.webp"
                     className="rt-slider-v1-image rt-tab-image-auto"
                   />
                   <div

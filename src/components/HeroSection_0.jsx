@@ -6,10 +6,11 @@ export default function HeroSection_0() {
     <section className="rt-hero rt-overflow-hidden rt-position-relative">
       <div className="rt-home-one-background-image-wrapper-v2">
         <Image 
-          src="/monavi/bg.png"
+          src="/monavi/bg.webp"
           alt="BANNER"
           width={1920}
           height={1080}
+          priority={true}
           style={{ width: '100%', height: 'auto', objectFit: 'contain', transform: 'translateY(110px)' }}
         />
       </div>
@@ -57,7 +58,7 @@ export default function HeroSection_0() {
                   <div className="w-layout-hflex rt-bottom-button-icon-wrapper">
                     <div className="w-layout-vflex rt-icon-wrapper">
                       <Image 
-                        src="/fonts/69a143e06d269cdcb6e0d162_Group%2016%20%282%29.svg"
+                        src="/fonts/69a143e06d269cdcb6e0d162_Group_16_2.svg"
                         loading="lazy"
                         width={19}
                         height={18}
@@ -78,7 +79,7 @@ export default function HeroSection_0() {
                   <div className="w-layout-hflex rt-bottom-button-icon-wrapper">
                     <div className="w-layout-vflex rt-icon-wrapper">
                       <Image 
-                        src="/fonts/69a143e09df366f2a0a37963_Group%201597885431.svg"
+                        src="/fonts/69a143e09df366f2a0a37963_Group_1597885431.svg"
                         loading="lazy"
                         width={19}
                         height={16}
@@ -101,7 +102,7 @@ export default function HeroSection_0() {
                   <div className="w-layout-hflex rt-bottom-button-icon-wrapper">
                     <div className="w-layout-vflex rt-icon-wrapper">
                       <Image 
-                        src="/fonts/69a143e0877eeaaad829b74f_Group%201597885272.svg"
+                        src="/fonts/69a143e0877eeaaad829b74f_Group_1597885272.svg"
                         loading="lazy"
                         width={19}
                         height={15}
@@ -122,7 +123,7 @@ export default function HeroSection_0() {
                   <div className="w-layout-hflex rt-bottom-button-icon-wrapper">
                     <div className="w-layout-vflex rt-icon-wrapper">
                       <Image 
-                        src="/fonts/69a143e0bfa82469f14fae39_Group%201597885431%20%281%29.svg"
+                        src="/fonts/69a143e0bfa82469f14fae39_Group_1597885431_1.svg"
                         loading="lazy"
                         width={18}
                         height={19}
@@ -146,7 +147,7 @@ export default function HeroSection_0() {
               className="rt-scroll-button-wrapper rt-position-relative rt-mobile-potrait-display-off w-inline-block"
             >
               <Image 
-                src="/fonts/697854b5b7e195383d30a67f_Group%201597885275.svg"
+                src="/fonts/697854b5b7e195383d30a67f_Group_1597885275.svg"
                 loading="lazy"
                 width={135}
                 height={135}
@@ -167,7 +168,7 @@ export default function HeroSection_0() {
               <div className="w-layout-vflex rt-scroll-button-arrow-wrapper">
                 <div className="rt-hero-scroll-icon-wrapper">
                   <Image 
-                    src="/fonts/697854b5cbc03af41f48e1f0_Circle%20Text.svg"
+                    src="/fonts/697854b5cbc03af41f48e1f0_Circle_Text.svg"
                     loading="lazy"
                     width={28}
                     height={28}

@@ -8,7 +8,7 @@ export default function AboutSection_1() {
         <div className="w-layout-hflex rt-about-us-main">
           <div className="rt-about-us-left-image-wrapper rt-overflow-hidden">
             <Image 
-              src="/monavi/recep.png"
+              src="/monavi/recep.webp"
               loading="lazy"
               width={520}
               height={588}
@@ -84,7 +84,7 @@ export default function AboutSection_1() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector%20%2837%29.svg"
+                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37.svg"
                       loading="lazy"
                       width={7}
                       height={7}
@@ -121,7 +121,7 @@ export default function AboutSection_1() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector%20%2837%29.svg"
+                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37.svg"
                       loading="lazy"
                       width={7}
                       height={7}
@@ -158,7 +158,7 @@ export default function AboutSection_1() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector%20%2837%29.svg"
+                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37.svg"
                       loading="lazy"
                       width={7}
                       height={7}
@@ -195,7 +195,7 @@ export default function AboutSection_1() {
                     className="w-layout-hflex rt-tick-icon-wrapper"
                   >
                     <Image 
-                      src="/fonts/69732fab82253a3a30eabc1b_Vector%20%2837%29.svg"
+                      src="/fonts/69732fab82253a3a30eabc1b_Vector_37.svg"
                       loading="lazy"
                       width={7}
                       height={7}
@@ -211,7 +211,7 @@ export default function AboutSection_1() {
               <div className="w-layout-vflex rt-about-us-bottom-image-content-wrapper">
                 <div className="rt-overflow-hidden rt-border-radius-10 rt-about-us-image">
                   <Image 
-                    src="/monavi/patient.png"
+                    src="/monavi/patient.webp"
                     width={300}
                     height={202}
                     alt="front-view-smiley-doctor"

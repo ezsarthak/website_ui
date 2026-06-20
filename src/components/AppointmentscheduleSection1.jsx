@@ -22,7 +22,7 @@ export default function AppointmentscheduleSection1() {
         className="rt-contact-background-image-wrapper"
       >
         <Image 
-          src="/monavi/bg.png"
+          src="/monavi/bg.webp"
           sizes="(max-width: 1919px) 100vw, 1920px"
           width={1920}
           height={687}
@@ -62,7 +62,7 @@ export default function AppointmentscheduleSection1() {
                 data-wf-ignore="true"
                 className="rt-pricing-video w-background-video w-background-video-atom"
               >
-                <Image width={800} height={600}  src="/monavi/recep_efficiency.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
+                <Image width={800} height={600}  src="/monavi/recep_efficiency.webp" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
                 <noscript>
                   &lt;style&gt; [data-wf-bgvideo-fallback-img] {"{"}
                   display: none;
@@ -73,7 +73,7 @@ export default function AppointmentscheduleSection1() {
                   height: 100%; width: 100%; object-fit: cover;
                   {"}"}
                   {"}"}&lt;/style&gt;&lt;img data-wf-bgvideo-fallback-img="true"
-                  src="/monavi/recep_efficiency.png"
+                  src="/monavi/recep_efficiency.webp"
                   alt="image"&gt;
                 </noscript>
                 <div aria-live="polite">

@@ -79,7 +79,7 @@ export default function AboutSection3() {
                     width={1290}
                     height={606}
                     alt="pulseon about one grow image"
-                    src="/monavi/Automate%20patient%20tracking%20and%20reduce%20clinic%20chaos.png"
+                    src="/monavi/Automate_patient_tracking_and_reduce_clinic_chaos.webp"
                     loading="lazy"
                     className="rt-move-image-2 rt-image-position"
                   />
@@ -160,7 +160,7 @@ export default function AboutSection3() {
                 width={408}
                 height={445}
                 alt="pulseon about one grow image"
-                src="/monavi/Keep%20patients%20returning%20with%20smart%20automated%20follow-ups.png"
+                src="/monavi/Keep_patients_returning_with_smart_automated_follow-ups.webp"
                 loading="lazy"
                 className="rt-tab-full-image"
               />
@@ -237,7 +237,7 @@ export default function AboutSection3() {
                 width={408}
                 height={445}
                 alt="pulseon about one grow image"
-                src="/monavi/Simplify%20doctor%20workflows%20and%20increase%20daily%20appointments.png"
+                src="/monavi/Simplify_doctor_workflows_and_increase_daily_appointments.webp"
                 loading="lazy"
                 className="rt-tab-full-image"
               />

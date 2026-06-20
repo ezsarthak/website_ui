@@ -35,7 +35,7 @@ export default function ServicedetailHealthcareSection1() {
             className="w-layout-hflex rt-data-banner-image-box rt-border-radius-10 rt-overflow-hidden"
           >
             <Image width={800} height={600} 
-              src="/monavi/service_page_bg.png"
+              src="/monavi/service_page_bg.webp"
               loading="lazy"
               alt="Service data banner"
             />

@@ -39,7 +39,7 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-1">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-1">
                 <Image 
-                  src="/monavi/Automated_Reminders.png"
+                  src="/monavi/Automated_Reminders.webp"
                   loading="lazy"
                   width={378}
                   height={480}
@@ -74,7 +74,7 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-2">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-2">
                 <Image 
-                  src="/monavi/Reduce_Chaos.png"
+                  src="/monavi/Reduce_Chaos.webp"
                   loading="lazy"
                   width={378}
                   height={480}
@@ -109,7 +109,7 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-3">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-3">
                 <Image 
-                  src="/monavi/Patient_Retention.png"
+                  src="/monavi/Patient_Retention.webp"
                   loading="lazy"
                   width={378}
                   height={480}
@@ -144,7 +144,7 @@ export default function AboutSection1() {
             <div className="w-layout-vflex rt-about-hero-card-one rt-4">
               <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-4">
                 <Image 
-                  src="/monavi/Queue_Tracking.png"
+                  src="/monavi/Queue_Tracking.webp"
                   loading="lazy"
                   width={378}
                   height={480}
@@ -195,7 +195,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-1">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-1">
                     <Image 
-                      src="/monavi/Automated_Reminders.png"
+                      src="/monavi/Automated_Reminders.webp"
                       loading="lazy"
                       width={378}
                       height={480}
@@ -232,7 +232,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-2">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-2">
                     <Image 
-                      src="/monavi/Reduce_Chaos.png"
+                      src="/monavi/Reduce_Chaos.webp"
                       loading="lazy"
                       width={378}
                       height={480}
@@ -271,7 +271,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-3">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-3">
                     <Image 
-                      src="/monavi/Patient_Retention.png"
+                      src="/monavi/Patient_Retention.webp"
                       loading="lazy"
                       width={378}
                       height={480}
@@ -310,7 +310,7 @@ export default function AboutSection1() {
                 <div className="w-layout-vflex rt-about-hero-card-one rt-4">
                   <div className="w-layout-vflex rt-hero-about-card-image-wrapper rt-4">
                     <Image 
-                      src="/monavi/Queue_Tracking.png"
+                      src="/monavi/Queue_Tracking.webp"
                       loading="lazy"
                       width={378}
                       height={480}

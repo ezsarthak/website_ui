@@ -88,7 +88,7 @@ export default function ServiceSection2() {
                         className="w-layout-vflex rt-service-details-content-right rt-border-radius-10"
                       >
                         <Image 
-                          src="/monavi/Workflow%20Automation%20service%20page.png"
+                          src="/monavi/Workflow_Automation_service_page.webp"
                           loading="lazy"
                           width={322}
                           height={250}
@@ -138,7 +138,7 @@ export default function ServiceSection2() {
                         className="w-layout-vflex rt-service-details-content-right rt-border-radius-10"
                       >
                         <Image 
-                          src="/monavi/Patient%20Rentation%20Service%20page.png"
+                          src="/monavi/Patient_Rentation_Service_page.webp"
                           loading="lazy"
                           width={322}
                           height={250}
@@ -188,7 +188,7 @@ export default function ServiceSection2() {
                         className="w-layout-vflex rt-service-details-content-right rt-border-radius-10"
                       >
                         <Image 
-                          src="/monavi/Smart%20Analytics%20service%20page.png"
+                          src="/monavi/Smart_Analytics_service_page.webp"
                           loading="lazy"
                           width={322}
                           height={250}

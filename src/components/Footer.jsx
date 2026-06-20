@@ -25,14 +25,14 @@ export default function Footer() {
                 width={150} height={45}
                 style={{ maxHeight: '45px', width: 'auto' }}
                 alt="MONAVI"
-                src="/monavi/monavi_logo.png"
+                src="/monavi/monavi_logo.webp"
                 loading="lazy"
               />
               <Image 
                 width={150} height={28}
                 style={{ maxHeight: '28px', width: 'auto', marginLeft: '10px' }}
                 alt="MONAVI NAME"
-                src="/monavi/monavi_name.png"
+                src="/monavi/monavi_name.webp"
                 loading="lazy"
               />
             </div>

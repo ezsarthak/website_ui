@@ -22,7 +22,7 @@ export default function ContactSection1() {
         className="rt-contact-background-image-wrapper"
       >
         <Image 
-          src="/monavi/service_page_bg.png"
+          src="/monavi/service_page_bg.webp"
           alt="Contact Banner Background"
           width={1920}
           height={687}
@@ -61,7 +61,7 @@ export default function ContactSection1() {
                 data-wf-ignore="true"
                 className="rt-pricing-video w-background-video w-background-video-atom"
               >
-                <Image width={800} height={600}  src="/monavi/patient.png" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
+                <Image width={800} height={600}  src="/monavi/patient.webp" className="w-background-video" style={{width: '100%', height: '100%', objectFit: 'cover'}} alt="monavi-image" />
                 <noscript>
                   &lt;style&gt; [data-wf-bgvideo-fallback-img] {"{"}
                   display: none;
@@ -72,7 +72,7 @@ export default function ContactSection1() {
                   height: 100%; width: 100%; object-fit: cover;
                   {"}"}
                   {"}"}&lt;/style&gt;&lt;img data-wf-bgvideo-fallback-img="true"
-                  src="/monavi/patient.png"
+                  src="/monavi/patient.webp"
                   alt="image"&gt;
                 </noscript>
                 <div aria-live="polite">

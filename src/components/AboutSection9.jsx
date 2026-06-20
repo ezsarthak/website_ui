@@ -14,7 +14,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="Monavi Logo"
-              src="/monavi/monavi_logo.png"
+              src="/monavi/monavi_logo.webp"
               loading="lazy"
             />
           </div>
@@ -26,7 +26,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="Monavi Logo"
-              src="/monavi/monavi_logo.png"
+              src="/monavi/monavi_logo.webp"
               loading="lazy"
             />
           </div>
@@ -40,7 +40,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="Monavi Logo"
-              src="/monavi/monavi_logo.png"
+              src="/monavi/monavi_logo.webp"
               loading="lazy"
             />
           </div>
@@ -52,7 +52,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="Monavi Logo"
-              src="/monavi/monavi_logo.png"
+              src="/monavi/monavi_logo.webp"
               loading="lazy"
             />
           </div>
@@ -66,7 +66,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="Monavi Logo"
-              src="/monavi/monavi_logo.png"
+              src="/monavi/monavi_logo.webp"
               loading="lazy"
             />
           </div>
@@ -78,7 +78,7 @@ export default function AboutSection9() {
               width={122}
               height={121}
               alt="Monavi Logo"
-              src="/monavi/monavi_logo.png"
+              src="/monavi/monavi_logo.webp"
               loading="lazy"
             />
           </div>

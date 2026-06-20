@@ -15,7 +15,7 @@ export default function Section11_10() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker%20Three.svg"
+                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
                 loading="lazy"
               />
             </div>
@@ -27,7 +27,7 @@ export default function Section11_10() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker%20Three.svg"
+                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
                 loading="lazy"
               />
             </div>
@@ -39,7 +39,7 @@ export default function Section11_10() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker%20Three.svg"
+                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
                 loading="lazy"
               />
             </div>
@@ -53,7 +53,7 @@ export default function Section11_10() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker%20Three.svg"
+                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
                 loading="lazy"
               />
             </div>
@@ -65,7 +65,7 @@ export default function Section11_10() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker%20Three.svg"
+                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
                 loading="lazy"
               />
             </div>
@@ -77,7 +77,7 @@ export default function Section11_10() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker%20Three.svg"
+                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
                 loading="lazy"
               />
             </div>
@@ -91,7 +91,7 @@ export default function Section11_10() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker%20Three.svg"
+                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
                 loading="lazy"
               />
             </div>
@@ -103,7 +103,7 @@ export default function Section11_10() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker%20Three.svg"
+                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
                 loading="lazy"
               />
             </div>
@@ -115,7 +115,7 @@ export default function Section11_10() {
                 width={122}
                 height={121}
                 alt="Ticker Three"
-                src="/fonts/697064c69b80db74daf1d2fa_Ticker%20Three.svg"
+                src="/fonts/697064c69b80db74daf1d2fa_Ticker_Three.svg"
                 loading="lazy"
               />
             </div>

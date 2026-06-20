@@ -12,7 +12,7 @@ export default function Section10_9() {
               className="rt-grid-item-one rt-overflow-hidden"
             >
               <Image width={800} height={600} 
-                src="/monavi/Workflow%20Automation%20service%20page.png"
+                src="/monavi/Workflow_Automation_service_page.webp"
                 loading="lazy"
                 sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 608px"
                 alt="monavi-image"
@@ -48,7 +48,7 @@ export default function Section10_9() {
                 </div>
                 <div className="rt-heart-icon-wrapper">
                   <Image width={800} height={600} 
-                    src="/fonts/699d53a8f9eecfd18f9aa453_Group%2016%20%281%29.svg"
+                    src="/fonts/699d53a8f9eecfd18f9aa453_Group_16_1.svg"
                     loading="lazy"
                     alt="Heart Icon"
                   />
@@ -75,7 +75,7 @@ export default function Section10_9() {
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
                 <Image 
-                  src="/fonts/696f7b4bb5f35f3d5fb74aab_Darmatology%20icon.svg"
+                  src="/fonts/696f7b4bb5f35f3d5fb74aab_Darmatology_icon.svg"
                   loading="lazy"
                   width={51}
                   height={51}
@@ -97,7 +97,7 @@ export default function Section10_9() {
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
                 <Image 
-                  src="/fonts/696f7e1279916125fded0bb6_Cardiology%20Icon.svg"
+                  src="/fonts/696f7e1279916125fded0bb6_Cardiology_Icon.svg"
                   loading="lazy"
                   width={51}
                   height={47}
@@ -119,7 +119,7 @@ export default function Section10_9() {
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
                 <Image 
-                  src="/fonts/696f7f1113e093a41616f2c6_Orthopedic%20care.svg"
+                  src="/fonts/696f7f1113e093a41616f2c6_Orthopedic_care.svg"
                   loading="lazy"
                   width={51}
                   height={51}
@@ -141,7 +141,7 @@ export default function Section10_9() {
             >
               <div className="rt-doctor-potfolio-icon-wrapper rt-doctor-potfolio-icon-gap">
                 <Image 
-                  src="/fonts/696f7f119a2cade9e09e2271_Neurology%20care.svg"
+                  src="/fonts/696f7f119a2cade9e09e2271_Neurology_care.svg"
                   loading="lazy"
                   width={51}
                   height={51}

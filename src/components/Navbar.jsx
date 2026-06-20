@@ -29,14 +29,14 @@ export default function Navbar() {
                 width={150} height={56}
                 style={{ maxHeight: '56px', width: 'auto' }}
                 alt="MONAVI"
-                src="/monavi/monavi_logo.png"
+                src="/monavi/monavi_logo.webp"
                 loading="lazy"
               />
               <Image 
                 width={150} height={36}
                 style={{ maxHeight: '36px', width: 'auto', marginLeft: '6px' }}
                 alt="MONAVI NAME"
-                src="/monavi/monavi_name.png"
+                src="/monavi/monavi_name.webp"
                 loading="lazy"
               />
             </a>
@@ -105,7 +105,7 @@ export default function Navbar() {
                     width={29}
                     height={28}
                     alt="Call Icon"
-                    src="/fonts/697854b5d9bb3d8fd437b799_Call%20Icon.svg"
+                    src="/fonts/697854b5d9bb3d8fd437b799_Call_Icon.svg"
                     loading="lazy"
                     data-w-id="4895d25e-2177-434f-4904-e848d905b354"
                   />
@@ -144,7 +144,7 @@ export default function Navbar() {
                           width={11}
                           height={16}
                           alt=""
-                          src="/fonts/6985adfaaef9ef7e15b10623_6936a9fdfd2db0b87d8552bd_FB%20logo.svg"
+                          src="/fonts/6985adfaaef9ef7e15b10623_6936a9fdfd2db0b87d8552bd_FB_logo.svg"
                           loading="lazy"
                         />
                       </div>

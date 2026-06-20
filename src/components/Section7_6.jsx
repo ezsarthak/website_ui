@@ -78,7 +78,7 @@ export default function Section7_6() {
                         width={21}
                         height={26}
                         alt="Pause video"
-                        src="/fonts/697b1fc5d954768f4cfc2ebe_Play%20Icon.svg"
+                        src="/fonts/697b1fc5d954768f4cfc2ebe_Play_Icon.svg"
                         loading="lazy"
                         className="rt-play-icon"
                       />
@@ -88,7 +88,7 @@ export default function Section7_6() {
                         width={21}
                         height={26}
                         alt="Pause video"
-                        src="/fonts/697b1fc5d954768f4cfc2ebe_Play%20Icon.svg"
+                        src="/fonts/697b1fc5d954768f4cfc2ebe_Play_Icon.svg"
                         loading="lazy"
                         className="rt-play-icon"
                       />

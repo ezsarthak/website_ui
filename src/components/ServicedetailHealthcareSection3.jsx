@@ -16,7 +16,7 @@ export default function ServicedetailHealthcareSection3() {
               className="rt-service-image-box rt-1"
             >
               <Image 
-                src="/monavi/recep.png"
+                src="/monavi/recep.webp"
                 loading="lazy"
                 width={528}
                 height={550}
@@ -28,7 +28,7 @@ export default function ServicedetailHealthcareSection3() {
               className="rt-service-image-box rt-image-absolute rt-2"
             >
               <Image 
-                src="/monavi/Queue_Tracking.png"
+                src="/monavi/Queue_Tracking.webp"
                 loading="lazy"
                 width={528}
                 height={550}
@@ -40,7 +40,7 @@ export default function ServicedetailHealthcareSection3() {
               className="rt-service-image-box rt-image-absolute rt-3"
             >
               <Image 
-                src="/monavi/Automated%20Reminders.png"
+                src="/monavi/Automated_Reminders.webp"
                 loading="lazy"
                 width={528}
                 height={550}
@@ -52,7 +52,7 @@ export default function ServicedetailHealthcareSection3() {
               className="rt-service-image-box rt-image-absolute rt-4"
             >
               <Image 
-                src="/monavi/Smart%20Analytics%20service%20page.png"
+                src="/monavi/Smart_Analytics_service_page.webp"
                 loading="lazy"
                 width={528}
                 height={550}
